@@ -1,0 +1,131 @@
+2016-10-14 13:27:57,037 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:27:57,078 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:28:08,394 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:28:08,415 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:28:19,497 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:28:19,498 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:35:34,281 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:35:34,312 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:35:45,359 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:35:45,370 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:35:56,788 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:35:56,789 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:36:07,883 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:36:07,884 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:36:18,967 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:36:18,968 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:36:30,031 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:36:30,064 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:36:41,186 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:36:41,187 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:36:52,266 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:36:52,267 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:37:03,360 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:37:03,361 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:37:14,429 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-14 13:37:14,430 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-14 13:37:27,290 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'YYS20161010013')]/parent::node()/parent::node()],元素不可见!
+2016-10-14 16:30:21,366 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:343)] 实际值
+2016-10-14 16:30:21,366 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:344)] 预期日期11月16日
+2016-10-14 16:30:21,366 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:345)] 预期笔数0笔
+2016-10-14 16:30:21,366 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:346)] 预期金额0.00
+2016-10-14 16:30:21,366 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:347)] 预期状态已回
+2016-10-14 16:30:21,366 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:348)] 预期值与实际值不匹配
+2016-10-14 16:30:21,366 ERROR [com.autotest.testcases.YYS005_Repay_Business.checkUser(YYS005_Repay_Business.java:428)] 【回款日历】校验失败
+2016-10-14 16:30:35,959 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //div[@class='page pageWraper']/a[text()='>']],元素不存在!
+2016-10-14 16:30:46,728 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[3]/em],元素不可见!
+2016-10-14 16:30:46,807 ERROR [com.autotest.testcases.YYS005_Repay_Business.test(YYS005_Repay_Business.java:91)] Unable to locate element: {"method":"xpath","selector":"//div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[3]/em"}
+Command duration or timeout: 1 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[3]/em}
+Session ID: a672ba37-ea16-457c-a44b-e60098001ded
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[3]/em"}
+Command duration or timeout: 1 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[3]/em}
+Session ID: a672ba37-ea16-457c-a44b-e60098001ded
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+	at sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getWebElement(KeyWords.java:222)
+	at com.autotest.service.xhhService.RepayPlanService.checkUserRepayFinanceRecord(RepayPlanService.java:1215)
+	at com.autotest.testcases.YYS005_Repay_Business.checkUser(YYS005_Repay_Business.java:467)
+	at com.autotest.testcases.YYS005_Repay_Business.toRepayBusiness(YYS005_Repay_Business.java:341)
+	at com.autotest.testcases.YYS005_Repay_Business.test(YYS005_Repay_Business.java:75)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[3]/em"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous5285845790249160208webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous5285845790249160208webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous5285845790249160208webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous5285845790249160208webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous5285845790249160208webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+2016-10-14 16:31:01,709 ERROR [com.autotest.testcases.YYS005_Repay_Business.test(YYS005_Repay_Business.java:99)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread1_20161014163101.jpg
+2016-10-14 16:37:49,173 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:343)] 实际值
+2016-10-14 16:37:49,173 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:344)] 预期日期11月16日
+2016-10-14 16:37:49,173 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:345)] 预期笔数0笔
+2016-10-14 16:37:49,173 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:346)] 预期金额0.00
+2016-10-14 16:37:49,173 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:347)] 预期状态已回
+2016-10-14 16:37:49,173 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:348)] 预期值与实际值不匹配
+2016-10-14 16:37:49,173 ERROR [com.autotest.testcases.YYS005_Repay_Business.checkUser(YYS005_Repay_Business.java:428)] 【回款日历】校验失败
+2016-10-14 16:38:01,848 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //a[contains(text(),'YYS20161014011')]],元素不可见!
+2016-10-14 16:38:01,849 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //a[contains(text(),'YYS20161014011')]],元素不存在!
+2016-10-14 16:38:02,879 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-10-14 16:38:02,879 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInInvestRecord(UserAccountService.java:328)] 【理财记录】未找到项目YYS20161014011
+2016-10-14 16:38:02,879 ERROR [com.autotest.testcases.YYS005_Repay_Business.checkUser(YYS005_Repay_Business.java:452)] 【理财记录】校验数据失败
+2016-10-14 16:38:10,339 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //div[@class='page pageWraper']/a[text()='>']],元素不存在!
+2016-10-14 16:38:10,744 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] 交易金额期望值:null;与实际值:-12500.00不等！
+2016-10-14 16:38:10,744 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] 账户余额期望值:null;与实际值:37500.00不等！
+2016-10-14 16:38:10,744 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] 类型期望值:null;与实际值:投资不等！
+2016-10-14 16:38:10,744 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] 时间期望值:null;与实际值:2016-10-14不等！
+2016-10-14 16:38:10,744 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] 摘要期望值:null;与实际值:投资项目 “YYS20161014009”不等！
+2016-10-14 16:38:10,744 ERROR [com.autotest.testcases.YYS005_Repay_Business.checkUser(YYS005_Repay_Business.java:471)] 【资金记录】校验数据失败
+2016-10-14 16:38:27,779 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:343)] 实际值
+2016-10-14 16:38:27,779 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:344)] 预期日期11月16日
+2016-10-14 16:38:27,779 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:345)] 预期笔数0笔
+2016-10-14 16:38:27,779 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:346)] 预期金额0.00
+2016-10-14 16:38:27,779 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:347)] 预期状态已回
+2016-10-14 16:38:27,779 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:348)] 预期值与实际值不匹配
+2016-10-14 16:38:27,779 ERROR [com.autotest.testcases.YYS005_Repay_Business.checkUser(YYS005_Repay_Business.java:428)] 【回款日历】校验失败
+2016-10-14 16:38:40,212 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //a[contains(text(),'YYS20161014011')]],元素不可见!
+2016-10-14 16:38:40,213 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //a[contains(text(),'YYS20161014011')]],元素不存在!
+2016-10-14 16:38:41,243 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-10-14 16:38:41,243 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInInvestRecord(UserAccountService.java:328)] 【理财记录】未找到项目YYS20161014011
+2016-10-14 16:38:41,243 ERROR [com.autotest.testcases.YYS005_Repay_Business.checkUser(YYS005_Repay_Business.java:452)] 【理财记录】校验数据失败

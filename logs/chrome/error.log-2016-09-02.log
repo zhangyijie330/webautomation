@@ -1,0 +1,49 @@
+2016-09-02 09:28:41,010 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: work_frame],元素不可见!
+2016-09-02 09:28:41,612 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.id: work_frame],元素不存在!
+2016-09-02 09:28:45,630 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:114)] loanprofit期望值:69.84;与实际值:69.83不等！
+2016-09-02 09:28:45,630 ERROR [com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:75)] 【项目放款】放款字段校验失败！
+2016-09-02 09:29:09,595 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-02 09:29:21,909 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-02 09:29:22,328 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-02 10:06:07,474 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: work_frame],元素不可见!
+2016-09-02 10:06:08,042 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.id: work_frame],元素不存在!
+2016-09-02 10:06:11,604 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:114)] loanprofit期望值:69.85;与实际值:69.83不等！
+2016-09-02 10:06:11,605 ERROR [com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:74)] 【项目放款】放款字段校验失败！
+2016-09-02 10:06:34,795 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-02 10:06:47,512 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-02 10:06:47,949 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-02 10:07:10,280 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //span[contains(text(),'2016-09-02 10:17')]/parent::*],元素不可见!
+2016-09-02 10:07:10,648 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //span[contains(text(),'2016-09-02 10:17')]/parent::*],元素不存在!
+2016-09-02 14:47:45,729 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-02 14:48:03,769 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不可见!
+2016-09-02 14:48:04,347 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不存在!
+2016-09-02 14:48:04,348 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:112)] 【投资管理】存在理财记录
+2016-09-02 14:48:15,631 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不可见!
+2016-09-02 14:48:16,167 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不存在!
+2016-09-02 14:48:16,167 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:122)] 【投资管理】存在资金记录
+2016-09-02 14:48:27,150 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:81)] 期望值:我要理财-投资成功;与实际值:日益升 -鑫股一号-鑫合汇不等！
+2016-09-02 14:48:27,378 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:242)] 用户18575461911投资失败
+2016-09-02 14:48:27,974 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:341)] 投资失败
+java.lang.Exception: 投资失败
+	at com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:246)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-02 15:53:03,471 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!

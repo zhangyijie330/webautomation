@@ -1,0 +1,328 @@
+2016-09-21 10:21:40,572 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:115)] ******************************************************************************
+2016-09-21 10:21:40,577 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:116)] Create a Driver, Browser:firefox
+2016-09-21 10:21:42,611 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from product_temp where product_id='RYS009'] Successfully!
+2016-09-21 10:21:44,149 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:121)] open url - http://10.13.28.102:8080/
+2016-09-21 10:21:44,682 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-21 10:21:44,857 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-21 10:21:44,897 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-21 10:21:47,328 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-21 10:21:48,405 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-21 10:21:48,615 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-21 10:21:50,545 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-21 10:21:50,556 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-21 10:21:50,706 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select user_temp.uid,user_product.invest_amount from user_temp left join user_product on user_product.user_number=user_temp.user_number where product_number='RYS009'] Successfully!
+2016-09-21 10:21:51,133 INFO [com.autotest.utility.SSHUtil.sshCurrentDate(SSHUtil.java:103)] ssh已经连接OK
+2016-09-21 10:21:51,623 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[contains(text(),'流程管理')]]
+2016-09-21 10:21:52,370 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //ul[@id='menu158']/li[2]/div/span[3]]
+2016-09-21 10:21:55,655 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素可见!
+2016-09-21 10:21:55,937 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input] to [上海鑫合汇网络科技有限公司]
+2016-09-21 10:21:55,967 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]],元素可见!
+2016-09-21 10:21:56,077 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]] to [2016-09-20]
+2016-09-21 10:21:56,097 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]],元素可见!
+2016-09-21 10:21:56,217 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]] to [2016-09-20]
+2016-09-21 10:21:56,437 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-21 10:21:57,483 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tbody[@id='body_dataTable']/tr/td],元素可见!
+2016-09-21 10:21:58,518 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tbody[@id='body_dataTable']/tr/td],元素可见!
+2016-09-21 10:22:03,225 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //tbody[@id='body_dataTable']/tr/td],元素不可见!
+2016-09-21 10:22:04,241 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:162)] Exception
+org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+Session ID: 91c6854d-b849-48be-89c9-3c090672e045
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:665)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:388)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementsByXPath(RemoteWebDriver.java:504)
+	at org.openqa.selenium.By$ByXPath.findElements(By.java:356)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:351)
+	at com.autotest.driver.KeyWords.getWebElements(KeyWords.java:251)
+	at com.autotest.service.bmpService.Loan.searchApply(Loan.java:696)
+	at com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:100)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.apache.http.conn.HttpHostConnectException: Connect to 127.0.0.1:7055 [/127.0.0.1] failed: Connection refused: connect
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:151)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:353)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:380)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:184)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:88)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:71)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:55)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.fallBackExecute(ApacheHttpClient.java:144)
+	at org.openqa.selenium.remote.internal.ApacheHttpClient.execute(ApacheHttpClient.java:90)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:142)
+	at org.openqa.selenium.firefox.internal.NewProfileExtensionConnection.execute(NewProfileExtensionConnection.java:160)
+	at org.openqa.selenium.firefox.FirefoxDriver$LazyCommandExecutor.execute(FirefoxDriver.java:380)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:644)
+	... 27 more
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:74)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:134)
+	... 42 more
+2016-09-21 10:22:05,259 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:129)] Driver with firefox is closed.
+2016-09-21 10:22:48,469 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:115)] ******************************************************************************
+2016-09-21 10:22:48,473 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:116)] Create a Driver, Browser:firefox
+2016-09-21 10:22:49,343 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from product_temp where product_id='RYS009'] Successfully!
+2016-09-21 10:22:50,133 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:121)] open url - http://10.13.28.102:8080/
+2016-09-21 10:22:50,240 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-21 10:22:50,332 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-21 10:22:50,371 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-21 10:22:52,307 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-21 10:22:53,338 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-21 10:22:53,504 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-21 10:22:55,109 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-21 10:22:55,128 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-21 10:22:55,142 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select user_temp.uid,user_product.invest_amount from user_temp left join user_product on user_product.user_number=user_temp.user_number where product_number='RYS009'] Successfully!
+2016-09-21 10:22:55,532 INFO [com.autotest.utility.SSHUtil.sshCurrentDate(SSHUtil.java:103)] ssh已经连接OK
+2016-09-21 10:22:55,956 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[contains(text(),'流程管理')]]
+2016-09-21 10:22:56,652 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //ul[@id='menu158']/li[2]/div/span[3]]
+2016-09-21 10:22:58,315 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素可见!
+2016-09-21 10:22:58,445 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input] to [上海鑫合汇网络科技有限公司]
+2016-09-21 10:22:58,490 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]],元素可见!
+2016-09-21 10:22:58,608 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]] to [2016-09-21]
+2016-09-21 10:22:58,635 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]],元素可见!
+2016-09-21 10:22:58,723 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]] to [2016-09-21]
+2016-09-21 10:22:58,872 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-21 10:22:59,911 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tbody[@id='body_dataTable']/tr/td],元素可见!
+2016-09-21 10:22:59,926 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:101)] 【放款申请】查询任务成功！
+2016-09-21 10:23:00,071 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.id: cb_dataTable_0]
+2016-09-21 10:23:00,190 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //span[contains(text(),'进入处理')]]
+2016-09-21 10:23:02,154 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: tr_dataTable_0],元素可见!
+2016-09-21 10:23:02,465 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select DISTINCT pro_temp.product_name,pro.borrower_name,pro.demand_amount,pro.collect,pro.year_rate,pro.term,pro.platform_fee,loant.management_fee,loana.bonus_proportion,loana.bond_proportion,loana.bond,loana.confirmation_upload,loana.confirming_order,loana.pro_info,loana.raise_notice,loana.UBSP_notice,loana.completion_notice,pro.start_bid_time,pro.end_bid_time from product_temp as pro_temp join productinfo as pro on pro_temp.product_name=pro.prj_name join loan_temp as loant on pro_temp.product_id=loant.product_id join loan_apply as loana on pro_temp.product_id=loana.pro_id where pro_temp.product_id='RYS009'] Successfully!
+2016-09-21 10:23:02,485 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select profit from product_repay_plan where name='YYS20160913001' and stage='募集期'] Successfully!
+2016-09-21 10:23:02,495 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select profit from product_repay_plan where name='YYS20160913001' and stage not like'募集期'] Successfully!
+2016-09-21 10:23:02,495 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:162)] Exception
+java.lang.NumberFormatException: For input string: "1,817.39"
+	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+	at java.lang.Double.parseDouble(Unknown Source)
+	at com.autotest.service.bmpService.Loan.checkInfo(Loan.java:753)
+	at com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:108)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-21 10:23:02,805 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:163)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread1_20160921102302.jpg
+2016-09-21 10:23:02,812 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:129)] Driver with firefox is closed.
+2016-09-21 10:23:04,043 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:141)] Open the ReportNG report.
+2016-09-21 10:31:31,081 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:115)] ******************************************************************************
+2016-09-21 10:31:31,084 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:116)] Create a Driver, Browser:firefox
+2016-09-21 10:31:32,449 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from product_temp where product_id='RYS009'] Successfully!
+2016-09-21 10:31:33,915 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:121)] open url - http://10.13.28.102:8080/
+2016-09-21 10:31:34,069 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-21 10:31:34,255 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-21 10:31:34,287 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-21 10:31:36,089 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-21 10:31:37,115 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-21 10:31:37,257 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-21 10:31:38,882 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-21 10:31:38,900 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-21 10:31:38,914 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select user_temp.uid,user_product.invest_amount from user_temp left join user_product on user_product.user_number=user_temp.user_number where product_number='RYS009'] Successfully!
+2016-09-21 10:31:39,329 INFO [com.autotest.utility.SSHUtil.sshCurrentDate(SSHUtil.java:103)] ssh已经连接OK
+2016-09-21 10:31:39,700 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[contains(text(),'流程管理')]]
+2016-09-21 10:31:40,398 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //ul[@id='menu158']/li[2]/div/span[3]]
+2016-09-21 10:31:42,470 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素可见!
+2016-09-21 10:31:42,591 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input] to [上海鑫合汇网络科技有限公司]
+2016-09-21 10:31:42,622 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]],元素可见!
+2016-09-21 10:31:42,719 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]] to [2016-09-21]
+2016-09-21 10:31:42,745 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]],元素可见!
+2016-09-21 10:31:42,832 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]] to [2016-09-21]
+2016-09-21 10:31:43,007 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-21 10:31:44,051 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tbody[@id='body_dataTable']/tr/td],元素可见!
+2016-09-21 10:31:44,068 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:101)] 【放款申请】查询任务成功！
+2016-09-21 10:31:44,273 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.id: cb_dataTable_0]
+2016-09-21 10:31:44,415 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //span[contains(text(),'进入处理')]]
+2016-09-21 10:31:46,146 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: tr_dataTable_0],元素可见!
+2016-09-21 10:31:46,336 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select DISTINCT pro_temp.product_name,pro.borrower_name,pro.demand_amount,pro.collect,pro.year_rate,pro.term,pro.platform_fee,loant.management_fee,loana.bonus_proportion,loana.bond_proportion,loana.bond,loana.confirmation_upload,loana.confirming_order,loana.pro_info,loana.raise_notice,loana.UBSP_notice,loana.completion_notice,pro.start_bid_time,pro.end_bid_time from product_temp as pro_temp join productinfo as pro on pro_temp.product_name=pro.prj_name join loan_temp as loant on pro_temp.product_id=loant.product_id join loan_apply as loana on pro_temp.product_id=loana.pro_id where pro_temp.product_id='RYS009'] Successfully!
+2016-09-21 10:31:46,350 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select profit from product_repay_plan where name='YYS20160913001' and stage='募集期'] Successfully!
+2016-09-21 10:32:57,511 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select profit from product_repay_plan where name='YYS20160913001' and stage not like'募集期'] Successfully!
+2016-09-21 10:33:14,497 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:162)] Exception
+java.lang.NumberFormatException: For input string: "1,817.39"
+	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+	at java.lang.Double.parseDouble(Unknown Source)
+	at com.autotest.service.bmpService.Loan.checkInfo(Loan.java:753)
+	at com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:108)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-21 10:33:15,573 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:163)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread1_20160921103315.jpg
+2016-09-21 10:33:59,177 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:115)] ******************************************************************************
+2016-09-21 10:33:59,181 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:116)] Create a Driver, Browser:firefox
+2016-09-21 10:33:59,968 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from product_temp where product_id='RYS009'] Successfully!
+2016-09-21 10:34:00,890 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:121)] open url - http://10.13.28.102:8080/
+2016-09-21 10:34:01,013 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-21 10:34:01,124 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-21 10:34:01,163 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-21 10:34:03,348 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-21 10:34:04,382 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-21 10:34:04,531 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-21 10:34:06,141 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-21 10:34:06,157 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-21 10:34:06,170 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select user_temp.uid,user_product.invest_amount from user_temp left join user_product on user_product.user_number=user_temp.user_number where product_number='RYS009'] Successfully!
+2016-09-21 10:34:06,614 INFO [com.autotest.utility.SSHUtil.sshCurrentDate(SSHUtil.java:103)] ssh已经连接OK
+2016-09-21 10:34:07,014 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[contains(text(),'流程管理')]]
+2016-09-21 10:34:07,709 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //ul[@id='menu158']/li[2]/div/span[3]]
+2016-09-21 10:34:09,315 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素可见!
+2016-09-21 10:34:09,419 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input] to [上海鑫合汇网络科技有限公司]
+2016-09-21 10:34:09,451 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]],元素可见!
+2016-09-21 10:34:09,547 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]] to [2016-09-21]
+2016-09-21 10:34:09,574 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]],元素可见!
+2016-09-21 10:34:09,670 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]] to [2016-09-21]
+2016-09-21 10:34:09,827 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-21 10:34:10,871 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tbody[@id='body_dataTable']/tr/td],元素可见!
+2016-09-21 10:34:10,887 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:101)] 【放款申请】查询任务成功！
+2016-09-21 10:34:11,026 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.id: cb_dataTable_0]
+2016-09-21 10:34:11,164 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //span[contains(text(),'进入处理')]]
+2016-09-21 10:34:12,818 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: tr_dataTable_0],元素可见!
+2016-09-21 10:34:13,022 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select DISTINCT pro_temp.product_name,pro.borrower_name,pro.demand_amount,pro.collect,pro.year_rate,pro.term,pro.platform_fee,loant.management_fee,loana.bonus_proportion,loana.bond_proportion,loana.bond,loana.confirmation_upload,loana.confirming_order,loana.pro_info,loana.raise_notice,loana.UBSP_notice,loana.completion_notice,pro.start_bid_time,pro.end_bid_time from product_temp as pro_temp join productinfo as pro on pro_temp.product_name=pro.prj_name join loan_temp as loant on pro_temp.product_id=loant.product_id join loan_apply as loana on pro_temp.product_id=loana.pro_id where pro_temp.product_id='RYS009'] Successfully!
+2016-09-21 10:34:13,040 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select profit from product_repay_plan where name='YYS20160913001' and stage='募集期'] Successfully!
+2016-09-21 10:34:39,530 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select profit from product_repay_plan where name='YYS20160913001' and stage not like'募集期'] Successfully!
+2016-09-21 10:52:05,248 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:115)] ******************************************************************************
+2016-09-21 10:52:05,253 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:116)] Create a Driver, Browser:firefox
+2016-09-21 10:52:06,003 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from product_temp where product_id='RYS009'] Successfully!
+2016-09-21 10:52:06,509 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:121)] open url - http://10.13.28.102:8080/
+2016-09-21 10:52:06,651 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-21 10:52:06,951 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-21 10:52:11,011 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-21 10:52:11,171 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-21 10:52:12,200 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-21 10:52:12,361 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-21 10:52:14,205 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-21 10:52:14,221 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-21 10:52:14,235 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select user_temp.uid,user_product.invest_amount from user_temp left join user_product on user_product.user_number=user_temp.user_number where product_number='RYS009'] Successfully!
+2016-09-21 10:52:14,632 INFO [com.autotest.utility.SSHUtil.sshCurrentDate(SSHUtil.java:103)] ssh已经连接OK
+2016-09-21 10:52:15,015 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[contains(text(),'流程管理')]]
+2016-09-21 10:52:15,745 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //ul[@id='menu158']/li[2]/div/span[3]]
+2016-09-21 10:52:17,439 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素可见!
+2016-09-21 10:52:17,545 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input] to [上海鑫合汇网络科技有限公司]
+2016-09-21 10:52:17,577 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]],元素可见!
+2016-09-21 10:52:17,667 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]] to [2016-09-21]
+2016-09-21 10:52:17,693 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]],元素可见!
+2016-09-21 10:52:17,785 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]] to [2016-09-21]
+2016-09-21 10:52:17,928 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-21 10:52:18,979 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tbody[@id='body_dataTable']/tr/td],元素可见!
+2016-09-21 10:52:19,009 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:101)] 【放款申请】查询任务成功！
+2016-09-21 10:52:19,175 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.id: cb_dataTable_0]
+2016-09-21 10:52:19,354 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //span[contains(text(),'进入处理')]]
+2016-09-21 10:52:23,530 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: tr_dataTable_0],元素可见!
+2016-09-21 10:52:23,786 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select DISTINCT pro_temp.product_name,pro.borrower_name,pro.demand_amount,pro.collect,pro.year_rate,pro.term,pro.platform_fee,loant.management_fee,loana.bonus_proportion,loana.bond_proportion,loana.bond,loana.confirmation_upload,loana.confirming_order,loana.pro_info,loana.raise_notice,loana.UBSP_notice,loana.completion_notice,pro.start_bid_time,pro.end_bid_time from product_temp as pro_temp join productinfo as pro on pro_temp.product_name=pro.prj_name join loan_temp as loant on pro_temp.product_id=loant.product_id join loan_apply as loana on pro_temp.product_id=loana.pro_id where pro_temp.product_id='RYS009'] Successfully!
+2016-09-21 10:52:23,806 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select profit from product_repay_plan where name='YYS20160913001' and stage='募集期'] Successfully!
+2016-09-21 10:52:23,816 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select profit from product_repay_plan where name='YYS20160913001' and stage not like'募集期'] Successfully!
+2016-09-21 10:52:23,826 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from productinfo where prj_name='YYS20160913001'] Successfully!
+2016-09-21 10:52:23,836 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from productinfo where prj_name='YYS20160913001'] Successfully!
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 实际融资期望值:30,000;与实际值:30,000相等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 年化利率期望值:11;与实际值:11相等！
+2016-09-21 10:52:23,867 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:1817.39;与实际值:1817.45不等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 放款完成通知期望值:-;与实际值:-相等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 红包比例期望值:0;与实际值:0相等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 项目期限期望值:12月;与实际值:12月相等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 确认书上传期望值:否;与实际值:否相等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 融资人期望值:蒋盛恩;与实际值:蒋盛恩相等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 募集利息期望值:18.06;与实际值:18.06相等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 保证金/融资服务费率期望值:-;与实际值:-相等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] UBSP通知放款期望值:-;与实际值:-相等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 项目名称期望值:YYS20160913001;与实际值:YYS20160913001相等！
+2016-09-21 10:52:23,867 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 放款确认书期望值:-;与实际值:-相等！
+2016-09-21 10:52:23,868 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 募集完成通知期望值:-;与实际值:-相等！
+2016-09-21 10:52:23,868 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 项目信息期望值:查看;与实际值:查看相等！
+2016-09-21 10:52:23,868 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 平台费期望值:0;与实际值:0相等！
+2016-09-21 10:52:23,868 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 保证金/融资服务费期望值:-;与实际值:-相等！
+2016-09-21 10:52:23,869 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 融资规模期望值:30,000;与实际值:30,000相等！
+2016-09-21 10:52:23,869 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 募集时间期望值:3;与实际值:3相等！
+2016-09-21 10:52:23,869 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:111)] 平台费率期望值:0;与实际值:0相等！
+2016-09-21 10:52:23,870 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:111)] 字段信息校验失败！
+2016-09-21 10:52:23,977 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_apply where pro_id='RYS009'] Successfully!
+2016-09-21 10:52:24,226 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //form[@id='taskprocess_form']/table/tbody/tr[2]/td[2]/span[1]/input]
+2016-09-21 10:52:24,266 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tbody[@id='loanApplyBody_file']/tr],元素可见!
+2016-09-21 10:52:31,876 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //table[@id='fileAttachTable']/tbody/tr/td[2]/span/a[1]]
+2016-09-21 10:52:42,239 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-21 10:52:43,329 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tbody[@id='loanApplyBody_file']/tr],元素可见!
+2016-09-21 10:52:43,339 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:120)] 【放款申请】上传附件失败！
+2016-09-21 10:52:43,339 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:162)] Exception
+java.lang.Exception: upload failed
+	at com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:122)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-21 10:52:43,585 INFO [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:163)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread1_20160921105243.jpg
+2016-09-21 10:52:43,585 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:129)] Driver with firefox is closed.
+2016-09-21 10:52:44,873 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:141)] Open the ReportNG report.

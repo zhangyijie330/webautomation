@@ -1,0 +1,14 @@
+2016-09-20 10:57:23,121 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: html/body/div[9]],元素不可见!
+2016-09-20 10:57:31,577 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:89)] 【放款申请】查询任务失败！
+2016-09-20 10:59:37,280 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:69.86;与实际值:24.44不等！
+2016-09-20 10:59:37,284 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:97)] 字段信息校验失败！
+2016-09-20 10:59:54,422 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-20 11:00:05,474 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:69.86;与实际值:24.44不等！
+2016-09-20 11:00:05,477 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:97)] 字段信息校验失败！
+2016-09-20 11:00:20,153 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-20 11:00:31,214 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:69.86;与实际值:24.44不等！
+2016-09-20 11:00:31,217 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:97)] 字段信息校验失败！
+2016-09-20 11:00:46,097 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-20 11:00:57,110 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:69.86;与实际值:24.44不等！
+2016-09-20 11:00:57,113 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:97)] 字段信息校验失败！
+2016-09-20 11:01:11,894 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!

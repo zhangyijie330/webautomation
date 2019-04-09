@@ -1,0 +1,12 @@
+2016-09-26 17:03:25,248 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:115)] ******************************************************************************
+2016-09-26 17:03:25,252 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:116)] Create a Driver, Browser:firefox
+2016-09-26 17:03:26,591 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select product_name product_code from product_temp where product_id='SDT001'] Successfully!
+2016-09-26 17:03:26,595 INFO [com.autotest.testcases.YYS007_InvestSDT.test(YYS007_InvestSDT.java:54)] 产品名称productCodeSDT2017020810001
+2016-09-26 17:03:26,622 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select *from user_temp where user_number = 'u12'] Successfully!
+2016-09-26 17:03:26,623 INFO [com.autotest.testcases.YYS007_InvestSDT.test(YYS007_InvestSDT.java:59)] 变现用户ID624
+2016-09-26 17:03:26,643 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select user_temp.uid,user_product.invest_amount from user_temp left join user_product on user_product.user_number=user_temp.user_number where product_number='SDT001'] Successfully!
+2016-09-26 17:03:26,644 INFO [com.autotest.testcases.YYS007_InvestSDT.test(YYS007_InvestSDT.java:67)] 购买速兑通项目的用户个数3
+2016-09-26 17:03:26,645 INFO [com.autotest.testcases.YYS007_InvestSDT.test(YYS007_InvestSDT.java:69)] 投资速兑通用户uid632
+2016-09-26 17:03:26,665 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from user_acct where uid=624] Successfully!
+2016-09-26 17:03:26,666 INFO [com.autotest.testcases.YYS007_InvestSDT.test(YYS007_InvestSDT.java:77)] 速兑通变现者账户余额50000.00
+2016-09-26 17:03:26,683 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from user where id='632'] Successfully!

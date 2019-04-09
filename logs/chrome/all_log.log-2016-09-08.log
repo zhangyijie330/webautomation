@@ -1,0 +1,771 @@
+2016-09-08 13:45:41,381 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 13:45:41,388 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 13:45:53,745 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 13:45:54,063 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 13:45:54,281 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 13:45:54,600 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 13:45:54,750 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 13:45:54,800 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 13:45:54,993 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 13:45:56,559 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 13:45:56,599 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 13:45:56,881 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 13:45:57,538 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 13:46:01,282 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 13:46:01,437 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [RYS20160826001]
+2016-09-08 13:46:01,653 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:110)] 
+org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (644, 86). Other element would receive the click: <div class="datagrid-mask" style="display: block; width: 100%; height: 563px;"></div>
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 89 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: 18de81afd531252858230ffddeb558e8
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir4868_1887}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at com.autotest.driver.KeyWords.click(KeyWords.java:228)
+	at com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:42)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-08 13:46:01,664 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 13:46:06,247 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 13:48:13,664 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 13:48:13,669 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 13:48:19,550 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 13:48:20,175 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 13:48:21,202 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 13:48:21,271 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 13:48:21,417 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 13:48:21,467 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 13:48:21,600 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 13:48:22,866 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 13:48:22,901 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 13:48:23,112 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 13:48:23,772 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 13:48:25,209 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 13:48:25,345 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [RYS20160826001]
+2016-09-08 13:48:25,511 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:111)] 
+org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (644, 86). Other element would receive the click: <div class="datagrid-mask" style="display: block; width: 100%; height: 563px;"></div>
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 64 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: 80851cdf9025138955fadd1d4c8d027b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir1276_30174}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at com.autotest.driver.KeyWords.click(KeyWords.java:228)
+	at com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:43)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-08 13:48:25,520 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 13:48:27,117 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 13:51:14,742 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 13:51:14,749 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 13:51:20,239 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 13:51:20,844 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 13:51:21,780 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 13:51:21,843 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 13:51:21,988 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 13:51:22,056 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 13:51:22,171 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 13:51:23,424 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 13:51:23,452 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 13:51:23,666 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 13:51:24,335 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 13:51:27,129 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 13:51:27,278 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [RYS20160826001]
+2016-09-08 13:51:27,434 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:115)] 
+org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (644, 86). Other element would receive the click: <div class="datagrid-mask" style="display: block; width: 100%; height: 563px;"></div>
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 41 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: 245a8a451f29f07772686764e77f0b47
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir8028_21600}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at com.autotest.driver.KeyWords.click(KeyWords.java:228)
+	at com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:47)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-08 13:51:27,456 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 13:51:28,823 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 13:52:21,427 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 13:52:21,432 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 13:52:26,170 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 13:52:26,486 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 13:52:26,602 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 13:52:26,674 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 13:52:26,826 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 13:52:26,877 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 13:52:27,011 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 13:52:28,248 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 13:52:28,293 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 13:52:28,501 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 13:52:29,157 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 13:52:31,805 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 13:52:31,945 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [RYS20160826001]
+2016-09-08 13:52:32,101 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:115)] 
+org.openqa.selenium.WebDriverException: unknown error: Element is not clickable at point (644, 86). Other element would receive the click: <div class="datagrid-mask" style="display: block; width: 100%; height: 563px;"></div>
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 50 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: 6e9170b62abe1e9346d26398f5ece6b7
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir9184_11743}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:85)
+	at com.autotest.driver.KeyWords.click(KeyWords.java:228)
+	at com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:47)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-08 13:52:32,110 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 13:52:33,633 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 13:55:11,110 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 13:55:11,118 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 13:55:17,175 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 13:55:17,486 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 13:55:17,614 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 13:55:17,703 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 13:55:17,875 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 13:55:17,931 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 13:55:18,093 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 13:55:19,253 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 13:55:19,306 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 13:55:19,510 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 13:55:20,181 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 14:18:55,265 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 14:18:55,270 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 14:19:00,364 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 14:19:00,949 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 14:19:01,455 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 14:19:01,524 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 14:19:01,669 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 14:19:01,719 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 14:19:01,854 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 14:19:03,172 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 14:19:03,215 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 14:19:23,220 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 14:19:24,288 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 14:20:04,522 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 14:20:04,529 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 14:20:09,069 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 14:20:09,607 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 14:20:10,905 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 14:20:10,967 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 14:20:11,103 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 14:20:11,149 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 14:20:11,284 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 14:20:21,711 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[@id='user_name_link']],元素不可见!
+2016-09-08 14:20:21,724 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[@id='user_name_link']],元素不存在!
+2016-09-08 14:20:21,727 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:115)] 
+java.lang.Exception: 登录失败！
+	at com.autotest.service.bmpService.PubBmpService.login(PubBmpService.java:59)
+	at com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-08 14:20:21,732 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 14:20:23,675 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 14:20:37,409 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 14:20:37,414 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 14:20:40,076 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 14:20:40,588 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 14:20:40,730 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 14:20:40,802 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 14:20:40,948 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 14:20:41,000 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 14:20:41,137 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 14:20:42,317 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 14:20:42,358 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 14:20:50,152 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 14:20:51,088 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 14:22:03,740 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 14:22:03,746 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 14:22:09,371 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 14:22:09,752 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 14:22:10,489 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 14:22:10,563 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 14:22:10,711 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 14:22:10,761 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 14:22:10,895 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 14:22:12,044 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 14:22:12,083 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 14:22:17,046 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 14:22:18,513 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 15:04:49,460 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:04:49,464 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:04:55,899 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:04:55,994 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:04:56,111 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:04:56,185 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:04:56,360 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:04:56,409 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:04:56,545 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:04:58,132 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:04:58,172 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:05:24,720 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:05:24,726 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:05:34,700 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:05:36,383 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:05:36,499 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:05:36,569 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:05:36,712 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:05:36,760 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:05:36,890 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:05:38,551 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:05:38,589 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:05:38,812 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 15:05:39,468 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 15:05:40,993 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: work_frame],元素可见!
+2016-09-08 15:05:41,018 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: work_frame],元素存在!
+2016-09-08 15:05:45,766 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr],元素可见!
+2016-09-08 15:05:45,844 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 15:05:45,980 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [RYS20160826001]
+2016-09-08 15:05:46,190 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:06:47,849 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:06:47,856 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:06:53,512 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:06:54,132 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:06:55,314 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:06:55,845 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:06:57,171 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:06:57,417 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:06:57,548 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:06:58,715 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:06:58,756 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:06:58,968 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 15:06:59,638 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 15:07:01,525 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: work_frame],元素可见!
+2016-09-08 15:07:01,556 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: work_frame],元素存在!
+2016-09-08 15:07:06,382 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr],元素可见!
+2016-09-08 15:07:06,501 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 15:07:06,627 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [RYS20160825006]
+2016-09-08 15:07:06,824 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:07:13,080 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tr[@id='tr_loanApplydataTable_0']/td[2]/div],元素可见!
+2016-09-08 15:07:13,130 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:73)] 【放款申请】查询项目成功！
+2016-09-08 15:07:13,290 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: cb_loanApplydataTable_0]
+2016-09-08 15:07:13,446 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'提交')]]
+2016-09-08 15:07:14,032 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[contains(text(),'放款信息')]],元素可见!
+2016-09-08 15:07:14,032 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:78)] 【放款申请】显示放款信息！
+2016-09-08 15:07:14,082 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='loanApplyToAuditForm']/table/tbody/tr[3]/td[2]/span/input[1]],元素可见!
+2016-09-08 15:07:14,143 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:130)] 
+org.openqa.selenium.InvalidElementStateException: invalid element state: Element must be user-editable in order to clear it.
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: a6e29fe957d9b304c12b6620567ad955
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir4776_3607}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:327)
+	at org.openqa.selenium.remote.RemoteWebElement.clear(RemoteWebElement.java:140)
+	at com.autotest.driver.KeyWords.setValue(KeyWords.java:277)
+	at com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-08 15:07:14,144 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 15:07:16,067 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 15:19:29,457 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:19:29,462 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:19:35,280 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:19:35,854 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:19:37,334 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:19:37,835 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:19:37,985 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:19:38,037 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:19:38,179 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:19:39,913 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:19:39,953 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:19:40,157 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 15:19:40,812 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 15:19:42,017 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: work_frame],元素可见!
+2016-09-08 15:19:42,042 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: work_frame],元素存在!
+2016-09-08 15:19:46,793 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr],元素可见!
+2016-09-08 15:19:46,873 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 15:19:47,016 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [RYS20160825006]
+2016-09-08 15:19:47,201 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:19:55,490 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tr[@id='tr_loanApplydataTable_0']/td[2]/div],元素可见!
+2016-09-08 15:19:55,547 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:73)] 【放款申请】查询项目成功！
+2016-09-08 15:19:55,721 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: cb_loanApplydataTable_0]
+2016-09-08 15:19:55,879 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'提交')]]
+2016-09-08 15:19:56,459 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[contains(text(),'放款信息')]],元素可见!
+2016-09-08 15:19:56,459 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:78)] 【放款申请】显示放款信息！
+2016-09-08 15:19:56,613 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //form[@id='loanApplyToAuditForm']/table/tbody/tr[3]/td[2]/span/span/span]
+2016-09-08 15:19:56,721 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:252)] Click on [By.xpath: //div[text()='支票']]
+2016-09-08 15:19:56,875 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: confirm]
+2016-09-08 15:19:57,953 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr/td/div],元素可见!
+2016-09-08 15:19:58,011 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:98)] 【方款申请】提交放款申请失败！
+2016-09-08 15:19:58,015 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:130)] 
+java.lang.Exception: apply failed
+	at com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:99)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-08 15:19:58,019 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 15:19:59,600 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 15:23:26,177 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:23:26,183 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:23:31,739 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:23:32,245 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:23:33,410 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:23:33,481 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:23:33,634 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:23:33,689 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:23:33,823 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:23:34,950 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:23:34,990 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:23:35,201 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 15:23:35,854 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 15:23:37,270 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: work_frame],元素可见!
+2016-09-08 15:23:37,298 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: work_frame],元素存在!
+2016-09-08 15:23:45,628 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr],元素可见!
+2016-09-08 15:23:45,705 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 15:23:45,853 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [RYS20160825006]
+2016-09-08 15:23:46,034 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:24:02,567 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_loanApplydataTable_0']/td[2]/div],元素不可见!
+2016-09-08 15:24:02,587 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:130)] 
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//tr[@id='tr_loanApplydataTable_0']/td[2]/div}
+Session ID: d7d2d31a8c31e90f77a6c4c0817b15f5
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir872_27160}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:337)
+	at com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:67)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-08 15:24:02,592 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 15:24:04,004 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 15:24:15,847 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:24:15,854 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:24:20,153 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:24:20,857 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:24:21,501 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:24:21,577 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:24:21,722 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:24:21,773 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:24:21,905 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:24:23,221 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:24:23,258 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:24:23,479 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 15:24:24,139 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 15:24:25,131 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: work_frame],元素可见!
+2016-09-08 15:24:25,160 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: work_frame],元素存在!
+2016-09-08 15:24:32,981 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr],元素可见!
+2016-09-08 15:24:33,058 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 15:24:33,257 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [RYS20160825004]
+2016-09-08 15:24:33,441 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:24:39,707 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tr[@id='tr_loanApplydataTable_0']/td[2]/div],元素可见!
+2016-09-08 15:24:39,763 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:73)] 【放款申请】查询项目成功！
+2016-09-08 15:24:39,924 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: cb_loanApplydataTable_0]
+2016-09-08 15:24:40,083 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'提交')]]
+2016-09-08 15:24:40,667 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[contains(text(),'放款信息')]],元素可见!
+2016-09-08 15:24:40,667 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:78)] 【放款申请】显示放款信息！
+2016-09-08 15:24:40,827 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //form[@id='loanApplyToAuditForm']/table/tbody/tr[3]/td[2]/span/span/span]
+2016-09-08 15:24:40,944 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:252)] Click on [By.xpath: //div[text()='支票']]
+2016-09-08 15:24:41,096 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: confirm]
+2016-09-08 15:24:42,175 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr/td/div],元素可见!
+2016-09-08 15:24:42,233 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:98)] 【方款申请】提交放款申请失败！
+2016-09-08 15:24:42,240 ERROR [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:130)] 
+java.lang.Exception: apply failed
+	at com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:99)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-08 15:24:42,244 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 15:24:43,562 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 15:30:38,588 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:30:38,595 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:30:42,920 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:30:43,431 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:30:43,549 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:30:43,620 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:30:43,772 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:30:43,824 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:30:43,955 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:30:45,199 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:30:45,238 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:30:45,443 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 15:30:46,098 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 15:30:47,348 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: work_frame],元素可见!
+2016-09-08 15:30:47,373 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: work_frame],元素存在!
+2016-09-08 15:30:54,166 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr],元素可见!
+2016-09-08 15:30:54,242 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 15:30:54,389 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [2016071205]
+2016-09-08 15:30:54,566 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:31:02,887 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tr[@id='tr_loanApplydataTable_0']/td[2]/div],元素可见!
+2016-09-08 15:31:02,942 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:73)] 【放款申请】查询项目成功！
+2016-09-08 15:31:03,103 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: cb_loanApplydataTable_0]
+2016-09-08 15:31:03,268 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'提交')]]
+2016-09-08 15:31:03,851 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[contains(text(),'放款信息')]],元素可见!
+2016-09-08 15:31:03,852 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:78)] 【放款申请】显示放款信息！
+2016-09-08 15:31:04,008 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //form[@id='loanApplyToAuditForm']/table/tbody/tr[3]/td[2]/span/span/span]
+2016-09-08 15:31:04,126 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:252)] Click on [By.xpath: //div[text()='支票']]
+2016-09-08 15:31:04,276 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: confirm]
+2016-09-08 15:31:05,365 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:31:06,397 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:31:07,421 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:31:08,444 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:31:09,465 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:31:10,486 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:31:11,509 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:31:22,829 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: html/body/div[9]],元素不可见!
+2016-09-08 15:31:23,874 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr/td/div],元素可见!
+2016-09-08 15:31:23,935 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:96)] 【放款申请】提交放款申请成功！
+2016-09-08 15:31:24,361 INFO [com.autotest.utility.SSHUtil.sshCurrentDate(SSHUtil.java:103)] ssh已经连接OK
+2016-09-08 15:31:24,764 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'流程管理')]]
+2016-09-08 15:31:25,445 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu158']/li[2]/div/span[3]]
+2016-09-08 15:31:26,418 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素可见!
+2016-09-08 15:31:26,587 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input] to [上海鑫合汇网络科技有限公司]
+2016-09-08 15:31:26,688 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]],元素可见!
+2016-09-08 15:31:26,816 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]] to [2016-09-08]
+2016-09-08 15:31:26,872 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]],元素可见!
+2016-09-08 15:31:27,001 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]] to [2016-09-08]
+2016-09-08 15:31:27,169 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:31:28,410 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: cb_dataTable_0]
+2016-09-08 15:31:28,563 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'进入处理')]]
+2016-09-08 15:31:39,933 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: tr_dataTable_0],元素可见!
+2016-09-08 15:36:34,166 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:36:34,170 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:36:39,857 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:36:40,355 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:36:40,479 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:36:40,545 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:36:40,696 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:36:40,750 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:36:40,885 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:36:42,923 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:36:42,967 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:36:43,198 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-08 15:36:43,859 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu181']/li[7]/div/span[3]]
+2016-09-08 15:36:45,230 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: work_frame],元素可见!
+2016-09-08 15:36:45,258 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: work_frame],元素存在!
+2016-09-08 15:36:50,535 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr],元素可见!
+2016-09-08 15:36:50,613 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input],元素可见!
+2016-09-08 15:36:50,750 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr/td[2]/input] to [RYS20160718004]
+2016-09-08 15:36:50,932 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:36:57,183 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tr[@id='tr_loanApplydataTable_0']/td[2]/div],元素可见!
+2016-09-08 15:36:57,238 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:73)] 【放款申请】查询项目成功！
+2016-09-08 15:36:57,399 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: cb_loanApplydataTable_0]
+2016-09-08 15:36:57,554 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'提交')]]
+2016-09-08 15:36:58,138 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[contains(text(),'放款信息')]],元素可见!
+2016-09-08 15:36:58,138 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:78)] 【放款申请】显示放款信息！
+2016-09-08 15:36:58,292 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //form[@id='loanApplyToAuditForm']/table/tbody/tr[3]/td[2]/span/span/span]
+2016-09-08 15:36:58,408 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:252)] Click on [By.xpath: //div[text()='支票']]
+2016-09-08 15:36:58,568 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: confirm]
+2016-09-08 15:36:59,659 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:37:00,690 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:37:01,719 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:37:02,742 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:37:03,762 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: html/body/div[9]],元素可见!
+2016-09-08 15:37:15,002 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: html/body/div[9]],元素不可见!
+2016-09-08 15:37:16,082 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_loanApplydataTable']/tr/td/div],元素可见!
+2016-09-08 15:37:16,134 INFO [com.autotest.testcases.YYS009_Loanapplication.Test(YYS009_Loanapplication.java:96)] 【放款申请】提交放款申请成功！
+2016-09-08 15:37:16,599 INFO [com.autotest.utility.SSHUtil.sshCurrentDate(SSHUtil.java:103)] ssh已经连接OK
+2016-09-08 15:37:16,948 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'流程管理')]]
+2016-09-08 15:37:17,604 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu158']/li[2]/div/span[3]]
+2016-09-08 15:37:19,155 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素可见!
+2016-09-08 15:37:19,341 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input] to [上海鑫合汇网络科技有限公司]
+2016-09-08 15:37:19,407 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]],元素可见!
+2016-09-08 15:37:19,538 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]] to [2016-09-08]
+2016-09-08 15:37:19,589 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]],元素可见!
+2016-09-08 15:37:19,749 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]] to [2016-09-08]
+2016-09-08 15:37:19,919 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:37:21,124 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: cb_dataTable_0]
+2016-09-08 15:37:21,286 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'进入处理')]]
+2016-09-08 15:37:21,336 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: tr_dataTable_0],元素可见!
+2016-09-08 15:37:21,401 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 15:37:23,138 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 15:45:16,677 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:45:16,682 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:45:22,314 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:45:22,642 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:45:22,758 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:45:22,832 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:45:22,978 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:45:23,028 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:45:23,170 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:45:24,387 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:45:24,427 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:45:24,623 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'流程管理')]]
+2016-09-08 15:45:25,280 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu158']/li[2]/div/span[3]]
+2016-09-08 15:45:26,731 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素可见!
+2016-09-08 15:45:26,845 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input] to [上海鑫合汇网络科技有限公司]
+2016-09-08 15:45:26,915 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]],元素可见!
+2016-09-08 15:45:27,044 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]] to [2016-09-08]
+2016-09-08 15:45:27,099 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]],元素可见!
+2016-09-08 15:45:27,234 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]] to [2016-09-08]
+2016-09-08 15:45:27,403 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:45:28,612 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: cb_dataTable_0]
+2016-09-08 15:45:28,776 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'进入处理')]]
+2016-09-08 15:45:28,830 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: tr_dataTable_0],元素可见!
+2016-09-08 15:45:28,897 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 15:45:30,680 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 15:46:58,602 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:46:58,606 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:47:10,044 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:47:10,659 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:47:11,890 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:47:12,566 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:47:12,699 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:47:12,761 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:47:12,891 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:47:14,104 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:47:14,143 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:47:14,345 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'流程管理')]]
+2016-09-08 15:47:14,999 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu158']/li[2]/div/span[3]]
+2016-09-08 15:47:16,604 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素可见!
+2016-09-08 15:47:16,728 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input] to [上海鑫合汇网络科技有限公司]
+2016-09-08 15:47:16,789 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]],元素可见!
+2016-09-08 15:47:16,920 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]] to [2016-09-08]
+2016-09-08 15:47:16,969 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]],元素可见!
+2016-09-08 15:47:17,104 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]] to [2016-09-08]
+2016-09-08 15:47:17,283 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:47:18,495 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: cb_dataTable_0]
+2016-09-08 15:47:18,662 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'进入处理')]]
+2016-09-08 15:47:20,287 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: tr_dataTable_0],元素可见!
+2016-09-08 15:47:20,357 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-08 15:47:21,767 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-08 15:48:12,548 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-08 15:48:12,552 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-08 15:48:17,667 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-08 15:48:18,029 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-08 15:48:19,597 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+2016-09-08 15:48:20,007 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-08 15:48:20,632 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-08 15:48:20,682 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-08 15:48:20,817 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-08 15:48:22,018 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-08 15:48:22,058 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-08 15:48:22,261 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[contains(text(),'流程管理')]]
+2016-09-08 15:48:22,917 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //ul[@id='menu158']/li[2]/div/span[3]]
+2016-09-08 15:48:23,766 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素可见!
+2016-09-08 15:48:23,909 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input] to [上海鑫合汇网络科技有限公司]
+2016-09-08 15:48:23,962 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]],元素可见!
+2016-09-08 15:48:24,107 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[1]] to [2016-09-08]
+2016-09-08 15:48:24,159 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]],元素可见!
+2016-09-08 15:48:24,279 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[6]/input[2]] to [2016-09-08]
+2016-09-08 15:48:24,457 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'查询')]]
+2016-09-08 15:48:25,674 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.id: cb_dataTable_0]
+2016-09-08 15:48:25,838 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //span[contains(text(),'进入处理')]]
+2016-09-08 15:48:27,506 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: tr_dataTable_0],元素可见!

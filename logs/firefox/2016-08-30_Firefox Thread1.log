@@ -1,0 +1,627 @@
+[2016-08-30 05:16:47][INFO][Firefox Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-30 05:16:47][INFO][Firefox Thread1][TestDriver.java][97] - Create a Driver, Browser:firefox
+[2016-08-30 05:16:51][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-30 05:16:52][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+[2016-08-30 05:16:52][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+[2016-08-30 05:16:52][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [14069827294]
+[2016-08-30 05:16:54][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[@id='password']],元素可见!
+[2016-08-30 05:16:54][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='password']] to [a111111]
+[2016-08-30 05:17:04][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+[2016-08-30 05:17:10][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:17:11][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:17:11][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+[2016-08-30 05:17:11][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [136693]
+[2016-08-30 05:17:11][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+[2016-08-30 05:17:13][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //input[contains(@value,'注 册')]]
+[2016-08-30 05:17:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-30 05:17:15][INFO][Firefox Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-30 05:17:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:17][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:17:30][ERROR][Firefox Thread1][KeyWords.java][151] - [By.id: register-back-time],元素不可见!
+[2016-08-30 05:17:30][INFO][Firefox Thread1][UserRegistration.java][49] - 14069827294注册成功
+[2016-08-30 05:17:30][INFO][Firefox Thread1][UserRegistration.java][50] - 14069827294实名认证
+[2016-08-30 05:17:30][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/Account/IdAuth/verifyId?isAjax=1&name=孙晓明&personId=330721198012040257
+[2016-08-30 05:17:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: /html/body],元素可见!
+[2016-08-30 05:17:30][ERROR][Firefox Thread1][UserRegistration.java][114] - 实名认证失败
+[2016-08-30 05:17:31][INFO][Firefox Thread1][KeyWords.java][609] - Switch to window: 新手指引,新人福利,新手专享-鑫合汇 successfully!
+[2016-08-30 05:17:31][INFO][Firefox Thread1][UserRegistration.java][52] - 14069827294设置支付密码
+[2016-08-30 05:17:32][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: name]
+[2016-08-30 05:17:33][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: guide-close],元素可见!
+[2016-08-30 05:17:33][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: guide-close]
+[2016-08-30 05:17:34][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.linkText: 用户中心]
+[2016-08-30 05:17:35][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: set-paypwd]
+[2016-08-30 05:17:35][INFO][Firefox Thread1][KeyWords.java][148] - [By.name: password],元素可见!
+[2016-08-30 05:17:35][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.name: password] to [123456]
+[2016-08-30 05:17:35][INFO][Firefox Thread1][KeyWords.java][148] - [By.name: password_repeat],元素可见!
+[2016-08-30 05:17:35][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.name: password_repeat] to [123456]
+[2016-08-30 05:17:35][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //*[@id="formId_Account_User_setPayPwd"]/ul/li[4]/span[2]/input]
+[2016-08-30 05:17:37][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:17:37][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:17:37][INFO][Firefox Thread1][UserRegistration.java][54] - 14069827294充值
+[2016-08-30 05:17:39][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-30 05:17:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-30 05:17:39][INFO][Firefox Thread1][KeyWords.java][167] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-30 05:19:20][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-30 05:19:21][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+[2016-08-30 05:19:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+[2016-08-30 05:19:22][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [14524622563]
+[2016-08-30 05:19:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[@id='password']],元素可见!
+[2016-08-30 05:19:22][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='password']] to [a111111]
+[2016-08-30 05:19:32][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+[2016-08-30 05:19:33][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:19:33][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:19:34][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+[2016-08-30 05:19:34][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [896135]
+[2016-08-30 05:19:34][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+[2016-08-30 05:19:36][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //input[contains(@value,'注 册')]]
+[2016-08-30 05:19:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-30 05:19:38][INFO][Firefox Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-30 05:19:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:39][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:41][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:19:53][ERROR][Firefox Thread1][KeyWords.java][151] - [By.id: register-back-time],元素不可见!
+[2016-08-30 05:19:53][INFO][Firefox Thread1][UserRegistration.java][49] - 14524622563注册成功
+[2016-08-30 05:19:53][INFO][Firefox Thread1][UserRegistration.java][50] - 14524622563实名认证
+[2016-08-30 05:19:57][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/Account/IdAuth/verifyId?isAjax=1&name=孙晓明&personId=330721198012040257
+[2016-08-30 05:19:57][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: /html/body],元素可见!
+[2016-08-30 05:19:57][ERROR][Firefox Thread1][UserRegistration.java][114] - 实名认证失败
+[2016-08-30 05:19:57][INFO][Firefox Thread1][KeyWords.java][609] - Switch to window: 新手指引,新人福利,新手专享-鑫合汇 successfully!
+[2016-08-30 05:19:57][INFO][Firefox Thread1][UserRegistration.java][52] - 14524622563设置支付密码
+[2016-08-30 05:19:59][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: name]
+[2016-08-30 05:20:09][ERROR][Firefox Thread1][KeyWords.java][151] - [By.id: guide-close],元素不可见!
+[2016-08-30 05:20:11][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.linkText: 用户中心]
+[2016-08-30 05:20:11][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: set-paypwd]
+[2016-08-30 05:20:11][INFO][Firefox Thread1][KeyWords.java][148] - [By.name: password],元素可见!
+[2016-08-30 05:20:12][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.name: password] to [123456]
+[2016-08-30 05:20:12][INFO][Firefox Thread1][KeyWords.java][148] - [By.name: password_repeat],元素可见!
+[2016-08-30 05:20:12][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.name: password_repeat] to [123456]
+[2016-08-30 05:20:12][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //*[@id="formId_Account_User_setPayPwd"]/ul/li[4]/span[2]/input]
+[2016-08-30 05:20:13][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:20:13][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:20:13][INFO][Firefox Thread1][UserRegistration.java][54] - 14524622563充值
+[2016-08-30 05:20:15][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-30 05:20:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-30 05:20:15][INFO][Firefox Thread1][KeyWords.java][167] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-30 05:21:55][INFO][Firefox Thread1][TestDriver.java][109] - Driver with firefox is closed.
+[2016-08-30 05:21:56][INFO][Firefox Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-30 05:29:39][INFO][Firefox Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-30 05:29:39][INFO][Firefox Thread1][TestDriver.java][97] - Create a Driver, Browser:firefox
+[2016-08-30 05:29:42][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-30 05:29:43][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+[2016-08-30 05:29:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+[2016-08-30 05:29:44][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [13943149167]
+[2016-08-30 05:29:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[@id='password']],元素可见!
+[2016-08-30 05:29:45][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='password']] to [a111111]
+[2016-08-30 05:29:55][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+[2016-08-30 05:29:57][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:29:57][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:29:57][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+[2016-08-30 05:29:57][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [979811]
+[2016-08-30 05:29:58][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+[2016-08-30 05:30:00][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //input[contains(@value,'注 册')]]
+[2016-08-30 05:30:11][ERROR][Firefox Thread1][KeyWords.java][151] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素不可见!
+[2016-08-30 05:30:11][ERROR][Firefox Thread1][KeyWords.java][170] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素不存在!
+[2016-08-30 05:30:22][ERROR][Firefox Thread1][KeyWords.java][151] - [By.id: register-back-time],元素不可见!
+[2016-08-30 05:30:22][ERROR][Firefox Thread1][UserRegistration.java][75] - 13943149167注册失败
+[2016-08-30 05:30:23][INFO][Firefox Thread1][UserRegistration.java][76] - Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread1_20160830173022.jpg
+[2016-08-30 05:30:53][INFO][Firefox Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-30 05:30:53][INFO][Firefox Thread1][TestDriver.java][97] - Create a Driver, Browser:firefox
+[2016-08-30 05:30:57][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-30 05:30:58][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+[2016-08-30 05:30:58][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+[2016-08-30 05:30:58][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [13792849731]
+[2016-08-30 05:30:58][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[@id='password']],元素可见!
+[2016-08-30 05:30:59][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='password']] to [a111111]
+[2016-08-30 05:31:10][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+[2016-08-30 05:31:14][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:31:14][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:31:14][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+[2016-08-30 05:31:15][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [008823]
+[2016-08-30 05:31:15][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+[2016-08-30 05:31:17][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //input[contains(@value,'注 册')]]
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:19][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:20][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:21][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:22][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:23][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:23][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:23][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:23][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:23][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:23][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:23][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:23][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:23][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:23][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:31:33][ERROR][Firefox Thread1][KeyWords.java][151] - [By.id: register-back-time],元素不可见!
+[2016-08-30 05:31:33][INFO][Firefox Thread1][UserRegistration.java][49] - 13792849731注册成功
+[2016-08-30 05:31:33][INFO][Firefox Thread1][UserRegistration.java][50] - 13792849731实名认证
+[2016-08-30 05:31:36][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/Account/IdAuth/verifyId?isAjax=1&name=孙晓明&personId=330721198012040257
+[2016-08-30 05:31:36][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: /html/body],元素可见!
+[2016-08-30 05:31:36][ERROR][Firefox Thread1][UserRegistration.java][114] - 实名认证失败
+[2016-08-30 05:31:36][INFO][Firefox Thread1][KeyWords.java][609] - Switch to window: 新手指引,新人福利,新手专享-鑫合汇 successfully!
+[2016-08-30 05:31:36][INFO][Firefox Thread1][UserRegistration.java][52] - 13792849731设置支付密码
+[2016-08-30 05:31:38][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: name]
+[2016-08-30 05:31:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: guide-close],元素可见!
+[2016-08-30 05:31:38][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: guide-close]
+[2016-08-30 05:31:40][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.linkText: 用户中心]
+[2016-08-30 05:31:40][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: set-paypwd]
+[2016-08-30 05:31:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.name: password],元素可见!
+[2016-08-30 05:31:40][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.name: password] to [123456]
+[2016-08-30 05:31:40][INFO][Firefox Thread1][KeyWords.java][148] - [By.name: password_repeat],元素可见!
+[2016-08-30 05:31:40][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.name: password_repeat] to [123456]
+[2016-08-30 05:31:41][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //*[@id="formId_Account_User_setPayPwd"]/ul/li[4]/span[2]/input]
+[2016-08-30 05:31:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:31:42][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:31:42][INFO][Firefox Thread1][UserRegistration.java][54] - 13792849731充值
+[2016-08-30 05:31:44][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-30 05:31:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-30 05:31:44][INFO][Firefox Thread1][KeyWords.java][167] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-30 05:33:25][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-30 05:33:26][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+[2016-08-30 05:33:26][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+[2016-08-30 05:33:26][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [13465133965]
+[2016-08-30 05:33:26][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[@id='password']],元素可见!
+[2016-08-30 05:33:26][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='password']] to [a111111]
+[2016-08-30 05:33:37][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+[2016-08-30 05:33:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:33:38][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:33:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+[2016-08-30 05:33:38][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [525437]
+[2016-08-30 05:33:38][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+[2016-08-30 05:33:40][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //input[contains(@value,'注 册')]]
+[2016-08-30 05:33:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-30 05:33:42][INFO][Firefox Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-30 05:33:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:42][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:43][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:46][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:47][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:47][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:47][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:47][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:47][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:33:57][ERROR][Firefox Thread1][KeyWords.java][151] - [By.id: register-back-time],元素不可见!
+[2016-08-30 05:33:57][INFO][Firefox Thread1][UserRegistration.java][49] - 13465133965注册成功
+[2016-08-30 05:33:57][INFO][Firefox Thread1][UserRegistration.java][50] - 13465133965实名认证
+[2016-08-30 05:34:00][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/Account/IdAuth/verifyId?isAjax=1&name=孙晓明&personId=330721198012040257
+[2016-08-30 05:34:00][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: /html/body],元素可见!
+[2016-08-30 05:34:00][ERROR][Firefox Thread1][UserRegistration.java][114] - 实名认证失败
+[2016-08-30 05:34:00][INFO][Firefox Thread1][KeyWords.java][609] - Switch to window: 新手指引,新人福利,新手专享-鑫合汇 successfully!
+[2016-08-30 05:34:00][INFO][Firefox Thread1][UserRegistration.java][52] - 13465133965设置支付密码
+[2016-08-30 05:34:02][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: name]
+[2016-08-30 05:34:12][ERROR][Firefox Thread1][KeyWords.java][151] - [By.id: guide-close],元素不可见!
+[2016-08-30 05:34:13][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.linkText: 用户中心]
+[2016-08-30 05:34:14][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: set-paypwd]
+[2016-08-30 05:34:14][INFO][Firefox Thread1][KeyWords.java][148] - [By.name: password],元素可见!
+[2016-08-30 05:34:14][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.name: password] to [123456]
+[2016-08-30 05:34:14][INFO][Firefox Thread1][KeyWords.java][148] - [By.name: password_repeat],元素可见!
+[2016-08-30 05:34:14][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.name: password_repeat] to [123456]
+[2016-08-30 05:34:14][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //*[@id="formId_Account_User_setPayPwd"]/ul/li[4]/span[2]/input]
+[2016-08-30 05:34:16][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:34:16][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:34:16][INFO][Firefox Thread1][UserRegistration.java][54] - 13465133965充值
+[2016-08-30 05:34:17][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-30 05:34:18][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-30 05:34:18][INFO][Firefox Thread1][KeyWords.java][167] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-30 05:36:05][INFO][Firefox Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-30 05:36:05][INFO][Firefox Thread1][TestDriver.java][97] - Create a Driver, Browser:firefox
+[2016-08-30 05:36:09][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-30 05:36:11][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+[2016-08-30 05:36:11][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+[2016-08-30 05:36:11][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [15376465498]
+[2016-08-30 05:36:12][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[@id='password']],元素可见!
+[2016-08-30 05:36:12][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='password']] to [a111111]
+[2016-08-30 05:36:22][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+[2016-08-30 05:36:24][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:36:24][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:36:24][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+[2016-08-30 05:36:24][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [285176]
+[2016-08-30 05:36:24][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+[2016-08-30 05:36:27][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //input[contains(@value,'注 册')]]
+[2016-08-30 05:36:28][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-30 05:36:28][INFO][Firefox Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-30 05:36:28][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:28][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:28][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:28][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:29][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:30][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:31][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:32][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:33][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:33][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:33][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:33][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:33][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:33][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: register-back-time],元素可见!
+[2016-08-30 05:36:43][ERROR][Firefox Thread1][KeyWords.java][151] - [By.id: register-back-time],元素不可见!
+[2016-08-30 05:36:43][INFO][Firefox Thread1][UserRegistration.java][49] - 15376465498注册成功
+[2016-08-30 05:36:43][INFO][Firefox Thread1][UserRegistration.java][50] - 15376465498实名认证
+[2016-08-30 05:36:43][INFO][Firefox Thread1][KeyWords.java][119] - open url - http://10.13.28.101/Account/IdAuth/verifyId?isAjax=1&name=孙晓明&personId=330721198012040257
+[2016-08-30 05:36:44][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: /html/body],元素可见!
+[2016-08-30 05:36:44][ERROR][Firefox Thread1][UserRegistration.java][114] - 实名认证失败
+[2016-08-30 05:36:44][INFO][Firefox Thread1][KeyWords.java][609] - Switch to window: 新手指引,新人福利,新手专享-鑫合汇 successfully!
+[2016-08-30 05:36:44][INFO][Firefox Thread1][UserRegistration.java][52] - 15376465498设置支付密码
+[2016-08-30 05:36:45][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: name]
+[2016-08-30 05:36:45][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: guide-close],元素可见!
+[2016-08-30 05:36:46][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: guide-close]
+[2016-08-30 05:36:47][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.linkText: 用户中心]
+[2016-08-30 05:36:47][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: set-paypwd]
+[2016-08-30 05:36:48][INFO][Firefox Thread1][KeyWords.java][148] - [By.name: password],元素可见!
+[2016-08-30 05:36:48][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.name: password] to [123456]
+[2016-08-30 05:36:48][INFO][Firefox Thread1][KeyWords.java][148] - [By.name: password_repeat],元素可见!
+[2016-08-30 05:36:48][INFO][Firefox Thread1][KeyWords.java][278] - Set the value of [By.name: password_repeat] to [123456]
+[2016-08-30 05:36:48][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //*[@id="formId_Account_User_setPayPwd"]/ul/li[4]/span[2]/input]
+[2016-08-30 05:36:49][INFO][Firefox Thread1][KeyWords.java][148] - [By.id: colorboxClose],元素可见!
+[2016-08-30 05:36:49][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.id: colorboxClose]
+[2016-08-30 05:36:49][INFO][Firefox Thread1][UserRegistration.java][54] - 15376465498充值
+[2016-08-30 05:36:51][INFO][Firefox Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-30 05:36:51][INFO][Firefox Thread1][KeyWords.java][148] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-30 05:36:51][INFO][Firefox Thread1][KeyWords.java][167] - [By.xpath: //a[@id='login_button']],元素存在!

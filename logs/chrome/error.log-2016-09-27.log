@@ -1,0 +1,105 @@
+﻿2016-09-27 10:15:07,766 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-09-27 10:17:18,559 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-09-27 10:17:29,514 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-09-27 10:19:37,115 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-09-27 10:19:47,793 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-09-27 10:21:55,630 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-09-27 10:22:06,318 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-09-27 10:24:14,109 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-09-27 10:24:25,170 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-09-27 10:31:44,379 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:31:59,636 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //a[contains(text(),'YYS20160926011')]],元素不可见!
+2016-09-27 10:31:59,637 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //a[contains(text(),'YYS20160926011')]],元素不存在!
+2016-09-27 10:32:00,652 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-09-27 10:32:00,652 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInInvestRecord(UserAccountService.java:324)] 【理财记录】未找到项目YYS20160926011
+2016-09-27 10:32:00,652 ERROR [com.autotest.testcases.RYS009_UserInvest.test(RYS009_UserInvest.java:132)] 【理财记录】校验数据失败
+2016-09-27 10:32:11,127 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'YYS20160926011')][(contains(text(),'回款'))]],元素不可见!
+2016-09-27 10:32:11,138 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'YYS20160926011')][(contains(text(),'回款'))]],元素不存在!
+2016-09-27 10:32:12,184 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-09-27 10:32:12,184 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInPayRecord(UserAccountService.java:392)] 【资金记录】未找到项目YYS20160926011
+2016-09-27 10:32:12,184 ERROR [com.autotest.testcases.RYS009_UserInvest.test(RYS009_UserInvest.java:152)] 【资金记录】校验回款数据失败
+2016-09-27 10:35:08,729 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:82)] 期望值:我要理财-投资成功;与实际值:日益升 -经营贷-鑫合汇不等！
+2016-09-27 10:35:31,920 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:35:45,681 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //a[contains(text(),'YYS20160926011')]],元素不可见!
+2016-09-27 10:35:45,692 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //a[contains(text(),'YYS20160926011')]],元素不存在!
+2016-09-27 10:35:46,724 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-09-27 10:35:46,725 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInInvestRecord(UserAccountService.java:324)] 【理财记录】未找到项目YYS20160926011
+2016-09-27 10:35:46,725 ERROR [com.autotest.testcases.RYS009_UserInvest.test(RYS009_UserInvest.java:132)] 【理财记录】校验数据失败
+2016-09-27 10:35:57,175 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'YYS20160926011')][(contains(text(),'回款'))]],元素不可见!
+2016-09-27 10:35:57,176 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'YYS20160926011')][(contains(text(),'回款'))]],元素不存在!
+2016-09-27 10:35:58,203 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-09-27 10:35:58,203 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInPayRecord(UserAccountService.java:392)] 【资金记录】未找到项目YYS20160926011
+2016-09-27 10:35:58,203 ERROR [com.autotest.testcases.RYS009_UserInvest.test(RYS009_UserInvest.java:152)] 【资金记录】校验回款数据失败
+2016-09-27 10:36:13,267 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:82)] 期望值:我要理财-投资成功;与实际值:日益升 -经营贷-鑫合汇不等！
+2016-09-27 10:36:34,204 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:36:48,103 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //a[contains(text(),'YYS20160926011')]],元素不可见!
+2016-09-27 10:36:48,104 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //a[contains(text(),'YYS20160926011')]],元素不存在!
+2016-09-27 10:36:49,124 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-09-27 10:36:49,125 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInInvestRecord(UserAccountService.java:324)] 【理财记录】未找到项目YYS20160926011
+2016-09-27 10:36:49,125 ERROR [com.autotest.testcases.RYS009_UserInvest.test(RYS009_UserInvest.java:132)] 【理财记录】校验数据失败
+2016-09-27 10:36:59,652 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'YYS20160926011')][(contains(text(),'回款'))]],元素不可见!
+2016-09-27 10:36:59,653 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'YYS20160926011')][(contains(text(),'回款'))]],元素不存在!
+2016-09-27 10:37:00,667 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-09-27 10:37:00,667 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInPayRecord(UserAccountService.java:392)] 【资金记录】未找到项目YYS20160926011
+2016-09-27 10:37:00,668 ERROR [com.autotest.testcases.RYS009_UserInvest.test(RYS009_UserInvest.java:152)] 【资金记录】校验回款数据失败
+2016-09-27 10:37:15,563 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:82)] 期望值:我要理财-投资成功;与实际值:日益升 -经营贷-鑫合汇不等！
+2016-09-27 10:37:36,201 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:37:50,128 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //a[contains(text(),'YYS20160926011')]],元素不可见!
+2016-09-27 10:37:50,139 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //a[contains(text(),'YYS20160926011')]],元素不存在!
+2016-09-27 10:37:51,176 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-09-27 10:37:51,176 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInInvestRecord(UserAccountService.java:324)] 【理财记录】未找到项目YYS20160926011
+2016-09-27 10:37:51,176 ERROR [com.autotest.testcases.RYS009_UserInvest.test(RYS009_UserInvest.java:132)] 【理财记录】校验数据失败
+2016-09-27 10:38:01,666 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'YYS20160926011')][(contains(text(),'回款'))]],元素不可见!
+2016-09-27 10:38:01,667 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'YYS20160926011')][(contains(text(),'回款'))]],元素不存在!
+2016-09-27 10:38:02,684 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-09-27 10:38:02,684 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInPayRecord(UserAccountService.java:392)] 【资金记录】未找到项目YYS20160926011
+2016-09-27 10:38:02,684 ERROR [com.autotest.testcases.RYS009_UserInvest.test(RYS009_UserInvest.java:152)] 【资金记录】校验回款数据失败
+2016-09-27 10:38:17,698 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:82)] 期望值:我要理财-投资成功;与实际值:日益升 -经营贷-鑫合汇不等！
+2016-09-27 10:38:38,774 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:38:52,803 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //a[contains(text(),'YYS20160926011')]],元素不可见!
+2016-09-27 10:38:52,807 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //a[contains(text(),'YYS20160926011')]],元素不存在!
+2016-09-27 10:38:53,830 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-09-27 10:38:53,830 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInInvestRecord(UserAccountService.java:324)] 【理财记录】未找到项目YYS20160926011
+2016-09-27 10:38:53,830 ERROR [com.autotest.testcases.RYS009_UserInvest.test(RYS009_UserInvest.java:132)] 【理财记录】校验数据失败
+2016-09-27 10:39:04,277 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'YYS20160926011')][(contains(text(),'回款'))]],元素不可见!
+2016-09-27 10:39:04,299 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'YYS20160926011')][(contains(text(),'回款'))]],元素不存在!
+2016-09-27 10:39:05,311 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-09-27 10:39:05,311 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInPayRecord(UserAccountService.java:392)] 【资金记录】未找到项目YYS20160926011
+2016-09-27 10:39:05,311 ERROR [com.autotest.testcases.RYS009_UserInvest.test(RYS009_UserInvest.java:152)] 【资金记录】校验回款数据失败
+2016-09-27 10:39:20,541 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:82)] 期望值:我要理财-投资成功;与实际值:日益升 -经营贷-鑫合汇不等！
+2016-09-27 10:40:20,246 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:40:43,560 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:41:07,772 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:41:30,679 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:41:53,564 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:42:46,684 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: html/body/div[9]],元素不可见!
+2016-09-27 10:43:08,909 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-27 10:43:34,687 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-27 10:44:00,716 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-27 10:44:26,660 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-27 10:44:52,971 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:45:05,085 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-27 10:45:05,096 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-27 10:45:20,227 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@class='page pageWraper']/a],元素不可见!
+2016-09-27 10:45:20,238 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@class='page pageWraper']/a],元素不存在!
+2016-09-27 10:45:52,536 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:46:15,681 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:46:37,119 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:46:59,202 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 10:47:21,119 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 13:56:00,096 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 13:56:12,116 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-27 13:56:12,127 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-27 13:56:20,263 ERROR [com.autotest.utility.StringUtils.compareList(StringUtils.java:196)] 期望值列表中不存在实际值：{交易金额=-40000.00, 类型=项目支付, 摘要=项目 “YYS20160927002” 支付}
+2016-09-27 13:56:20,263 ERROR [com.autotest.utility.StringUtils.compareList(StringUtils.java:196)] 期望值列表中不存在实际值：{交易金额=+10000.00, 类型=项目融资, 摘要=项目 “YYS20160927002” 融资}
+2016-09-27 13:56:20,263 ERROR [com.autotest.utility.StringUtils.compareList(StringUtils.java:196)] 期望值列表中不存在实际值：{交易金额=+7000.00, 类型=项目融资, 摘要=项目 “YYS20160927002” 融资}
+2016-09-27 13:56:20,264 ERROR [com.autotest.utility.StringUtils.compareList(StringUtils.java:196)] 期望值列表中不存在实际值：{交易金额=+5000.00, 类型=项目融资, 摘要=项目 “YYS20160927002” 融资}
+2016-09-27 13:56:20,264 ERROR [com.autotest.utility.StringUtils.compareList(StringUtils.java:196)] 期望值列表中不存在实际值：{交易金额=+8000.00, 类型=项目融资, 摘要=项目 “YYS20160927002” 融资}
+2016-09-27 13:56:20,264 ERROR [com.autotest.utility.StringUtils.compareList(StringUtils.java:196)] 期望值列表中不存在实际值：{交易金额=+10000.00, 类型=项目融资, 摘要=项目 “YYS20160927002” 融资}
+2016-09-27 13:56:20,264 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:301)] 【资金记录数据校验错误！】
+2016-09-27 14:00:44,927 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-27 14:00:55,362 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素不可见!
+2016-09-27 14:00:55,374 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素不存在!
+2016-09-27 14:01:05,690 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-27 14:01:05,706 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-27 14:01:05,706 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:318)] 保理账户登录失败！

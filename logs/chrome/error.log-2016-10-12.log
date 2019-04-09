@@ -1,0 +1,23 @@
+2016-10-12 20:01:51,025 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] balance期望值:41750.97;与实际值:41750.96不等！
+2016-10-12 20:01:51,025 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] asset期望值:50958.83;与实际值:50958.82不等！
+2016-10-12 20:01:51,025 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] exist_profit期望值:611.84;与实际值:958.82不等！
+2016-10-12 20:01:51,025 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] will_profit期望值:514.15;与实际值:514.14不等！
+2016-10-12 20:01:51,025 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] total_profit期望值:1472.98;与实际值:1472.96不等！
+2016-10-12 20:01:51,025 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:372)] 【账户总览页面字段校验】失败
+2016-10-12 20:02:00,383 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] profit期望值:611.84;与实际值:611.83不等！
+2016-10-12 20:02:00,383 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] status期望值:还款中1/12;与实际值:还款中
+1/12不等！
+2016-10-12 20:02:00,383 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:415)] 【理财记录】校验数据失败
+2016-10-12 20:02:02,807 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:425)] 【资金记录】校验记录条数失败
+2016-10-12 20:02:03,654 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] 账户余额期望值:41750.97;与实际值:41750.96不等！
+2016-10-12 20:02:03,654 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:434)] 【资金记录】校验数据失败
+2016-10-12 20:02:45,287 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] balance期望值:41750.97;与实际值:41750.96不等！
+2016-10-12 20:02:45,287 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] asset期望值:50958.83;与实际值:50958.82不等！
+2016-10-12 20:02:45,287 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] exist_profit期望值:611.84;与实际值:958.82不等！
+2016-10-12 20:02:45,287 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] will_profit期望值:514.15;与实际值:514.14不等！
+2016-10-12 20:02:45,287 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] total_profit期望值:1472.98;与实际值:1472.96不等！
+2016-10-12 20:02:45,287 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:372)] 【账户总览页面字段校验】失败
+2016-10-12 20:02:51,801 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] profit期望值:611.84;与实际值:611.83不等！
+2016-10-12 20:02:51,801 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] status期望值:还款中1/12;与实际值:还款中
+1/12不等！
+2016-10-12 20:02:51,801 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:415)] 【理财记录】校验数据失败

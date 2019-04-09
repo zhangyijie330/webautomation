@@ -1,0 +1,9 @@
+2016-09-21 16:41:15,359 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-09-21 16:43:26,982 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-09-21 16:43:38,302 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-09-21 16:45:46,977 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-09-21 16:45:58,829 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-09-21 16:48:07,959 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-09-21 16:48:18,854 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-09-21 16:50:28,002 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-09-21 16:50:38,979 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!

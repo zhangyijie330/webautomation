@@ -1,0 +1,113 @@
+[2016-08-05 05:44:10][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-05 05:44:10][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-05 05:44:35][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-05 05:44:35][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-05 05:45:04][INFO][Chrome Thread1][KeyWords.java][95] - open url - http://10.13.28.102:8080/
+[2016-08-05 05:45:04][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-05 05:45:04][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-05 05:45:04][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-05 05:45:05][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-05 05:45:05][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-05 05:45:05][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-05 05:45:07][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-05 05:45:07][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-05 05:45:07][ERROR][Chrome Thread1][TestCase1_zyj.java][61] - 
+java.lang.IllegalArgumentException: Cannot find elements when the XPath expression is null.
+	at org.openqa.selenium.By.xpath(By.java:113)
+	at com.autotest.utility.OrUtil.getBy(OrUtil.java:146)
+	at com.autotest.service.bmpService.Loan.enterLoan(Loan.java:24)
+	at com.autotest.testcases.TestCase1_zyj.Test(TestCase1_zyj.java:49)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[2016-08-05 05:45:07][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-05 05:45:12][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-05 05:46:56][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-05 05:46:56][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-05 05:47:04][INFO][Chrome Thread1][KeyWords.java][95] - open url - http://10.13.28.102:8080/
+[2016-08-05 05:47:05][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-05 05:47:05][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-05 05:47:05][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-05 05:47:05][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-05 05:47:05][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-05 05:47:05][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-05 05:47:07][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-05 05:47:07][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-05 05:47:07][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-05 05:47:09][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-05 05:47:19][ERROR][Chrome Thread1][KeyWords.java][126] - [By.xpath: //div[@id='customerMainTable']/div[1]/div[3]/ul/li/a/span[1]],元素不可见!
+[2016-08-05 05:47:20][ERROR][Chrome Thread1][KeyWords.java][144] - [By.xpath: //div[@id='customerMainTable']/div[1]/div[3]/ul/li/a/span[1]],元素不存在!
+[2016-08-05 05:47:20][ERROR][Chrome Thread1][TestCase1_zyj.java][51] - 访问【财务管理-项目放款】页面失败!
+[2016-08-05 05:47:20][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-05 05:47:21][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-05 05:48:29][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-05 05:48:29][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-05 05:48:37][INFO][Chrome Thread1][KeyWords.java][95] - open url - http://10.13.28.102:8080/
+[2016-08-05 05:48:38][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-05 05:48:39][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-05 05:48:39][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-05 05:48:39][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-05 05:48:39][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-05 05:48:39][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-05 05:48:41][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-05 05:48:41][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-05 05:48:41][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-05 05:48:42][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-05 05:48:52][ERROR][Chrome Thread1][KeyWords.java][126] - [By.xpath: //div[@id='customerMainTable']/div[1]/div[3]/ul/li/a/span[1]],元素不可见!
+[2016-08-05 05:48:53][ERROR][Chrome Thread1][KeyWords.java][144] - [By.xpath: //div[@id='customerMainTable']/div[1]/div[3]/ul/li/a/span[1]],元素不存在!
+[2016-08-05 05:48:53][ERROR][Chrome Thread1][TestCase1_zyj.java][51] - 访问【财务管理-项目放款】页面失败!
+[2016-08-05 05:48:53][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-05 05:48:55][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-05 05:54:06][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-05 05:54:06][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-05 05:54:14][INFO][Chrome Thread1][KeyWords.java][95] - open url - http://10.13.28.102:8080/
+[2016-08-05 05:54:15][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-05 05:54:16][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-05 05:54:16][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-05 05:54:16][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-05 05:54:16][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-05 05:54:16][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-05 05:54:18][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-05 05:54:18][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-05 05:54:18][ERROR][Chrome Thread1][TestCase1_zyj.java][56] - 
+java.lang.NullPointerException
+	at com.autotest.testcases.TestCase1_zyj.Test(TestCase1_zyj.java:46)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[2016-08-05 05:54:18][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-05 05:54:20][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.

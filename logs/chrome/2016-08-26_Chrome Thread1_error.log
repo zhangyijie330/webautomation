@@ -1,0 +1,26 @@
+[2016-08-26 11:00:10][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - balance期望值:50000.00;与实际值:25000.89不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - asset期望值:50000.00;与实际值:100048.89不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - exist_profit期望值:0.00;与实际值:48.89不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - will_profit期望值:0.00;与实际值:159.64不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - total_profit期望值:0.00;与实际值:208.53不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - total_invest期望值:0.00;与实际值:75048.00不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][YYS002_Payment.java][113] - 【账户总览】页面字段校验失败
+[2016-08-26 11:00:25][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-26 11:00:25][ERROR][Chrome Thread1][YYS002_Payment.java][134] - 回款日历校验失败！
+[2016-08-26 11:03:01][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - balance期望值:50000.00;与实际值:25000.89不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - asset期望值:50000.00;与实际值:100048.89不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - exist_profit期望值:0.00;与实际值:48.89不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - will_profit期望值:0.00;与实际值:159.64不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - total_profit期望值:0.00;与实际值:208.53不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - total_invest期望值:0.00;与实际值:75048.00不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][YYS002_Payment.java][113] - 【账户总览】页面字段校验失败
+[2016-08-26 11:03:15][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-26 11:03:15][ERROR][Chrome Thread1][YYS002_Payment.java][134] - 回款日历校验失败！

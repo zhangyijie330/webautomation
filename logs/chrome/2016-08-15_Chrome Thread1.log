@@ -1,0 +1,120 @@
+[2016-08-15 09:18:03][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-15 09:18:03][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-15 09:18:12][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.101/
+[2016-08-15 09:18:14][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-15 09:18:15][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-15 09:18:15][INFO][Chrome Thread1][KeyWords.java][250] - Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+[2016-08-15 09:18:15][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-15 09:18:16][INFO][Chrome Thread1][KeyWords.java][250] - Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+[2016-08-15 09:18:26][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-15 09:18:27][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-15 09:18:29][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-15 09:18:29][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-15 09:18:29][INFO][Chrome Thread1][test11.java][32] - maoyl1登录成功
+[2016-08-15 09:18:32][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+[2016-08-15 09:18:35][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: getMyRecordList_type],元素可见!
+[2016-08-15 09:18:35][INFO][Chrome Thread1][KeyWords.java][150] - [By.id: getMyRecordList_type],元素存在!
+[2016-08-15 09:18:35][INFO][Chrome Thread1][test11.java][43] - 【进入资金记录页面成功！】
+[2016-08-15 09:18:35][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //div[@id='search']/button]
+[2016-08-15 09:18:35][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //span[contains(text(),'最近一周')]]
+[2016-08-15 09:18:35][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-15 09:18:39][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[2]],元素可见!
+[2016-08-15 09:18:39][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 09:18:50][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不可见!
+[2016-08-15 09:18:50][ERROR][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不存在!
+[2016-08-15 09:18:50][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 09:18:50][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 09:18:50][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[1]]
+[2016-08-15 09:18:50][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 09:19:01][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不可见!
+[2016-08-15 09:19:01][ERROR][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不存在!
+[2016-08-15 09:19:01][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 09:19:02][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 09:19:02][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[1]]
+[2016-08-15 09:19:02][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 09:19:03][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素可见!
+[2016-08-15 09:19:03][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素存在!
+[2016-08-15 09:19:03][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素可见!
+[2016-08-15 09:19:05][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 09:19:05][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 09:19:05][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[1]]
+[2016-08-15 09:19:05][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 09:19:05][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素可见!
+[2016-08-15 09:19:05][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素存在!
+[2016-08-15 09:19:05][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素可见!
+[2016-08-15 09:19:08][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 09:19:08][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 09:19:08][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[1]]
+[2016-08-15 09:19:08][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 09:19:18][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不可见!
+[2016-08-15 09:19:18][ERROR][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不存在!
+[2016-08-15 09:19:19][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 09:19:19][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 09:19:19][INFO][Chrome Thread1][KeyWords.java][212] - Click on [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[1]]
+[2016-08-15 09:19:19][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 09:19:29][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不可见!
+[2016-08-15 09:19:29][ERROR][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不存在!
+[2016-08-15 09:19:29][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 09:19:29][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 09:19:29][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-15 09:19:31][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-15 03:13:46][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-15 03:13:46][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-15 03:13:52][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.101/
+[2016-08-15 03:13:53][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-15 03:13:54][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-15 03:13:54][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+[2016-08-15 03:13:54][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-15 03:13:54][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+[2016-08-15 03:14:05][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-15 03:14:05][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-15 03:14:07][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-15 03:14:07][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-15 03:14:07][INFO][Chrome Thread1][test11.java][32] - maoyl1登录成功
+[2016-08-15 03:14:11][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+[2016-08-15 03:14:14][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: getMyRecordList_type],元素可见!
+[2016-08-15 03:14:14][INFO][Chrome Thread1][KeyWords.java][150] - [By.id: getMyRecordList_type],元素存在!
+[2016-08-15 03:14:14][INFO][Chrome Thread1][test11.java][43] - 【进入资金记录页面成功！】
+[2016-08-15 03:14:14][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[@id='search']/button]
+[2016-08-15 03:14:14][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //span[contains(text(),'最近一周')]]
+[2016-08-15 03:14:14][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-15 03:14:17][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[2]],元素可见!
+[2016-08-15 03:14:17][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 03:14:28][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不可见!
+[2016-08-15 03:14:28][ERROR][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不存在!
+[2016-08-15 03:14:28][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 03:14:28][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 03:14:28][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[1]]
+[2016-08-15 03:14:28][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 03:14:38][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不可见!
+[2016-08-15 03:14:39][ERROR][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不存在!
+[2016-08-15 03:14:39][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 03:14:39][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 03:14:39][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[1]]
+[2016-08-15 03:14:39][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 03:14:40][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素可见!
+[2016-08-15 03:14:40][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素存在!
+[2016-08-15 03:14:40][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素可见!
+[2016-08-15 03:14:42][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 03:14:42][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 03:14:42][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[1]]
+[2016-08-15 03:14:43][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 03:14:43][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素可见!
+[2016-08-15 03:14:43][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素存在!
+[2016-08-15 03:14:43][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素可见!
+[2016-08-15 03:14:45][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 03:14:45][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 03:14:45][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[1]]
+[2016-08-15 03:14:45][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 03:14:55][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不可见!
+[2016-08-15 03:14:56][ERROR][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不存在!
+[2016-08-15 03:14:56][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 03:14:56][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 03:14:56][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[1]]
+[2016-08-15 03:14:56][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-15 03:15:06][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不可见!
+[2016-08-15 03:15:07][ERROR][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160809005')]/parent::*],元素不存在!
+[2016-08-15 03:15:07][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-15 03:15:07][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-15 03:15:07][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-15 03:15:08][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.

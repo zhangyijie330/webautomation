@@ -1,0 +1,38 @@
+2016-09-29 16:13:19,498 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: work_frame],元素不可见!
+2016-09-29 16:13:19,511 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.id: work_frame],元素不存在!
+2016-09-29 16:13:19,529 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:320)] Exception
+java.lang.NullPointerException
+	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+	at java.lang.Double.parseDouble(Unknown Source)
+	at com.autotest.service.bmpService.Loan.formatStr(Loan.java:58)
+	at com.autotest.service.bmpService.Loan.getprodinfo(Loan.java:111)
+	at com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-29 16:17:45,483 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: work_frame],元素不可见!
+2016-09-29 16:17:45,495 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.id: work_frame],元素不存在!
+2016-09-29 16:17:47,912 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] financingscale期望值:100,000.00;与实际值:300,000.00不等！
+2016-09-29 16:17:47,914 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] loanprofit期望值:.00;与实际值:15,235.65不等！
+2016-09-29 16:17:47,914 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] actualfinacamount期望值:.00;与实际值:300,000.00不等！
+2016-09-29 16:17:47,914 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] prodname期望值:yw10223(订单数:0/0);与实际值:yw10223(订单数:0/265)不等！
+2016-09-29 16:17:47,915 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] needpayamount期望值:.00;与实际值:300,000.00不等！
+2016-09-29 16:17:47,915 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:76)] 【项目放款】放款字段校验失败！
+2016-09-29 16:17:48,751 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:85)] 【项目放款】校验支付金额错误！

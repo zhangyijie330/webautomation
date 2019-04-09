@@ -1,0 +1,17 @@
+[2016-08-22 01:43:58][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-22 01:43:58][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-22 01:44:02][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-22 01:44:04][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-22 01:45:10][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-22 01:45:10][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-22 01:45:15][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.102:8080/
+[2016-08-22 01:45:15][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-22 01:45:15][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-22 01:45:15][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-22 01:45:15][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-22 01:45:15][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-22 01:45:15][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-22 01:45:17][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-22 01:45:17][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-22 01:45:17][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-22 01:45:19][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]

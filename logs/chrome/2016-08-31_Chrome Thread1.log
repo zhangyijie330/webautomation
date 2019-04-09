@@ -1,0 +1,1729 @@
+[2016-08-31 10:09:17][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-31 10:09:17][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-31 10:09:27][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.102:8080/
+[2016-08-31 10:09:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-31 10:09:29][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='userNo']] to [wb002]
+[2016-08-31 10:09:29][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-31 10:09:30][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-31 10:09:30][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-31 10:09:30][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-31 10:09:32][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-31 10:09:32][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-31 10:09:32][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[contains(text(),'项目运营')]]
+[2016-08-31 10:09:33][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //ul[@id='menu181']/li[11]/div/span[3]]
+[2016-08-31 10:09:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.id: work_frame],元素可见!
+[2016-08-31 10:09:36][INFO][Chrome Thread1][KeyWords.java][167] - [By.id: work_frame],元素存在!
+[2016-08-31 10:09:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:09:40][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: /html/body/div[4]/a[1]]
+[2016-08-31 10:09:41][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='baseInfo_form']/table],元素可见!
+[2016-08-31 10:09:41][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='isXprj0']]
+[2016-08-31 10:09:41][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[@id='borrowerType']/span]
+[2016-08-31 10:09:41][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[text()='个人']]
+[2016-08-31 10:09:41][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='borrowName']]
+[2016-08-31 10:09:42][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='panel window']],元素可见!
+[2016-08-31 10:09:42][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']],元素可见!
+[2016-08-31 10:09:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']/tr],元素可见!
+[2016-08-31 10:09:44][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]]
+[2016-08-31 10:09:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]],元素可见!
+[2016-08-31 10:09:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tr[@id='tr_borrowerDataTable_0']/td[2]/div],元素可见!
+[2016-08-31 10:09:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='borrowName']],元素可见!
+[2016-08-31 10:09:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='demandAmount']],元素可见!
+[2016-08-31 10:09:45][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='demandAmount']] to [100000]
+[2016-08-31 10:09:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='time']],元素可见!
+[2016-08-31 10:09:45][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='time']] to [3]
+[2016-08-31 10:09:46][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='timeLimitUnit']/span]
+[2016-08-31 10:09:46][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //div[text()='天']]
+[2016-08-31 10:09:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='rate']],元素可见!
+[2016-08-31 10:09:46][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='rate']] to [8.5]
+[2016-08-31 10:09:47][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='prjBusinessType']/span/span]
+[2016-08-31 10:09:47][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='鑫股一号']]
+[2016-08-31 10:09:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='showBidTime']],元素可见!
+[2016-08-31 10:09:47][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='showBidTime']] to [2016-08-31 10:14:41]
+[2016-08-31 10:09:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='startBidTime']],元素可见!
+[2016-08-31 10:09:47][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='startBidTime']] to [2016-08-31 10:19:41]
+[2016-08-31 10:09:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='endBidTime']],元素可见!
+[2016-08-31 10:09:47][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='endBidTime']] to [2016-08-31 23:59:59]
+[2016-08-31 10:09:49][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+[2016-08-31 10:09:49][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='product_form']],元素可见!
+[2016-08-31 10:09:49][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='bid_form']],元素可见!
+[2016-08-31 10:09:49][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='protocolparamform']],元素可见!
+[2016-08-31 10:09:50][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='productName']],元素可见!
+[2016-08-31 10:09:51][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='productName']] to [RYS20160831001]
+[2016-08-31 10:09:51][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //form[@id='product_form']]
+[2016-08-31 10:09:53][ERROR][Chrome Thread1][Factoring_Project_Release_RYS20160718001.java][233] - 出现异常!截图[screenshot/1472609393263.jpg]
+java.lang.Exception: 产品名称已存在！
+	at com.autotest.service.bmpService.FactoringRelease.writeAddInfo(FactoringRelease.java:432)
+	at com.autotest.testcases.Factoring_Project_Release_RYS20160718001.test(Factoring_Project_Release_RYS20160718001.java:115)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[2016-08-31 10:09:53][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-31 10:09:56][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-31 10:17:30][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-31 10:17:30][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-31 10:17:36][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.102:8080/
+[2016-08-31 10:17:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-31 10:17:37][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='userNo']] to [wb002]
+[2016-08-31 10:17:37][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-31 10:17:37][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-31 10:17:37][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-31 10:17:37][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-31 10:17:38][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-31 10:17:38][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-31 10:17:39][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[contains(text(),'项目运营')]]
+[2016-08-31 10:17:40][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //ul[@id='menu181']/li[11]/div/span[3]]
+[2016-08-31 10:17:42][INFO][Chrome Thread1][KeyWords.java][148] - [By.id: work_frame],元素可见!
+[2016-08-31 10:17:42][INFO][Chrome Thread1][KeyWords.java][167] - [By.id: work_frame],元素存在!
+[2016-08-31 10:17:50][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:17:51][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: /html/body/div[4]/a[1]]
+[2016-08-31 10:17:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='baseInfo_form']/table],元素可见!
+[2016-08-31 10:17:52][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='isXprj0']]
+[2016-08-31 10:17:52][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[@id='borrowerType']/span]
+[2016-08-31 10:17:52][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[text()='个人']]
+[2016-08-31 10:17:53][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='borrowName']]
+[2016-08-31 10:17:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='panel window']],元素可见!
+[2016-08-31 10:17:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']],元素可见!
+[2016-08-31 10:17:55][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']/tr],元素可见!
+[2016-08-31 10:17:55][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]]
+[2016-08-31 10:17:55][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]],元素可见!
+[2016-08-31 10:17:55][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tr[@id='tr_borrowerDataTable_0']/td[2]/div],元素可见!
+[2016-08-31 10:17:55][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='borrowName']],元素可见!
+[2016-08-31 10:17:56][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='demandAmount']],元素可见!
+[2016-08-31 10:17:56][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='demandAmount']] to [100000]
+[2016-08-31 10:17:56][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='time']],元素可见!
+[2016-08-31 10:17:56][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='time']] to [3]
+[2016-08-31 10:17:57][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='timeLimitUnit']/span]
+[2016-08-31 10:17:57][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //div[text()='天']]
+[2016-08-31 10:17:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='rate']],元素可见!
+[2016-08-31 10:17:57][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='rate']] to [8.5]
+[2016-08-31 10:17:58][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='prjBusinessType']/span/span]
+[2016-08-31 10:17:58][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='鑫股一号']]
+[2016-08-31 10:17:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='showBidTime']],元素可见!
+[2016-08-31 10:17:58][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='showBidTime']] to [2016-08-31 10:22:52]
+[2016-08-31 10:17:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='startBidTime']],元素可见!
+[2016-08-31 10:17:58][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='startBidTime']] to [2016-08-31 10:27:52]
+[2016-08-31 10:17:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='endBidTime']],元素可见!
+[2016-08-31 10:17:58][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='endBidTime']] to [2016-08-31 23:59:59]
+[2016-08-31 10:18:00][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+[2016-08-31 10:18:00][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='product_form']],元素可见!
+[2016-08-31 10:18:00][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='bid_form']],元素可见!
+[2016-08-31 10:18:00][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='protocolparamform']],元素可见!
+[2016-08-31 10:18:01][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='productName']],元素可见!
+[2016-08-31 10:18:01][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='productName']] to [ZYJ20160831001]
+[2016-08-31 10:18:01][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //form[@id='product_form']]
+[2016-08-31 10:18:03][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //textarea[@id='money_using']],元素可见!
+[2016-08-31 10:18:03][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //textarea[@id='money_using']] to [临时周转]
+[2016-08-31 10:18:03][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //textarea[@id='repay_origin']],元素可见!
+[2016-08-31 10:18:03][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //textarea[@id='repay_origin']] to [经营所得]
+[2016-08-31 10:18:03][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='fiPrjPerson_educational']/span]
+[2016-08-31 10:18:04][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='博士后']]
+[2016-08-31 10:18:04][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='annualEarnings']],元素可见!
+[2016-08-31 10:18:04][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='annualEarnings']] to [1000000]
+[2016-08-31 10:18:04][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='fundAccount']/span]
+[2016-08-31 10:18:04][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='上海鑫合汇网络科技有限公司(工商银行-6227003814170172872)']]
+[2016-08-31 10:18:04][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+[2016-08-31 10:18:05][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [ZYJ20160831001合同]
+[2016-08-31 10:18:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[1].paramValue']],元素可见!
+[2016-08-31 10:18:06][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[1].paramValue']] to [xm001]
+[2016-08-31 10:18:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[4].paramValue']],元素可见!
+[2016-08-31 10:18:06][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[4].paramValue']] to [dbbh001]
+[2016-08-31 10:18:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[5].paramValue']],元素可见!
+[2016-08-31 10:18:06][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[5].paramValue']] to [blh001]
+[2016-08-31 10:18:07][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[9].paramValue']],元素可见!
+[2016-08-31 10:18:07][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[9].paramValue']] to [孙群领]
+[2016-08-31 10:18:07][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[11].paramValue']],元素可见!
+[2016-08-31 10:18:07][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[11].paramValue']] to [330722196501292110]
+[2016-08-31 10:18:07][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[13].paramValue']],元素可见!
+[2016-08-31 10:18:07][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[13].paramValue']] to [0]
+[2016-08-31 10:18:07][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[14].paramValue']],元素可见!
+[2016-08-31 10:18:07][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[14].paramValue']] to [1]
+[2016-08-31 10:18:07][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='productName']],元素可见!
+[2016-08-31 10:18:08][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='doPublishFactor']]
+[2016-08-31 10:18:09][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='messager-body panel-body panel-body-noborder window-body']/div[2]],元素可见!
+[2016-08-31 10:18:09][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@class='messager-button']/a]
+[2016-08-31 10:18:12][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:18:12][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[text()='项目审核']]
+[2016-08-31 10:18:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //iframe[@id='work_frame']],元素可见!
+[2016-08-31 10:18:13][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //iframe[@id='work_frame']],元素存在!
+[2016-08-31 10:18:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:18:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='searchBean.projectName']],元素可见!
+[2016-08-31 10:18:14][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='searchBean.projectName']] to [ZYJ20160831001]
+[2016-08-31 10:18:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='searchBean.projectName']],元素可见!
+[2016-08-31 10:18:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:18:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[2]/div/input],元素可见!
+[2016-08-31 10:18:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[3]/div],元素可见!
+[2016-08-31 10:18:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[4]/div],元素可见!
+[2016-08-31 10:18:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[5]/div],元素可见!
+[2016-08-31 10:18:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[6]/div],元素可见!
+[2016-08-31 10:18:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[7]/div],元素可见!
+[2016-08-31 10:18:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[8]/div],元素可见!
+[2016-08-31 10:18:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[9]/div],元素可见!
+[2016-08-31 10:18:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[10]/div],元素可见!
+[2016-08-31 10:18:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[11]/div],元素可见!
+[2016-08-31 10:18:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[12]/div],元素可见!
+[2016-08-31 10:18:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:18:19][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='financingInfo_form']],元素可见!
+[2016-08-31 10:18:19][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //form[@id='financingInfo_form']],元素存在!
+[2016-08-31 10:18:19][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+[2016-08-31 10:18:20][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //table[@id='basic']],元素可见!
+[2016-08-31 10:18:20][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //table[@id='basic']],元素存在!
+[2016-08-31 10:18:20][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[@id='memberId_noShare']/span]
+[2016-08-31 10:18:20][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='鑫合汇']]
+[2016-08-31 10:18:21][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='ch1']]
+[2016-08-31 10:18:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+[2016-08-31 10:18:21][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [hth001]
+[2016-08-31 10:18:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='prjType']/parent::td/following-sibling::td[2]],元素可见!
+[2016-08-31 10:18:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='repayDateSpan']/parent::font/parent::td],元素可见!
+[2016-08-31 10:18:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='repayDateSpan']/parent::font/parent::td/following-sibling::td[2]],元素可见!
+[2016-08-31 10:18:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrj_isNew1']],元素可见!
+[2016-08-31 10:18:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isXzd1']],元素可见!
+[2016-08-31 10:18:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isExtend1']],元素可见!
+[2016-08-31 10:18:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='payWay']/input[1]],元素可见!
+[2016-08-31 10:18:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'保障方式:')]/following-sibling::td[1]],元素可见!
+[2016-08-31 10:18:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='发布机构:']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:18:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='户名：']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:18:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='账号：']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:18:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='开户行：']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:18:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='isShare1']],元素可见!
+[2016-08-31 10:18:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isEarlyClose1']],元素可见!
+[2016-08-31 10:18:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isHaveBidingIncoming1']],元素可见!
+[2016-08-31 10:18:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isEarlyRepay1']],元素可见!
+[2016-08-31 10:18:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'是否允许多次投标')]/following-sibling::td[1]/child::input[1]],元素可见!
+[2016-08-31 10:18:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isAppointPrj1']],元素可见!
+[2016-08-31 10:18:36][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //tbody[@id='body_dataTable']],元素不可见!
+[2016-08-31 10:18:36][ERROR][Chrome Thread1][Factoring_Project_Release_RYS20160718001.java][233] - 出现异常!截图[screenshot/1472609916848.jpg]
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//tbody[@id='body_dataTable']}
+Session ID: e45fc5b304b3f90b4fbf5960891ee06a
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir5892_9322}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 463 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//tbody[@id='body_dataTable']}
+Session ID: 25c268ee-d911-4d6a-a783-40fe150a227e
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir5892_9322}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=25c268ee-d911-4d6a-a783-40fe150a227e, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:336)
+	at com.autotest.service.bmpService.ProjectAudit.submit(ProjectAudit.java:549)
+	at com.autotest.testcases.Factoring_Project_Release_RYS20160718001.test(Factoring_Project_Release_RYS20160718001.java:217)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 28 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//tbody[@id='body_dataTable']}
+Session ID: e45fc5b304b3f90b4fbf5960891ee06a
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir5892_9322}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+[2016-08-31 10:18:37][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-31 10:18:39][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-31 10:18:58][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-31 10:18:58][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-31 10:19:04][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.102:8080/
+[2016-08-31 10:19:04][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-31 10:19:04][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='userNo']] to [wb002]
+[2016-08-31 10:19:04][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-31 10:19:04][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-31 10:19:04][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-31 10:19:05][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-31 10:19:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-31 10:19:06][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-31 10:19:06][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[contains(text(),'项目运营')]]
+[2016-08-31 10:19:08][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //ul[@id='menu181']/li[11]/div/span[3]]
+[2016-08-31 10:19:09][INFO][Chrome Thread1][KeyWords.java][148] - [By.id: work_frame],元素可见!
+[2016-08-31 10:19:09][INFO][Chrome Thread1][KeyWords.java][167] - [By.id: work_frame],元素存在!
+[2016-08-31 10:19:12][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:19:12][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: /html/body/div[4]/a[1]]
+[2016-08-31 10:19:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='baseInfo_form']/table],元素可见!
+[2016-08-31 10:19:13][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='isXprj0']]
+[2016-08-31 10:19:13][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[@id='borrowerType']/span]
+[2016-08-31 10:19:13][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[text()='个人']]
+[2016-08-31 10:19:14][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='borrowName']]
+[2016-08-31 10:19:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='panel window']],元素可见!
+[2016-08-31 10:19:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']],元素可见!
+[2016-08-31 10:19:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']/tr],元素可见!
+[2016-08-31 10:19:16][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]]
+[2016-08-31 10:19:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]],元素可见!
+[2016-08-31 10:19:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tr[@id='tr_borrowerDataTable_0']/td[2]/div],元素可见!
+[2016-08-31 10:19:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='borrowName']],元素可见!
+[2016-08-31 10:19:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='demandAmount']],元素可见!
+[2016-08-31 10:19:17][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='demandAmount']] to [100000]
+[2016-08-31 10:19:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='time']],元素可见!
+[2016-08-31 10:19:17][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='time']] to [3]
+[2016-08-31 10:19:18][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='timeLimitUnit']/span]
+[2016-08-31 10:19:18][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //div[text()='天']]
+[2016-08-31 10:19:18][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='rate']],元素可见!
+[2016-08-31 10:19:18][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='rate']] to [8.5]
+[2016-08-31 10:19:18][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='prjBusinessType']/span/span]
+[2016-08-31 10:19:19][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='鑫股一号']]
+[2016-08-31 10:19:19][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='showBidTime']],元素可见!
+[2016-08-31 10:19:19][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='showBidTime']] to [2016-08-31 10:24:13]
+[2016-08-31 10:19:19][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='startBidTime']],元素可见!
+[2016-08-31 10:19:19][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='startBidTime']] to [2016-08-31 10:29:13]
+[2016-08-31 10:19:19][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='endBidTime']],元素可见!
+[2016-08-31 10:19:19][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='endBidTime']] to [2016-08-31 23:59:59]
+[2016-08-31 10:19:21][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+[2016-08-31 10:19:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='product_form']],元素可见!
+[2016-08-31 10:19:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='bid_form']],元素可见!
+[2016-08-31 10:19:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='protocolparamform']],元素可见!
+[2016-08-31 10:19:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='productName']],元素可见!
+[2016-08-31 10:19:22][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='productName']] to [ZYJ20160831002]
+[2016-08-31 10:19:22][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //form[@id='product_form']]
+[2016-08-31 10:19:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //textarea[@id='money_using']],元素可见!
+[2016-08-31 10:19:24][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //textarea[@id='money_using']] to [临时周转]
+[2016-08-31 10:19:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //textarea[@id='repay_origin']],元素可见!
+[2016-08-31 10:19:24][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //textarea[@id='repay_origin']] to [经营所得]
+[2016-08-31 10:19:24][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='fiPrjPerson_educational']/span]
+[2016-08-31 10:19:24][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='博士后']]
+[2016-08-31 10:19:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='annualEarnings']],元素可见!
+[2016-08-31 10:19:25][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='annualEarnings']] to [1000000]
+[2016-08-31 10:19:25][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='fundAccount']/span]
+[2016-08-31 10:19:25][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='上海鑫合汇网络科技有限公司(工商银行-6227003814170172872)']]
+[2016-08-31 10:19:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+[2016-08-31 10:19:25][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [ZYJ20160831002合同]
+[2016-08-31 10:19:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[1].paramValue']],元素可见!
+[2016-08-31 10:19:26][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[1].paramValue']] to [xm001]
+[2016-08-31 10:19:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[4].paramValue']],元素可见!
+[2016-08-31 10:19:27][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[4].paramValue']] to [dbbh001]
+[2016-08-31 10:19:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[5].paramValue']],元素可见!
+[2016-08-31 10:19:27][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[5].paramValue']] to [blh001]
+[2016-08-31 10:19:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[9].paramValue']],元素可见!
+[2016-08-31 10:19:27][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[9].paramValue']] to [孙群领]
+[2016-08-31 10:19:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[11].paramValue']],元素可见!
+[2016-08-31 10:19:27][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[11].paramValue']] to [330722196501292110]
+[2016-08-31 10:19:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[13].paramValue']],元素可见!
+[2016-08-31 10:19:28][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[13].paramValue']] to [0]
+[2016-08-31 10:19:28][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[14].paramValue']],元素可见!
+[2016-08-31 10:19:28][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[14].paramValue']] to [1]
+[2016-08-31 10:19:28][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='productName']],元素可见!
+[2016-08-31 10:19:28][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='doPublishFactor']]
+[2016-08-31 10:19:30][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='messager-body panel-body panel-body-noborder window-body']/div[2]],元素可见!
+[2016-08-31 10:19:31][ERROR][Chrome Thread1][Factoring_Project_Release_RYS20160718001.java][233] - 出现异常!截图[screenshot/1472609971515.jpg]
+org.openqa.selenium.UnhandledAlertException: unexpected alert open
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 3 milliseconds: null
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@class='messager-button']/a}
+Session ID: 74a12357bfc5a0c167512903827c0b35
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7572_7086}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]: null
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@class='messager-button']/a}
+Session ID: cfcb64b3-4263-4045-9ccc-77a901779541
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7572_7086}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=cfcb64b3-4263-4045-9ccc-77a901779541, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.createUnhandledAlertException(ErrorHandler.java:187)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:154)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.click(KeyWords.java:226)
+	at com.autotest.service.bmpService.FactoringRelease.releaseResultConfirm(FactoringRelease.java:567)
+	at com.autotest.testcases.Factoring_Project_Release_RYS20160718001.test(Factoring_Project_Release_RYS20160718001.java:130)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[2016-08-31 10:19:31][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-31 10:19:32][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-31 10:20:06][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-31 10:20:06][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-31 10:20:11][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.102:8080/
+[2016-08-31 10:20:12][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-31 10:20:13][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='userNo']] to [wb002]
+[2016-08-31 10:20:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-31 10:20:13][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-31 10:20:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-31 10:20:13][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-31 10:20:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-31 10:20:15][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-31 10:20:15][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[contains(text(),'项目运营')]]
+[2016-08-31 10:20:16][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //ul[@id='menu181']/li[11]/div/span[3]]
+[2016-08-31 10:20:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.id: work_frame],元素可见!
+[2016-08-31 10:20:17][INFO][Chrome Thread1][KeyWords.java][167] - [By.id: work_frame],元素存在!
+[2016-08-31 10:20:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:20:21][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: /html/body/div[4]/a[1]]
+[2016-08-31 10:20:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='baseInfo_form']/table],元素可见!
+[2016-08-31 10:20:22][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='isXprj0']]
+[2016-08-31 10:20:23][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[@id='borrowerType']/span]
+[2016-08-31 10:20:23][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[text()='个人']]
+[2016-08-31 10:20:23][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='borrowName']]
+[2016-08-31 10:20:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='panel window']],元素可见!
+[2016-08-31 10:20:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']],元素可见!
+[2016-08-31 10:20:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']/tr],元素可见!
+[2016-08-31 10:20:26][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]]
+[2016-08-31 10:20:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]],元素可见!
+[2016-08-31 10:20:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tr[@id='tr_borrowerDataTable_0']/td[2]/div],元素可见!
+[2016-08-31 10:20:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='borrowName']],元素可见!
+[2016-08-31 10:20:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='demandAmount']],元素可见!
+[2016-08-31 10:20:26][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='demandAmount']] to [100000]
+[2016-08-31 10:20:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='time']],元素可见!
+[2016-08-31 10:20:26][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='time']] to [3]
+[2016-08-31 10:20:27][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='timeLimitUnit']/span]
+[2016-08-31 10:20:28][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //div[text()='天']]
+[2016-08-31 10:20:28][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='rate']],元素可见!
+[2016-08-31 10:20:28][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='rate']] to [8.5]
+[2016-08-31 10:20:28][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='prjBusinessType']/span/span]
+[2016-08-31 10:20:28][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='鑫股一号']]
+[2016-08-31 10:20:28][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='showBidTime']],元素可见!
+[2016-08-31 10:20:28][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='showBidTime']] to [2016-08-31 10:25:22]
+[2016-08-31 10:20:28][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='startBidTime']],元素可见!
+[2016-08-31 10:20:29][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='startBidTime']] to [2016-08-31 10:30:22]
+[2016-08-31 10:20:29][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='endBidTime']],元素可见!
+[2016-08-31 10:20:29][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='endBidTime']] to [2016-08-31 23:59:59]
+[2016-08-31 10:20:30][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+[2016-08-31 10:20:30][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='product_form']],元素可见!
+[2016-08-31 10:20:30][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='bid_form']],元素可见!
+[2016-08-31 10:20:30][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='protocolparamform']],元素可见!
+[2016-08-31 10:20:31][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='productName']],元素可见!
+[2016-08-31 10:20:31][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='productName']] to [ZYJ20160831003]
+[2016-08-31 10:20:31][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //form[@id='product_form']]
+[2016-08-31 10:20:33][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //textarea[@id='money_using']],元素可见!
+[2016-08-31 10:20:33][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //textarea[@id='money_using']] to [临时周转]
+[2016-08-31 10:20:33][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //textarea[@id='repay_origin']],元素可见!
+[2016-08-31 10:20:34][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //textarea[@id='repay_origin']] to [经营所得]
+[2016-08-31 10:20:34][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='fiPrjPerson_educational']/span]
+[2016-08-31 10:20:34][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='博士后']]
+[2016-08-31 10:20:34][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='annualEarnings']],元素可见!
+[2016-08-31 10:20:34][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='annualEarnings']] to [1000000]
+[2016-08-31 10:20:34][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='fundAccount']/span]
+[2016-08-31 10:20:34][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='上海鑫合汇网络科技有限公司(工商银行-6227003814170172872)']]
+[2016-08-31 10:20:34][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+[2016-08-31 10:20:35][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [ZYJ20160831003合同]
+[2016-08-31 10:20:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[1].paramValue']],元素可见!
+[2016-08-31 10:20:36][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[1].paramValue']] to [xm001]
+[2016-08-31 10:20:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[4].paramValue']],元素可见!
+[2016-08-31 10:20:36][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[4].paramValue']] to [dbbh001]
+[2016-08-31 10:20:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[5].paramValue']],元素可见!
+[2016-08-31 10:20:36][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[5].paramValue']] to [blh001]
+[2016-08-31 10:20:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[9].paramValue']],元素可见!
+[2016-08-31 10:20:37][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[9].paramValue']] to [孙群领]
+[2016-08-31 10:20:37][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[11].paramValue']],元素可见!
+[2016-08-31 10:20:37][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[11].paramValue']] to [330722196501292110]
+[2016-08-31 10:20:37][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[13].paramValue']],元素可见!
+[2016-08-31 10:20:37][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[13].paramValue']] to [0]
+[2016-08-31 10:20:37][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[14].paramValue']],元素可见!
+[2016-08-31 10:20:37][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[14].paramValue']] to [1]
+[2016-08-31 10:20:37][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='productName']],元素可见!
+[2016-08-31 10:20:38][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='doPublishFactor']]
+[2016-08-31 10:20:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='messager-body panel-body panel-body-noborder window-body']/div[2]],元素可见!
+[2016-08-31 10:20:39][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@class='messager-button']/a]
+[2016-08-31 10:20:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:20:43][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[text()='项目审核']]
+[2016-08-31 10:20:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //iframe[@id='work_frame']],元素可见!
+[2016-08-31 10:20:44][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //iframe[@id='work_frame']],元素存在!
+[2016-08-31 10:20:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:20:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='searchBean.projectName']],元素可见!
+[2016-08-31 10:20:45][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='searchBean.projectName']] to [ZYJ20160831003]
+[2016-08-31 10:20:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='searchBean.projectName']],元素可见!
+[2016-08-31 10:20:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:20:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[2]/div/input],元素可见!
+[2016-08-31 10:20:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[3]/div],元素可见!
+[2016-08-31 10:20:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[4]/div],元素可见!
+[2016-08-31 10:20:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[5]/div],元素可见!
+[2016-08-31 10:20:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[6]/div],元素可见!
+[2016-08-31 10:20:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[7]/div],元素可见!
+[2016-08-31 10:20:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[8]/div],元素可见!
+[2016-08-31 10:20:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[9]/div],元素可见!
+[2016-08-31 10:20:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[10]/div],元素可见!
+[2016-08-31 10:20:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[11]/div],元素可见!
+[2016-08-31 10:20:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[12]/div],元素可见!
+[2016-08-31 10:20:48][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:20:49][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='financingInfo_form']],元素可见!
+[2016-08-31 10:20:49][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //form[@id='financingInfo_form']],元素存在!
+[2016-08-31 10:20:50][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+[2016-08-31 10:20:51][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //table[@id='basic']],元素可见!
+[2016-08-31 10:20:51][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //table[@id='basic']],元素存在!
+[2016-08-31 10:20:51][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[@id='memberId_noShare']/span]
+[2016-08-31 10:20:51][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='鑫合汇']]
+[2016-08-31 10:20:51][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='ch1']]
+[2016-08-31 10:20:51][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+[2016-08-31 10:20:52][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [hth001]
+[2016-08-31 10:20:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='prjType']/parent::td/following-sibling::td[2]],元素可见!
+[2016-08-31 10:20:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='repayDateSpan']/parent::font/parent::td],元素可见!
+[2016-08-31 10:20:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='repayDateSpan']/parent::font/parent::td/following-sibling::td[2]],元素可见!
+[2016-08-31 10:20:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrj_isNew1']],元素可见!
+[2016-08-31 10:20:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isXzd1']],元素可见!
+[2016-08-31 10:20:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isExtend1']],元素可见!
+[2016-08-31 10:20:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='payWay']/input[1]],元素可见!
+[2016-08-31 10:20:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'保障方式:')]/following-sibling::td[1]],元素可见!
+[2016-08-31 10:20:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='发布机构:']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:20:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='户名：']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:20:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='账号：']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:20:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='开户行：']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:20:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='isShare1']],元素可见!
+[2016-08-31 10:20:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isEarlyClose1']],元素可见!
+[2016-08-31 10:20:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isHaveBidingIncoming1']],元素可见!
+[2016-08-31 10:20:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isEarlyRepay1']],元素可见!
+[2016-08-31 10:20:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'是否允许多次投标')]/following-sibling::td[1]/child::input[1]],元素可见!
+[2016-08-31 10:20:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isAppointPrj1']],元素可见!
+[2016-08-31 10:20:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']],元素可见!
+[2016-08-31 10:20:58][ERROR][Chrome Thread1][Factoring_Project_Release_RYS20160718001.java][233] - 出现异常!截图[screenshot/1472610058285.jpg]
+java.lang.Exception: 确认通过该保理项目审核出错!
+	at com.autotest.service.bmpService.ProjectAudit.submit(ProjectAudit.java:554)
+	at com.autotest.testcases.Factoring_Project_Release_RYS20160718001.test(Factoring_Project_Release_RYS20160718001.java:217)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[2016-08-31 10:20:58][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-31 10:20:59][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-31 10:24:07][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-31 10:24:07][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-31 10:24:20][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-31 10:24:21][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-31 10:24:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-31 10:24:22][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='username']] to [14069827294]
+[2016-08-31 10:24:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-31 10:24:22][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-31 10:24:33][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-31 10:24:33][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-31 10:24:34][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-31 10:24:35][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-31 10:24:35][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-31 10:24:35][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-31 10:24:35][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-31 10:24:35][INFO][Chrome Thread1][RYS001_UserInvest.java][65] - 14069827294登录成功
+[2016-08-31 10:24:35][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 10:24:35][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 10:24:35][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 10:24:35][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 10:24:35][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 10:24:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 10:24:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 10:24:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 10:24:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 10:24:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 10:24:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:24:36][INFO][Chrome Thread1][RYS001_UserInvest.java][74] - 【账户总览】页面字段校验成功
+[2016-08-31 10:24:36][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 10:24:37][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 理财记录]
+[2016-08-31 10:24:39][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 10:24:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 10:24:40][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 10:24:40][INFO][Chrome Thread1][RYS001_UserInvest.java][89] - 【投资管理】不存在理财记录
+[2016-08-31 10:24:41][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 10:24:41][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 收支明细]
+[2016-08-31 10:24:42][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 全部]
+[2016-08-31 10:24:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 10:24:43][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 10:24:43][INFO][Chrome Thread1][RYS001_UserInvest.java][98] - 【投资管理】不存在资金记录
+[2016-08-31 10:24:43][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资理财]
+[2016-08-31 10:24:43][INFO][Chrome Thread1][RYS001_UserInvest.java][108] - 查看投资理财界面
+[2016-08-31 10:24:44][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 日益升]
+[2016-08-31 10:24:44][INFO][Chrome Thread1][RYS001_UserInvest.java][113] - 查看日益升列表
+[2016-08-31 10:24:45][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 10:24:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素可见!
+[2016-08-31 10:24:56][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //a[contains(text(),'RYS20160830006')]],元素不可见!
+[2016-08-31 10:24:57][ERROR][Chrome Thread1][KeyWords.java][170] - [By.xpath: //a[contains(text(),'RYS20160830006')]],元素不存在!
+[2016-08-31 10:24:57][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[text()='>']]
+[2016-08-31 10:25:08][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //a[contains(text(),'RYS20160830006')]],元素不可见!
+[2016-08-31 10:25:08][ERROR][Chrome Thread1][KeyWords.java][170] - [By.xpath: //a[contains(text(),'RYS20160830006')]],元素不存在!
+[2016-08-31 10:25:08][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[text()='>']]
+[2016-08-31 10:36:17][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-31 10:36:17][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-31 10:36:24][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-31 10:36:26][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-31 10:36:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-31 10:36:27][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='username']] to [14069827294]
+[2016-08-31 10:36:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-31 10:36:27][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-31 10:36:38][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-31 10:36:38][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-31 10:36:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-31 10:36:39][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-31 10:36:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-31 10:36:39][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-31 10:36:39][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-31 10:36:39][INFO][Chrome Thread1][RYS001_UserInvest.java][65] - 14069827294登录成功
+[2016-08-31 10:36:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 10:36:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 10:36:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 10:36:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 10:36:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 10:36:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 10:36:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 10:36:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 10:36:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 10:36:41][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 10:36:41][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:36:41][INFO][Chrome Thread1][RYS001_UserInvest.java][74] - 【账户总览】页面字段校验成功
+[2016-08-31 10:36:41][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 10:36:43][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 理财记录]
+[2016-08-31 10:36:43][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 10:36:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 10:36:45][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 10:36:45][INFO][Chrome Thread1][RYS001_UserInvest.java][89] - 【投资管理】不存在理财记录
+[2016-08-31 10:36:45][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 10:36:45][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 收支明细]
+[2016-08-31 10:36:46][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 全部]
+[2016-08-31 10:36:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 10:36:47][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 10:36:47][INFO][Chrome Thread1][RYS001_UserInvest.java][98] - 【投资管理】不存在资金记录
+[2016-08-31 10:36:47][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资理财]
+[2016-08-31 10:36:47][INFO][Chrome Thread1][RYS001_UserInvest.java][108] - 查看投资理财界面
+[2016-08-31 10:36:48][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 日益升]
+[2016-08-31 10:36:48][INFO][Chrome Thread1][RYS001_UserInvest.java][113] - 查看日益升列表
+[2016-08-31 10:36:48][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 10:36:49][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素可见!
+[2016-08-31 10:37:35][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-31 10:37:35][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-31 10:37:45][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.102:8080/
+[2016-08-31 10:37:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-31 10:37:46][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='userNo']] to [wb002]
+[2016-08-31 10:37:46][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-31 10:37:47][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-31 10:37:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-31 10:37:47][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-31 10:37:48][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-31 10:37:48][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-31 10:37:48][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[contains(text(),'项目运营')]]
+[2016-08-31 10:37:50][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //ul[@id='menu181']/li[11]/div/span[3]]
+[2016-08-31 10:37:50][INFO][Chrome Thread1][KeyWords.java][148] - [By.id: work_frame],元素可见!
+[2016-08-31 10:37:50][INFO][Chrome Thread1][KeyWords.java][167] - [By.id: work_frame],元素存在!
+[2016-08-31 10:37:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:37:53][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: /html/body/div[4]/a[1]]
+[2016-08-31 10:37:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='baseInfo_form']/table],元素可见!
+[2016-08-31 10:37:55][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='isXprj0']]
+[2016-08-31 10:37:55][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[@id='borrowerType']/span]
+[2016-08-31 10:37:55][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[text()='个人']]
+[2016-08-31 10:37:55][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='borrowName']]
+[2016-08-31 10:37:55][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='panel window']],元素可见!
+[2016-08-31 10:37:56][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']],元素可见!
+[2016-08-31 10:37:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']/tr],元素可见!
+[2016-08-31 10:37:58][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]]
+[2016-08-31 10:37:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]],元素可见!
+[2016-08-31 10:37:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tr[@id='tr_borrowerDataTable_0']/td[2]/div],元素可见!
+[2016-08-31 10:37:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='borrowName']],元素可见!
+[2016-08-31 10:37:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='demandAmount']],元素可见!
+[2016-08-31 10:37:58][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='demandAmount']] to [100000]
+[2016-08-31 10:37:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='time']],元素可见!
+[2016-08-31 10:37:59][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='time']] to [3]
+[2016-08-31 10:38:00][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='timeLimitUnit']/span]
+[2016-08-31 10:38:00][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //div[text()='天']]
+[2016-08-31 10:38:00][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='rate']],元素可见!
+[2016-08-31 10:38:00][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='rate']] to [8.5]
+[2016-08-31 10:38:00][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='prjBusinessType']/span/span]
+[2016-08-31 10:38:00][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='鑫股一号']]
+[2016-08-31 10:38:00][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='showBidTime']],元素可见!
+[2016-08-31 10:38:01][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='showBidTime']] to [2016-08-31 10:42:54]
+[2016-08-31 10:38:01][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='startBidTime']],元素可见!
+[2016-08-31 10:38:01][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='startBidTime']] to [2016-08-31 10:47:54]
+[2016-08-31 10:38:01][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='endBidTime']],元素可见!
+[2016-08-31 10:38:01][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='endBidTime']] to [2016-08-31 23:59:59]
+[2016-08-31 10:38:02][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+[2016-08-31 10:38:02][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='product_form']],元素可见!
+[2016-08-31 10:38:02][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='bid_form']],元素可见!
+[2016-08-31 10:38:02][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='protocolparamform']],元素可见!
+[2016-08-31 10:38:03][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='productName']],元素可见!
+[2016-08-31 10:38:03][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='productName']] to [ZYJ20160831004]
+[2016-08-31 10:38:03][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //form[@id='product_form']]
+[2016-08-31 10:38:05][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //textarea[@id='money_using']],元素可见!
+[2016-08-31 10:38:06][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //textarea[@id='money_using']] to [临时周转]
+[2016-08-31 10:38:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //textarea[@id='repay_origin']],元素可见!
+[2016-08-31 10:38:06][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //textarea[@id='repay_origin']] to [经营所得]
+[2016-08-31 10:38:06][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='fiPrjPerson_educational']/span]
+[2016-08-31 10:38:06][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='博士后']]
+[2016-08-31 10:38:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='annualEarnings']],元素可见!
+[2016-08-31 10:38:06][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@id='annualEarnings']] to [1000000]
+[2016-08-31 10:38:07][INFO][Chrome Thread1][KeyWords.java][239] - Click on [By.xpath: //span[@id='fundAccount']/span]
+[2016-08-31 10:38:07][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='上海鑫合汇网络科技有限公司(工商银行-6227003814170172872)']]
+[2016-08-31 10:38:07][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+[2016-08-31 10:38:07][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [ZYJ20160831004合同]
+[2016-08-31 10:38:08][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[1].paramValue']],元素可见!
+[2016-08-31 10:38:08][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[1].paramValue']] to [xm001]
+[2016-08-31 10:38:08][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[4].paramValue']],元素可见!
+[2016-08-31 10:38:08][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[4].paramValue']] to [dbbh001]
+[2016-08-31 10:38:09][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[5].paramValue']],元素可见!
+[2016-08-31 10:38:09][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[5].paramValue']] to [blh001]
+[2016-08-31 10:38:09][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[9].paramValue']],元素可见!
+[2016-08-31 10:38:09][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[9].paramValue']] to [孙群领]
+[2016-08-31 10:38:09][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[11].paramValue']],元素可见!
+[2016-08-31 10:38:09][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[11].paramValue']] to [330722196501292110]
+[2016-08-31 10:38:09][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[13].paramValue']],元素可见!
+[2016-08-31 10:38:09][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[13].paramValue']] to [0]
+[2016-08-31 10:38:09][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[14].paramValue']],元素可见!
+[2016-08-31 10:38:10][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[14].paramValue']] to [1]
+[2016-08-31 10:38:10][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='productName']],元素可见!
+[2016-08-31 10:38:10][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='doPublishFactor']]
+[2016-08-31 10:38:11][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='messager-body panel-body panel-body-noborder window-body']/div[2]],元素可见!
+[2016-08-31 10:38:11][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@class='messager-button']/a]
+[2016-08-31 10:38:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:38:15][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[text()='项目审核']]
+[2016-08-31 10:38:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //iframe[@id='work_frame']],元素可见!
+[2016-08-31 10:38:15][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //iframe[@id='work_frame']],元素存在!
+[2016-08-31 10:38:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:38:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='searchBean.projectName']],元素可见!
+[2016-08-31 10:38:16][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='searchBean.projectName']] to [ZYJ20160831004]
+[2016-08-31 10:38:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='searchBean.projectName']],元素可见!
+[2016-08-31 10:38:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:38:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[2]/div/input],元素可见!
+[2016-08-31 10:38:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[3]/div],元素可见!
+[2016-08-31 10:38:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[4]/div],元素可见!
+[2016-08-31 10:38:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[5]/div],元素可见!
+[2016-08-31 10:38:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[6]/div],元素可见!
+[2016-08-31 10:38:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[7]/div],元素可见!
+[2016-08-31 10:38:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[8]/div],元素可见!
+[2016-08-31 10:38:18][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[9]/div],元素可见!
+[2016-08-31 10:38:18][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[10]/div],元素可见!
+[2016-08-31 10:38:18][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[11]/div],元素可见!
+[2016-08-31 10:38:18][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[12]/div],元素可见!
+[2016-08-31 10:38:19][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-31 10:38:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //form[@id='financingInfo_form']],元素可见!
+[2016-08-31 10:38:21][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //form[@id='financingInfo_form']],元素存在!
+[2016-08-31 10:38:21][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+[2016-08-31 10:38:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //table[@id='basic']],元素可见!
+[2016-08-31 10:38:22][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //table[@id='basic']],元素存在!
+[2016-08-31 10:38:22][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //span[@id='memberId_noShare']/span]
+[2016-08-31 10:38:23][INFO][Chrome Thread1][KeyWords.java][251] - Click on [By.xpath: //div[text()='鑫合汇']]
+[2016-08-31 10:38:23][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='ch1']]
+[2016-08-31 10:38:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+[2016-08-31 10:38:23][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [hth001]
+[2016-08-31 10:38:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='prjType']/parent::td/following-sibling::td[2]],元素可见!
+[2016-08-31 10:38:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='repayDateSpan']/parent::font/parent::td],元素可见!
+[2016-08-31 10:38:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='repayDateSpan']/parent::font/parent::td/following-sibling::td[2]],元素可见!
+[2016-08-31 10:38:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrj_isNew1']],元素可见!
+[2016-08-31 10:38:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isXzd1']],元素可见!
+[2016-08-31 10:38:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isExtend1']],元素可见!
+[2016-08-31 10:38:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //span[@id='payWay']/input[1]],元素可见!
+[2016-08-31 10:38:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'保障方式:')]/following-sibling::td[1]],元素可见!
+[2016-08-31 10:38:24][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='发布机构:']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:38:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='户名：']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:38:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='账号：']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:38:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[text()='开户行：']/following-sibling::td[1]],元素可见!
+[2016-08-31 10:38:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='isShare1']],元素可见!
+[2016-08-31 10:38:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isEarlyClose1']],元素可见!
+[2016-08-31 10:38:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isHaveBidingIncoming1']],元素可见!
+[2016-08-31 10:38:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isEarlyRepay1']],元素可见!
+[2016-08-31 10:38:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'是否允许多次投标')]/following-sibling::td[1]/child::input[1]],元素可见!
+[2016-08-31 10:38:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@id='fiPrjExt_isAppointPrj1']],元素可见!
+[2016-08-31 10:38:33][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //tbody[@id='body_dataTable']],元素可见!
+[2016-08-31 10:38:34][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-31 10:38:36][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-31 10:39:31][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-31 10:39:31][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-31 10:39:37][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-31 10:39:39][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-31 10:39:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-31 10:39:39][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='username']] to [14069827294]
+[2016-08-31 10:39:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-31 10:39:40][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-31 10:39:51][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-31 10:39:51][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-31 10:39:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-31 10:39:52][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-31 10:39:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-31 10:39:52][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-31 10:39:53][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-31 10:39:53][INFO][Chrome Thread1][RYS001_UserInvest.java][65] - 14069827294登录成功
+[2016-08-31 10:39:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 10:39:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 10:39:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 10:39:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 10:39:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 10:39:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 10:39:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 10:39:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 10:39:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 10:39:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 10:39:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:39:54][INFO][Chrome Thread1][RYS001_UserInvest.java][74] - 【账户总览】页面字段校验成功
+[2016-08-31 10:39:54][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 10:39:56][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 理财记录]
+[2016-08-31 10:39:57][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 10:39:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 10:39:58][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 10:39:58][INFO][Chrome Thread1][RYS001_UserInvest.java][89] - 【投资管理】不存在理财记录
+[2016-08-31 10:39:58][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 10:39:59][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 收支明细]
+[2016-08-31 10:39:59][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 全部]
+[2016-08-31 10:40:00][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 10:40:00][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 10:40:00][INFO][Chrome Thread1][RYS001_UserInvest.java][98] - 【投资管理】不存在资金记录
+[2016-08-31 10:40:00][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资理财]
+[2016-08-31 10:40:00][INFO][Chrome Thread1][RYS001_UserInvest.java][108] - 查看投资理财界面
+[2016-08-31 10:40:01][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 日益升]
+[2016-08-31 10:40:01][INFO][Chrome Thread1][RYS001_UserInvest.java][113] - 查看日益升列表
+[2016-08-31 10:40:02][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 10:40:02][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素可见!
+[2016-08-31 10:40:02][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素可见!
+[2016-08-31 10:40:02][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素存在!
+[2016-08-31 10:40:02][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::div[@class='propress-balance']],元素可见!
+[2016-08-31 10:40:02][INFO][Chrome Thread1][RYS001_UserInvest.java][141] - 【日益升】产品余额校验成功
+[2016-08-31 10:40:02][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::em[@class='propress-data']],元素可见!
+[2016-08-31 10:40:02][INFO][Chrome Thread1][RYS001_UserInvest.java][150] - 【日益升】产品投资比例校验成功
+[2016-08-31 10:40:02][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::a[contains(text(),'立即投资')]]
+[2016-08-31 10:40:04][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='collection']/h3/em],元素可见!
+[2016-08-31 10:40:04][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='collection']/p/span],元素可见!
+[2016-08-31 10:40:04][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: moneytotle],元素可见!
+[2016-08-31 10:40:04][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 10:40:05][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: org6e_color],元素可见!
+[2016-08-31 10:40:05][INFO][Chrome Thread1][InvestFinanceService.java][470] - 【详情页面】融资截止时间校验成功
+[2016-08-31 10:40:05][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:100000.00;与实际值:100000.00相等！
+[2016-08-31 10:40:05][INFO][Chrome Thread1][StringUtils.java][90] - profit_10thous期望值:6.98;与实际值:6.98相等！
+[2016-08-31 10:40:05][INFO][Chrome Thread1][StringUtils.java][90] - collect期望值:0.00;与实际值:0.00相等！
+[2016-08-31 10:40:05][INFO][Chrome Thread1][RYS001_UserInvest.java][201] - 【详情页面】字段校验成功
+[2016-08-31 10:40:05][INFO][Chrome Thread1][KeyWords.java][148] - [By.name: money],元素可见!
+[2016-08-31 10:40:05][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.name: money] to [15000]
+[2016-08-31 10:40:05][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.name: paypwd]
+[2016-08-31 10:40:05][INFO][Chrome Thread1][KeyWords.java][148] - [By.name: paypwd],元素可见!
+[2016-08-31 10:40:05][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.name: paypwd] to [123456]
+[2016-08-31 10:40:05][INFO][Chrome Thread1][SSHUtil.java][101] - ssh已经连接OK
+[2016-08-31 10:40:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.id: income],元素可见!
+[2016-08-31 10:40:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //em[@data-flag='confirmMoneyTotal']],元素可见!
+[2016-08-31 10:40:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //em[@data-flag='confirmMoneyPay']],元素可见!
+[2016-08-31 10:40:06][INFO][Chrome Thread1][StringUtils.java][90] - invest_amount期望值:15000.00;与实际值:15000.00相等！
+[2016-08-31 10:40:06][INFO][Chrome Thread1][StringUtils.java][90] - expect_income期望值:10.47;与实际值:10.47相等！
+[2016-08-31 10:40:06][INFO][Chrome Thread1][StringUtils.java][90] - acct_pay期望值:15000.00;与实际值:15000.00相等！
+[2016-08-31 10:40:06][INFO][Chrome Thread1][RYS001_UserInvest.java][219] - 【投资确认】页面数据校验成功
+[2016-08-31 10:40:06][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.className: btns]
+[2016-08-31 10:40:17][ERROR][Chrome Thread1][KeyWords.java][151] - [By.cssSelector: .invest-success-msg.tac>dt],元素不可见!
+[2016-08-31 10:40:17][ERROR][Chrome Thread1][RYS001_UserInvest.java][318] - no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=css selector, value=.invest-success-msg.tac>dt}
+Session ID: 1340fe981439602377147d72d5f58f61
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7200_4093}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 375 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=css selector, value=.invest-success-msg.tac>dt}
+Session ID: 58e2a7c3-979d-4dbf-838d-3666d8517b60
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7200_4093}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=58e2a7c3-979d-4dbf-838d-3666d8517b60, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=css selector, value=.invest-success-msg.tac>dt}
+Session ID: 1340fe981439602377147d72d5f58f61
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7200_4093}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 375 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=css selector, value=.invest-success-msg.tac>dt}
+Session ID: 58e2a7c3-979d-4dbf-838d-3666d8517b60
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7200_4093}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=58e2a7c3-979d-4dbf-838d-3666d8517b60, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:336)
+	at com.autotest.service.xhhService.InvestFinanceService.payConfirmAndCheckSuccess(InvestFinanceService.java:995)
+	at com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:228)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 28 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=css selector, value=.invest-success-msg.tac>dt}
+Session ID: 1340fe981439602377147d72d5f58f61
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7200_4093}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor34.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+[2016-08-31 10:40:20][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-31 11:00:51][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-31 11:00:51][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-31 11:00:58][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-31 11:00:59][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-31 11:00:59][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-31 11:01:00][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='username']] to [14069827294]
+[2016-08-31 11:01:00][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-31 11:01:00][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-31 11:01:11][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-31 11:01:11][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-31 11:01:12][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-31 11:01:12][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-31 11:01:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-31 11:01:13][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-31 11:01:13][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-31 11:01:13][INFO][Chrome Thread1][RYS001_UserInvest.java][65] - 14069827294登录成功
+[2016-08-31 11:01:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 11:01:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 11:01:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 11:01:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 11:01:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 11:01:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 11:01:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 11:01:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 11:01:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 11:01:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:01:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:14][INFO][Chrome Thread1][RYS001_UserInvest.java][74] - 【账户总览】页面字段校验成功
+[2016-08-31 11:01:14][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 11:01:15][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 理财记录]
+[2016-08-31 11:01:16][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 11:01:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 11:01:17][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 11:01:17][INFO][Chrome Thread1][RYS001_UserInvest.java][89] - 【投资管理】不存在理财记录
+[2016-08-31 11:01:17][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 11:01:19][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 收支明细]
+[2016-08-31 11:01:20][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 全部]
+[2016-08-31 11:01:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 11:01:21][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 11:01:21][INFO][Chrome Thread1][RYS001_UserInvest.java][98] - 【投资管理】不存在资金记录
+[2016-08-31 11:01:21][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资理财]
+[2016-08-31 11:01:21][INFO][Chrome Thread1][RYS001_UserInvest.java][108] - 查看投资理财界面
+[2016-08-31 11:01:24][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 日益升]
+[2016-08-31 11:01:24][INFO][Chrome Thread1][RYS001_UserInvest.java][113] - 查看日益升列表
+[2016-08-31 11:01:24][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 11:01:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素可见!
+[2016-08-31 11:01:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素可见!
+[2016-08-31 11:01:25][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素存在!
+[2016-08-31 11:01:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::div[@class='propress-balance']],元素可见!
+[2016-08-31 11:01:25][INFO][Chrome Thread1][RYS001_UserInvest.java][141] - 【日益升】产品余额校验成功
+[2016-08-31 11:01:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::em[@class='propress-data']],元素可见!
+[2016-08-31 11:01:25][INFO][Chrome Thread1][RYS001_UserInvest.java][150] - 【日益升】产品投资比例校验成功
+[2016-08-31 11:01:25][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::a[contains(text(),'立即投资')]]
+[2016-08-31 11:01:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='collection']/h3/em],元素可见!
+[2016-08-31 11:01:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='collection']/p/span],元素可见!
+[2016-08-31 11:01:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: moneytotle],元素可见!
+[2016-08-31 11:01:27][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 11:01:28][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: org6e_color],元素可见!
+[2016-08-31 11:01:29][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: org6e_color],元素可见!
+[2016-08-31 11:01:30][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: org6e_color],元素可见!
+[2016-08-31 11:01:30][INFO][Chrome Thread1][InvestFinanceService.java][470] - 【详情页面】融资截止时间校验成功
+[2016-08-31 11:01:30][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:100000.00;与实际值:100000.00相等！
+[2016-08-31 11:01:30][INFO][Chrome Thread1][StringUtils.java][90] - profit_10thous期望值:6.98;与实际值:6.98相等！
+[2016-08-31 11:01:30][INFO][Chrome Thread1][StringUtils.java][90] - collect期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:30][INFO][Chrome Thread1][RYS001_UserInvest.java][201] - 【详情页面】字段校验成功
+[2016-08-31 11:01:30][INFO][Chrome Thread1][KeyWords.java][148] - [By.name: money],元素可见!
+[2016-08-31 11:01:30][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.name: money] to [15000]
+[2016-08-31 11:01:31][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.name: paypwd]
+[2016-08-31 11:01:31][INFO][Chrome Thread1][KeyWords.java][148] - [By.name: paypwd],元素可见!
+[2016-08-31 11:01:31][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.name: paypwd] to [123456]
+[2016-08-31 11:01:31][INFO][Chrome Thread1][SSHUtil.java][101] - ssh已经连接OK
+[2016-08-31 11:01:31][INFO][Chrome Thread1][KeyWords.java][148] - [By.id: income],元素可见!
+[2016-08-31 11:01:32][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //em[@data-flag='confirmMoneyTotal']],元素可见!
+[2016-08-31 11:01:32][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //em[@data-flag='confirmMoneyPay']],元素可见!
+[2016-08-31 11:01:32][INFO][Chrome Thread1][StringUtils.java][90] - invest_amount期望值:15000.00;与实际值:15000.00相等！
+[2016-08-31 11:01:32][INFO][Chrome Thread1][StringUtils.java][90] - expect_income期望值:10.47;与实际值:10.47相等！
+[2016-08-31 11:01:32][INFO][Chrome Thread1][StringUtils.java][90] - acct_pay期望值:15000.00;与实际值:15000.00相等！
+[2016-08-31 11:01:32][INFO][Chrome Thread1][RYS001_UserInvest.java][219] - 【投资确认】页面数据校验成功
+[2016-08-31 11:01:32][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.className: btns]
+[2016-08-31 11:01:33][INFO][Chrome Thread1][KeyWords.java][148] - [By.cssSelector: .invest-success-msg.tac>dt],元素可见!
+[2016-08-31 11:01:33][ERROR][Chrome Thread1][RYS001_UserInvest.java][231] - 用户14069827294投资失败
+[2016-08-31 11:01:33][INFO][Chrome Thread1][RYS001_UserInvest.java][232] - Screenshot path: E:\12345\web_automation\snapshot\Chrome Thread1_20160831110133.jpg
+[2016-08-31 11:01:34][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 11:01:35][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 查看账户]
+[2016-08-31 11:01:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 11:01:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 11:01:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 11:01:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 11:01:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 11:01:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 11:01:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 11:01:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 11:01:37][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 11:01:37][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:01:37][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:35000.00;与实际值:35000.00相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:15000.00;与实际值:15000.00相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:37][INFO][Chrome Thread1][RYS001_UserInvest.java][255] - 【账户总览】页面字段校验成功
+[2016-08-31 11:01:37][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 11:01:38][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 11:01:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素可见!
+[2016-08-31 11:01:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/preceding-sibling::td/p],元素可见!
+[2016-08-31 11:01:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/following-sibling::td/span[@class='orange']],元素可见!
+[2016-08-31 11:01:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/following-sibling::td/div[@class='prel envelopes_parent']],元素可见!
+[2016-08-31 11:01:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/following-sibling::td[4]],元素可见!
+[2016-08-31 11:01:39][INFO][Chrome Thread1][StringUtils.java][90] - invest_amount期望值:15000.00;与实际值:15000.00相等！
+[2016-08-31 11:01:39][INFO][Chrome Thread1][StringUtils.java][90] - profit期望值:--;与实际值:--相等！
+[2016-08-31 11:01:39][INFO][Chrome Thread1][StringUtils.java][90] - status期望值:投标结束;与实际值:投标结束相等！
+[2016-08-31 11:01:39][INFO][Chrome Thread1][StringUtils.java][90] - product_name期望值:日益升-鑫股一号ZYJ20160831004;与实际值:日益升-鑫股一号ZYJ20160831004相等！
+[2016-08-31 11:01:39][INFO][Chrome Thread1][StringUtils.java][90] - repay_date期望值:2016-09-03;与实际值:2016-09-03相等！
+[2016-08-31 11:01:39][INFO][Chrome Thread1][RYS001_UserInvest.java][276] - 【理财记录】校验数据成功
+[2016-08-31 11:01:40][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 11:01:41][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]],元素可见!
+[2016-08-31 11:01:41][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]/preceding-sibling::td[3]],元素可见!
+[2016-08-31 11:01:41][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]/preceding-sibling::td/div[@class='green']],元素可见!
+[2016-08-31 11:01:42][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]/preceding-sibling::td[1]],元素可见!
+[2016-08-31 11:01:42][INFO][Chrome Thread1][StringUtils.java][90] - amount期望值:-15000.00;与实际值:-15000.00相等！
+[2016-08-31 11:01:42][INFO][Chrome Thread1][StringUtils.java][90] - abstract期望值:投资项目 “ZYJ20160831004”;与实际值:投资项目 “ZYJ20160831004”相等！
+[2016-08-31 11:01:42][INFO][Chrome Thread1][StringUtils.java][90] - acct_balance期望值:35000.00;与实际值:35000.00相等！
+[2016-08-31 11:01:42][INFO][Chrome Thread1][StringUtils.java][90] - finance_type期望值:投资;与实际值:投资相等！
+[2016-08-31 11:01:42][INFO][Chrome Thread1][RYS001_UserInvest.java][293] - 【资金记录】校验数据成功
+[2016-08-31 11:01:42][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-31 11:01:42][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-31 11:01:43][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-31 11:01:43][INFO][Chrome Thread1][RYS001_UserInvest.java][305] - logout successfully
+[2016-08-31 11:01:43][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-31 11:01:44][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-31 11:01:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-31 11:01:44][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='username']] to [14524622563]
+[2016-08-31 11:01:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-31 11:01:45][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-31 11:01:55][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-31 11:01:55][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-31 11:01:57][INFO][Chrome Thread1][RYS001_UserInvest.java][65] - 14524622563登录成功
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 11:01:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 11:01:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 11:01:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 11:01:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 11:01:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:01:58][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:01:58][INFO][Chrome Thread1][RYS001_UserInvest.java][74] - 【账户总览】页面字段校验成功
+[2016-08-31 11:01:58][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 11:01:59][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 理财记录]
+[2016-08-31 11:02:00][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 11:02:01][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 11:02:01][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 11:02:01][INFO][Chrome Thread1][RYS001_UserInvest.java][89] - 【投资管理】不存在理财记录
+[2016-08-31 11:02:01][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 11:02:11][ERROR][Chrome Thread1][RYS001_UserInvest.java][318] - Timed out after 10 seconds waiting for element to be clickable: By.linkText: 收支明细
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: 280ec53d-e830-449b-86c6-28828d5c4934
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir2904_13599}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=280ec53d-e830-449b-86c6-28828d5c4934, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+org.openqa.selenium.TimeoutException: Timed out after 10 seconds waiting for element to be clickable: By.linkText: 收支明细
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: 280ec53d-e830-449b-86c6-28828d5c4934
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir2904_13599}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=280ec53d-e830-449b-86c6-28828d5c4934, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:80)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)
+	at com.autotest.driver.KeyWords.waitElementToBeClickable(KeyWords.java:136)
+	at com.autotest.driver.KeyWords.click(KeyWords.java:225)
+	at com.autotest.service.xhhService.UserAccountService.checkNoPayRecordExist(UserAccountService.java:208)
+	at com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:97)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=link text, value=收支明细}
+Session ID: 1d76ed37430439b3f0c0de93715aae6d
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir2904_13599}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 896 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=link text, value=收支明细}
+Session ID: 280ec53d-e830-449b-86c6-28828d5c4934
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir2904_13599}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=280ec53d-e830-449b-86c6-28828d5c4934, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByLinkText.findElement(By.java:246)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:899)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$0(ExpectedConditions.java:897)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:653)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:238)
+	... 24 more
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 36 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 27 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=link text, value=收支明细}
+Session ID: 1d76ed37430439b3f0c0de93715aae6d
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir2904_13599}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor34.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByLinkText.findElement(By.java:246)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+[2016-08-31 11:02:12][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-31 11:02:12][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-31 11:02:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-31 11:02:13][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='username']] to [13792849731]
+[2016-08-31 11:02:13][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-31 11:02:13][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-31 11:02:24][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-31 11:02:24][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-31 11:02:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-31 11:02:25][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-31 11:02:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-31 11:02:25][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-31 11:02:25][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-31 11:02:25][INFO][Chrome Thread1][RYS001_UserInvest.java][65] - 13792849731登录成功
+[2016-08-31 11:02:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 11:02:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 11:02:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 11:02:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 11:02:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 11:02:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 11:02:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 11:02:26][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 11:02:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 11:02:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:02:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:27][INFO][Chrome Thread1][RYS001_UserInvest.java][74] - 【账户总览】页面字段校验成功
+[2016-08-31 11:02:27][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 11:02:29][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 理财记录]
+[2016-08-31 11:02:29][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 11:02:31][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 11:02:31][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 11:02:31][INFO][Chrome Thread1][RYS001_UserInvest.java][89] - 【投资管理】不存在理财记录
+[2016-08-31 11:02:31][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 11:02:32][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 收支明细]
+[2016-08-31 11:02:33][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 全部]
+[2016-08-31 11:02:34][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 11:02:34][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 11:02:34][INFO][Chrome Thread1][RYS001_UserInvest.java][98] - 【投资管理】不存在资金记录
+[2016-08-31 11:02:34][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资理财]
+[2016-08-31 11:02:34][INFO][Chrome Thread1][RYS001_UserInvest.java][108] - 查看投资理财界面
+[2016-08-31 11:02:35][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 日益升]
+[2016-08-31 11:02:35][INFO][Chrome Thread1][RYS001_UserInvest.java][113] - 查看日益升列表
+[2016-08-31 11:02:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素可见!
+[2016-08-31 11:02:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素可见!
+[2016-08-31 11:02:36][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素存在!
+[2016-08-31 11:02:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::div[@class='propress-balance']],元素可见!
+[2016-08-31 11:02:36][INFO][Chrome Thread1][RYS001_UserInvest.java][141] - 【日益升】产品余额校验成功
+[2016-08-31 11:02:36][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::em[@class='propress-data']],元素可见!
+[2016-08-31 11:02:36][INFO][Chrome Thread1][RYS001_UserInvest.java][150] - 【日益升】产品投资比例校验成功
+[2016-08-31 11:02:36][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::a[contains(text(),'立即投资')]]
+[2016-08-31 11:02:37][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='collection']/h3/em],元素可见!
+[2016-08-31 11:02:38][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='collection']/p/span],元素可见!
+[2016-08-31 11:02:38][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: moneytotle],元素可见!
+[2016-08-31 11:02:38][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 11:02:38][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: org6e_color],元素可见!
+[2016-08-31 11:02:38][INFO][Chrome Thread1][InvestFinanceService.java][470] - 【详情页面】融资截止时间校验成功
+[2016-08-31 11:02:38][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:85000.00;与实际值:85000.00相等！
+[2016-08-31 11:02:38][INFO][Chrome Thread1][StringUtils.java][90] - profit_10thous期望值:6.98;与实际值:6.98相等！
+[2016-08-31 11:02:38][INFO][Chrome Thread1][StringUtils.java][90] - collect期望值:15000.00;与实际值:15000.00相等！
+[2016-08-31 11:02:38][INFO][Chrome Thread1][RYS001_UserInvest.java][201] - 【详情页面】字段校验成功
+[2016-08-31 11:02:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.name: money],元素可见!
+[2016-08-31 11:02:39][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.name: money] to [35000]
+[2016-08-31 11:02:39][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.name: paypwd]
+[2016-08-31 11:02:39][INFO][Chrome Thread1][KeyWords.java][148] - [By.name: paypwd],元素可见!
+[2016-08-31 11:02:39][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.name: paypwd] to [123456]
+[2016-08-31 11:02:39][INFO][Chrome Thread1][SSHUtil.java][101] - ssh已经连接OK
+[2016-08-31 11:02:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.id: income],元素可见!
+[2016-08-31 11:02:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //em[@data-flag='confirmMoneyTotal']],元素可见!
+[2016-08-31 11:02:40][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //em[@data-flag='confirmMoneyPay']],元素可见!
+[2016-08-31 11:02:40][INFO][Chrome Thread1][StringUtils.java][90] - invest_amount期望值:35000.00;与实际值:35000.00相等！
+[2016-08-31 11:02:40][INFO][Chrome Thread1][StringUtils.java][90] - expect_income期望值:24.45;与实际值:24.45相等！
+[2016-08-31 11:02:40][INFO][Chrome Thread1][StringUtils.java][90] - acct_pay期望值:35000.00;与实际值:35000.00相等！
+[2016-08-31 11:02:40][INFO][Chrome Thread1][RYS001_UserInvest.java][219] - 【投资确认】页面数据校验成功
+[2016-08-31 11:02:40][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.className: btns]
+[2016-08-31 11:02:41][INFO][Chrome Thread1][KeyWords.java][148] - [By.cssSelector: .invest-success-msg.tac>dt],元素可见!
+[2016-08-31 11:02:41][ERROR][Chrome Thread1][RYS001_UserInvest.java][231] - 用户13792849731投资失败
+[2016-08-31 11:02:41][INFO][Chrome Thread1][RYS001_UserInvest.java][232] - Screenshot path: E:\12345\web_automation\snapshot\Chrome Thread1_20160831110241.jpg
+[2016-08-31 11:02:42][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 11:02:43][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 查看账户]
+[2016-08-31 11:02:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 11:02:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 11:02:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 11:02:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 11:02:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 11:02:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 11:02:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 11:02:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 11:02:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 11:02:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:02:45][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:15000.00;与实际值:15000.00相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:35000.00;与实际值:35000.00相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:02:45][INFO][Chrome Thread1][RYS001_UserInvest.java][255] - 【账户总览】页面字段校验成功
+[2016-08-31 11:02:45][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 11:02:46][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 11:02:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素可见!
+[2016-08-31 11:02:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/preceding-sibling::td/p],元素可见!
+[2016-08-31 11:02:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/following-sibling::td/span[@class='orange']],元素可见!
+[2016-08-31 11:02:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/following-sibling::td/div[@class='prel envelopes_parent']],元素可见!
+[2016-08-31 11:02:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/following-sibling::td[4]],元素可见!
+[2016-08-31 11:02:47][INFO][Chrome Thread1][StringUtils.java][90] - invest_amount期望值:35000.00;与实际值:35000.00相等！
+[2016-08-31 11:02:47][INFO][Chrome Thread1][StringUtils.java][90] - profit期望值:--;与实际值:--相等！
+[2016-08-31 11:02:47][INFO][Chrome Thread1][StringUtils.java][90] - status期望值:投标结束;与实际值:投标结束相等！
+[2016-08-31 11:02:47][INFO][Chrome Thread1][StringUtils.java][90] - product_name期望值:日益升-鑫股一号ZYJ20160831004;与实际值:日益升-鑫股一号ZYJ20160831004相等！
+[2016-08-31 11:02:47][INFO][Chrome Thread1][StringUtils.java][90] - repay_date期望值:2016-09-03;与实际值:2016-09-03相等！
+[2016-08-31 11:02:47][INFO][Chrome Thread1][RYS001_UserInvest.java][276] - 【理财记录】校验数据成功
+[2016-08-31 11:02:47][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 11:02:49][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]],元素可见!
+[2016-08-31 11:02:49][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]/preceding-sibling::td[3]],元素可见!
+[2016-08-31 11:02:49][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]/preceding-sibling::td/div[@class='green']],元素可见!
+[2016-08-31 11:02:49][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]/preceding-sibling::td[1]],元素可见!
+[2016-08-31 11:02:49][INFO][Chrome Thread1][StringUtils.java][90] - amount期望值:-35000.00;与实际值:-35000.00相等！
+[2016-08-31 11:02:49][INFO][Chrome Thread1][StringUtils.java][90] - abstract期望值:投资项目 “ZYJ20160831004”;与实际值:投资项目 “ZYJ20160831004”相等！
+[2016-08-31 11:02:49][INFO][Chrome Thread1][StringUtils.java][90] - acct_balance期望值:15000.00;与实际值:15000.00相等！
+[2016-08-31 11:02:49][INFO][Chrome Thread1][StringUtils.java][90] - finance_type期望值:投资;与实际值:投资相等！
+[2016-08-31 11:02:49][INFO][Chrome Thread1][RYS001_UserInvest.java][293] - 【资金记录】校验数据成功
+[2016-08-31 11:02:50][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-31 11:02:50][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-31 11:02:50][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-31 11:02:50][INFO][Chrome Thread1][RYS001_UserInvest.java][305] - logout successfully
+[2016-08-31 11:02:52][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-31 11:02:52][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-31 11:02:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-31 11:02:53][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='username']] to [13465133965]
+[2016-08-31 11:02:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-31 11:02:53][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-31 11:03:04][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-31 11:03:04][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-31 11:03:05][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-31 11:03:05][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-31 11:03:05][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-31 11:03:05][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-31 11:03:05][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-31 11:03:05][INFO][Chrome Thread1][RYS001_UserInvest.java][65] - 13465133965登录成功
+[2016-08-31 11:03:05][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 11:03:05][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 11:03:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 11:03:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 11:03:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 11:03:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 11:03:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 11:03:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 11:03:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 11:03:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:03:06][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:07][INFO][Chrome Thread1][RYS001_UserInvest.java][74] - 【账户总览】页面字段校验成功
+[2016-08-31 11:03:07][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 11:03:08][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 理财记录]
+[2016-08-31 11:03:08][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 11:03:09][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 11:03:09][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 11:03:09][INFO][Chrome Thread1][RYS001_UserInvest.java][89] - 【投资管理】不存在理财记录
+[2016-08-31 11:03:10][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 11:03:10][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 收支明细]
+[2016-08-31 11:03:10][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 全部]
+[2016-08-31 11:03:12][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 11:03:12][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 11:03:12][INFO][Chrome Thread1][RYS001_UserInvest.java][98] - 【投资管理】不存在资金记录
+[2016-08-31 11:03:12][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资理财]
+[2016-08-31 11:03:12][INFO][Chrome Thread1][RYS001_UserInvest.java][108] - 查看投资理财界面
+[2016-08-31 11:03:12][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 日益升]
+[2016-08-31 11:03:12][INFO][Chrome Thread1][RYS001_UserInvest.java][113] - 查看日益升列表
+[2016-08-31 11:03:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素可见!
+[2016-08-31 11:03:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素可见!
+[2016-08-31 11:03:14][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素存在!
+[2016-08-31 11:03:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::div[@class='propress-balance']],元素可见!
+[2016-08-31 11:03:14][INFO][Chrome Thread1][RYS001_UserInvest.java][141] - 【日益升】产品余额校验成功
+[2016-08-31 11:03:14][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::em[@class='propress-data']],元素可见!
+[2016-08-31 11:03:14][INFO][Chrome Thread1][RYS001_UserInvest.java][150] - 【日益升】产品投资比例校验成功
+[2016-08-31 11:03:14][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::a[contains(text(),'立即投资')]]
+[2016-08-31 11:03:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='collection']/h3/em],元素可见!
+[2016-08-31 11:03:15][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='collection']/p/span],元素可见!
+[2016-08-31 11:03:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: moneytotle],元素可见!
+[2016-08-31 11:03:16][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 11:03:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: org6e_color],元素可见!
+[2016-08-31 11:03:16][INFO][Chrome Thread1][InvestFinanceService.java][470] - 【详情页面】融资截止时间校验成功
+[2016-08-31 11:03:16][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:03:16][INFO][Chrome Thread1][StringUtils.java][90] - profit_10thous期望值:6.98;与实际值:6.98相等！
+[2016-08-31 11:03:16][INFO][Chrome Thread1][StringUtils.java][90] - collect期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:03:16][INFO][Chrome Thread1][RYS001_UserInvest.java][201] - 【详情页面】字段校验成功
+[2016-08-31 11:03:16][INFO][Chrome Thread1][KeyWords.java][148] - [By.name: money],元素可见!
+[2016-08-31 11:03:17][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.name: money] to [34100]
+[2016-08-31 11:03:17][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.name: paypwd]
+[2016-08-31 11:03:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.name: paypwd],元素可见!
+[2016-08-31 11:03:17][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.name: paypwd] to [123456]
+[2016-08-31 11:03:17][INFO][Chrome Thread1][SSHUtil.java][101] - ssh已经连接OK
+[2016-08-31 11:03:17][INFO][Chrome Thread1][KeyWords.java][148] - [By.id: income],元素可见!
+[2016-08-31 11:03:18][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //em[@data-flag='confirmMoneyTotal']],元素可见!
+[2016-08-31 11:03:18][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //em[@data-flag='confirmMoneyPay']],元素可见!
+[2016-08-31 11:03:18][INFO][Chrome Thread1][StringUtils.java][90] - invest_amount期望值:34100.00;与实际值:34100.00相等！
+[2016-08-31 11:03:18][INFO][Chrome Thread1][StringUtils.java][90] - expect_income期望值:23.82;与实际值:23.82相等！
+[2016-08-31 11:03:18][INFO][Chrome Thread1][StringUtils.java][90] - acct_pay期望值:34100.00;与实际值:34100.00相等！
+[2016-08-31 11:03:18][INFO][Chrome Thread1][RYS001_UserInvest.java][219] - 【投资确认】页面数据校验成功
+[2016-08-31 11:03:18][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.className: btns]
+[2016-08-31 11:03:19][INFO][Chrome Thread1][KeyWords.java][148] - [By.cssSelector: .invest-success-msg.tac>dt],元素可见!
+[2016-08-31 11:03:19][ERROR][Chrome Thread1][RYS001_UserInvest.java][231] - 用户13465133965投资失败
+[2016-08-31 11:03:19][INFO][Chrome Thread1][RYS001_UserInvest.java][232] - Screenshot path: E:\12345\web_automation\snapshot\Chrome Thread1_20160831110319.jpg
+[2016-08-31 11:03:20][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 11:03:20][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 查看账户]
+[2016-08-31 11:03:21][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 11:03:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 11:03:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 11:03:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 11:03:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 11:03:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 11:03:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 11:03:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 11:03:22][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 11:03:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:03:23][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:15900.00;与实际值:15900.00相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:34100.00;与实际值:34100.00相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:23][INFO][Chrome Thread1][RYS001_UserInvest.java][255] - 【账户总览】页面字段校验成功
+[2016-08-31 11:03:23][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 11:03:24][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 11:03:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素可见!
+[2016-08-31 11:03:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/preceding-sibling::td/p],元素可见!
+[2016-08-31 11:03:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/following-sibling::td/span[@class='orange']],元素可见!
+[2016-08-31 11:03:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/following-sibling::td/div[@class='prel envelopes_parent']],元素可见!
+[2016-08-31 11:03:25][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::td/following-sibling::td[4]],元素可见!
+[2016-08-31 11:03:25][INFO][Chrome Thread1][StringUtils.java][90] - invest_amount期望值:34100.00;与实际值:34100.00相等！
+[2016-08-31 11:03:25][INFO][Chrome Thread1][StringUtils.java][90] - profit期望值:--;与实际值:--相等！
+[2016-08-31 11:03:25][INFO][Chrome Thread1][StringUtils.java][90] - status期望值:投标结束;与实际值:投标结束相等！
+[2016-08-31 11:03:25][INFO][Chrome Thread1][StringUtils.java][90] - product_name期望值:日益升-鑫股一号ZYJ20160831004;与实际值:日益升-鑫股一号ZYJ20160831004相等！
+[2016-08-31 11:03:25][INFO][Chrome Thread1][StringUtils.java][90] - repay_date期望值:2016-09-03;与实际值:2016-09-03相等！
+[2016-08-31 11:03:25][INFO][Chrome Thread1][RYS001_UserInvest.java][276] - 【理财记录】校验数据成功
+[2016-08-31 11:03:25][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 11:03:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]],元素可见!
+[2016-08-31 11:03:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]/preceding-sibling::td[3]],元素可见!
+[2016-08-31 11:03:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]/preceding-sibling::td/div[@class='green']],元素可见!
+[2016-08-31 11:03:27][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'ZYJ20160831004')][not(contains(text(),'回款'))]/preceding-sibling::td[1]],元素可见!
+[2016-08-31 11:03:27][INFO][Chrome Thread1][StringUtils.java][90] - amount期望值:-34100.00;与实际值:-34100.00相等！
+[2016-08-31 11:03:27][INFO][Chrome Thread1][StringUtils.java][90] - abstract期望值:投资项目 “ZYJ20160831004”;与实际值:投资项目 “ZYJ20160831004”相等！
+[2016-08-31 11:03:27][INFO][Chrome Thread1][StringUtils.java][90] - acct_balance期望值:15900.00;与实际值:15900.00相等！
+[2016-08-31 11:03:27][INFO][Chrome Thread1][StringUtils.java][90] - finance_type期望值:投资;与实际值:投资相等！
+[2016-08-31 11:03:27][INFO][Chrome Thread1][RYS001_UserInvest.java][293] - 【资金记录】校验数据成功
+[2016-08-31 11:03:28][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-31 11:03:28][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-31 11:03:28][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-31 11:03:28][INFO][Chrome Thread1][RYS001_UserInvest.java][305] - logout successfully
+[2016-08-31 11:03:29][INFO][Chrome Thread1][KeyWords.java][119] - open url - http://10.13.28.101/
+[2016-08-31 11:03:30][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-31 11:03:30][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-31 11:03:30][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='username']] to [15376465498]
+[2016-08-31 11:03:30][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-31 11:03:31][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-31 11:03:41][ERROR][Chrome Thread1][KeyWords.java][151] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-31 11:03:41][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-31 11:03:42][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-31 11:03:42][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-31 11:03:42][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-31 11:03:42][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-31 11:03:42][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-31 11:03:42][INFO][Chrome Thread1][RYS001_UserInvest.java][65] - 15376465498登录成功
+[2016-08-31 11:03:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-31 11:03:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-31 11:03:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-31 11:03:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-31 11:03:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: total],元素可见!
+[2016-08-31 11:03:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: wait],元素可见!
+[2016-08-31 11:03:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: already],元素可见!
+[2016-08-31 11:03:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-31 11:03:43][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-31 11:03:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:03:44][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - bonus_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - coupons_not_use期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - rate_coupons_not_use期望值:0;与实际值:0相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-31 11:03:44][INFO][Chrome Thread1][RYS001_UserInvest.java][74] - 【账户总览】页面字段校验成功
+[2016-08-31 11:03:44][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资管理]
+[2016-08-31 11:03:45][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 理财记录]
+[2016-08-31 11:03:46][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 所有]
+[2016-08-31 11:03:47][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 11:03:48][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 11:03:48][INFO][Chrome Thread1][RYS001_UserInvest.java][89] - 【投资管理】不存在理财记录
+[2016-08-31 11:03:48][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 资金记录]
+[2016-08-31 11:03:48][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 收支明细]
+[2016-08-31 11:03:49][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 全部]
+[2016-08-31 11:03:50][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素可见!
+[2016-08-31 11:03:50][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //td[contains(text(),'没有相关数据')]],元素存在!
+[2016-08-31 11:03:50][INFO][Chrome Thread1][RYS001_UserInvest.java][98] - 【投资管理】不存在资金记录
+[2016-08-31 11:03:50][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 投资理财]
+[2016-08-31 11:03:50][INFO][Chrome Thread1][RYS001_UserInvest.java][108] - 查看投资理财界面
+[2016-08-31 11:03:51][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.linkText: 日益升]
+[2016-08-31 11:03:51][INFO][Chrome Thread1][RYS001_UserInvest.java][113] - 查看日益升列表
+[2016-08-31 11:03:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素可见!
+[2016-08-31 11:03:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素可见!
+[2016-08-31 11:03:52][INFO][Chrome Thread1][KeyWords.java][167] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]],元素存在!
+[2016-08-31 11:03:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::div[@class='propress-balance']],元素可见!
+[2016-08-31 11:03:52][INFO][Chrome Thread1][RYS001_UserInvest.java][141] - 【日益升】产品余额校验成功
+[2016-08-31 11:03:52][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::em[@class='propress-data']],元素可见!
+[2016-08-31 11:03:52][INFO][Chrome Thread1][RYS001_UserInvest.java][150] - 【日益升】产品投资比例校验成功
+[2016-08-31 11:03:53][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.xpath: //a[contains(text(),'ZYJ20160831004')]/ancestor::div[@class='proListLeft']/following-sibling::*/descendant::a[contains(text(),'立即投资')]]
+[2016-08-31 11:03:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='collection']/h3/em],元素可见!
+[2016-08-31 11:03:53][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //div[@class='collection']/p/span],元素可见!
+[2016-08-31 11:03:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: moneytotle],元素可见!
+[2016-08-31 11:03:54][INFO][Chrome Thread1][SSHUtil.java][50] - ssh已经连接OK
+[2016-08-31 11:03:54][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: org6e_color],元素可见!
+[2016-08-31 11:03:55][INFO][Chrome Thread1][KeyWords.java][148] - [By.className: org6e_color],元素可见!
+[2016-08-31 11:03:55][INFO][Chrome Thread1][InvestFinanceService.java][470] - 【详情页面】融资截止时间校验成功
+[2016-08-31 11:03:55][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:15900.00;与实际值:15900.00相等！
+[2016-08-31 11:03:55][INFO][Chrome Thread1][StringUtils.java][90] - profit_10thous期望值:6.98;与实际值:6.98相等！
+[2016-08-31 11:03:55][INFO][Chrome Thread1][StringUtils.java][90] - collect期望值:84100.00;与实际值:84100.00相等！
+[2016-08-31 11:03:55][INFO][Chrome Thread1][RYS001_UserInvest.java][201] - 【详情页面】字段校验成功
+[2016-08-31 11:03:55][INFO][Chrome Thread1][KeyWords.java][148] - [By.name: money],元素可见!
+[2016-08-31 11:03:56][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.name: money] to [900]
+[2016-08-31 11:03:56][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.name: paypwd]
+[2016-08-31 11:03:56][INFO][Chrome Thread1][KeyWords.java][148] - [By.name: paypwd],元素可见!
+[2016-08-31 11:03:56][INFO][Chrome Thread1][KeyWords.java][278] - Set the value of [By.name: paypwd] to [123456]
+[2016-08-31 11:03:56][INFO][Chrome Thread1][SSHUtil.java][101] - ssh已经连接OK
+[2016-08-31 11:03:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.id: income],元素可见!
+[2016-08-31 11:03:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //em[@data-flag='confirmMoneyTotal']],元素可见!
+[2016-08-31 11:03:57][INFO][Chrome Thread1][KeyWords.java][148] - [By.xpath: //em[@data-flag='confirmMoneyPay']],元素可见!
+[2016-08-31 11:03:57][INFO][Chrome Thread1][StringUtils.java][90] - invest_amount期望值:900.00;与实际值:900.00相等！
+[2016-08-31 11:03:57][INFO][Chrome Thread1][StringUtils.java][90] - expect_income期望值:0.62;与实际值:0.62相等！
+[2016-08-31 11:03:57][INFO][Chrome Thread1][StringUtils.java][90] - acct_pay期望值:900.00;与实际值:900.00相等！
+[2016-08-31 11:03:57][INFO][Chrome Thread1][RYS001_UserInvest.java][219] - 【投资确认】页面数据校验成功
+[2016-08-31 11:03:57][INFO][Chrome Thread1][KeyWords.java][228] - Click on [By.className: btns]

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Test-class Suite]" parallel="tests">
+  <parameter name="threadName" value="Firefox Thread1"/>
+  <parameter name="browserName" value="firefox"/>
+  <parameter name="runMode" value="local"/>
+  <test name="Firefox_Test1(failed)" parallel="tests" preserve-order="true">
+    <parameter name="threadName" value="Firefox Thread1"/>
+    <parameter name="browserName" value="firefox"/>
+    <parameter name="runMode" value="local"/>
+    <classes>
+      <class name="com.autotest.testcases.YYS007_InvestSDT">
+        <methods>
+          <include name="createDriver"/>
+          <include name="openReport"/>
+          <include name="test"/>
+          <include name="quitDriver"/>
+          <include name="initialLog"/>
+        </methods>
+      </class> <!-- com.autotest.testcases.YYS007_InvestSDT -->
+    </classes>
+  </test> <!-- Firefox_Test1(failed) -->
+</suite> <!-- Failed suite [Test-class Suite] -->

@@ -1,0 +1,223 @@
+2016-09-29 16:12:51,568 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:115)] ******************************************************************************
+2016-09-29 16:12:52,019 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:116)] Create a Driver, Browser:chrome
+2016-09-29 16:12:59,061 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-29 16:12:59,081 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select user_temp.uid,user_product.invest_amount from user_temp left join user_product on user_product.user_number=user_temp.user_number where product_number='YYS003'] Successfully!
+2016-09-29 16:12:59,097 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-29 16:13:01,609 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:121)] open url - http://10.13.28.102:8080/
+2016-09-29 16:13:02,165 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-29 16:13:02,303 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='userNo']] to [wb001]
+2016-09-29 16:13:02,437 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-29 16:13:02,588 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-29 16:13:03,636 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-29 16:13:04,007 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-29 16:13:05,422 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-29 16:13:05,455 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-29 16:13:05,602 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[contains(text(),'财务管理')]]
+2016-09-29 16:13:06,253 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+2016-09-29 16:13:19,498 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: work_frame],元素不可见!
+2016-09-29 16:13:19,511 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.id: work_frame],元素不存在!
+2016-09-29 16:13:19,528 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from productinfo where prj_name='yw10223'] Successfully!
+2016-09-29 16:13:19,529 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:320)] Exception
+java.lang.NullPointerException
+	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+	at java.lang.Double.parseDouble(Unknown Source)
+	at com.autotest.service.bmpService.Loan.formatStr(Loan.java:58)
+	at com.autotest.service.bmpService.Loan.getprodinfo(Loan.java:111)
+	at com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:70)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-29 16:13:20,271 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:321)] Screenshot path: E:\12345\web_automation\snapshot\Chrome Thread1_20160929161319.jpg
+2016-09-29 16:13:20,282 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:129)] Driver with chrome is closed.
+2016-09-29 16:13:28,870 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:141)] Open the ReportNG report.
+2016-09-29 16:17:24,784 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:115)] ******************************************************************************
+2016-09-29 16:17:24,787 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:116)] Create a Driver, Browser:chrome
+2016-09-29 16:17:27,599 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from product_temp where product_id='YYS003'] Successfully!
+2016-09-29 16:17:27,906 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-29 16:17:28,155 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select user_temp.uid,user_product.invest_amount from user_temp left join user_product on user_product.user_number=user_temp.user_number where product_number='YYS003'] Successfully!
+2016-09-29 16:17:28,167 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-29 16:17:30,180 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:121)] open url - http://10.13.28.102:8080/
+2016-09-29 16:17:30,264 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-29 16:17:30,412 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='userNo']] to [wb001]
+2016-09-29 16:17:30,490 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-29 16:17:30,631 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-29 16:17:31,677 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-29 16:17:31,805 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-29 16:17:32,866 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-29 16:17:32,898 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-29 16:17:33,044 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[contains(text(),'财务管理')]]
+2016-09-29 16:17:33,714 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+2016-09-29 16:17:45,483 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: work_frame],元素不可见!
+2016-09-29 16:17:45,495 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.id: work_frame],元素不存在!
+2016-09-29 16:17:45,506 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from productinfo where prj_name='yw10223'] Successfully!
+2016-09-29 16:17:45,625 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select profit from product_repay_plan where name='yw10223'] Successfully!
+2016-09-29 16:17:45,700 INFO [com.autotest.utility.DbUtil.getCount(DbUtil.java:285)] Get Result count:0
+2016-09-29 16:17:45,745 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: prjPay_prjName],元素可见!
+2016-09-29 16:17:45,878 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.id: prjPay_prjName] to [yw10223]
+2016-09-29 16:17:46,048 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //form[@id='queryFormForPayWait']/table/tbody/tr/td[7]/a]
+2016-09-29 16:17:46,655 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素可见!
+2016-09-29 16:17:46,666 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素存在!
+2016-09-29 16:17:46,711 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素可见!
+2016-09-29 16:17:46,812 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[3]/div],元素可见!
+2016-09-29 16:17:46,876 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-29 16:17:46,921 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[4]/div],元素可见!
+2016-09-29 16:17:46,984 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-29 16:17:47,034 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[5]/div],元素可见!
+2016-09-29 16:17:47,096 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-29 16:17:47,141 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[6]/div],元素可见!
+2016-09-29 16:17:47,247 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[7]/div],元素可见!
+2016-09-29 16:17:47,310 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-29 16:17:47,356 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[8]/div],元素可见!
+2016-09-29 16:17:47,417 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-29 16:17:47,464 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[9]/div],元素可见!
+2016-09-29 16:17:47,562 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[10]/div],元素可见!
+2016-09-29 16:17:47,659 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[11]/div],元素可见!
+2016-09-29 16:17:47,756 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[12]/div],元素可见!
+2016-09-29 16:17:47,859 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[13]/div],元素可见!
+2016-09-29 16:17:47,912 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] site期望值:鑫合汇;与实际值:鑫合汇相等！
+2016-09-29 16:17:47,912 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] bond期望值:0.00;与实际值:0.00相等！
+2016-09-29 16:17:47,912 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] financingscale期望值:100,000.00;与实际值:300,000.00不等！
+2016-09-29 16:17:47,913 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] maincontract期望值:-;与实际值:-相等！
+2016-09-29 16:17:47,913 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] inaccount期望值:上海鑫合汇网络科技有限公司;与实际值:上海鑫合汇网络科技有限公司相等！
+2016-09-29 16:17:47,913 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] confirmation期望值:-;与实际值:-相等！
+2016-09-29 16:17:47,913 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] substandard期望值:无子标;与实际值:无子标相等！
+2016-09-29 16:17:47,914 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] loanprofit期望值:.00;与实际值:15,235.65不等！
+2016-09-29 16:17:47,914 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] actualfinacamount期望值:.00;与实际值:300,000.00不等！
+2016-09-29 16:17:47,914 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] prodname期望值:yw10223(订单数:0/0);与实际值:yw10223(订单数:0/265)不等！
+2016-09-29 16:17:47,915 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] managementfee期望值:0.00;与实际值:0.00相等！
+2016-09-29 16:17:47,915 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] needpayamount期望值:.00;与实际值:300,000.00不等！
+2016-09-29 16:17:47,915 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:76)] 【项目放款】放款字段校验失败！
+2016-09-29 16:17:48,059 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span]
+2016-09-29 16:17:48,640 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素可见!
+2016-09-29 16:17:48,652 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素存在!
+2016-09-29 16:17:48,696 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: payAmount],元素可见!
+2016-09-29 16:17:48,751 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:85)] 【项目放款】校验支付金额错误！
+2016-09-29 16:17:48,799 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: liushuihao],元素可见!
+2016-09-29 16:17:49,005 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.id: liushuihao] to [ACR20160718000011]
+2016-09-29 16:17:49,162 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[@id='pay_identity']/div[2]/a[1]/span/span]
+2016-09-29 16:17:49,233 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:17:50,271 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:17:51,291 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:17:52,311 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:17:53,333 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:17:54,355 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:17:55,380 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:17:56,401 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:17:57,421 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:17:58,442 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:17:59,465 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:00,486 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:01,506 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:02,525 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:03,548 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:04,574 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:05,596 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:06,616 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:07,648 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:08,673 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:09,693 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:10,712 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:11,733 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:12,755 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:13,775 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:14,795 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:15,814 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:16,833 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:17,857 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:18,877 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:19,900 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:20,919 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:21,940 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:22,962 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:23,984 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:25,083 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:26,102 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:27,125 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:28,146 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:29,168 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:30,188 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:31,208 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:32,230 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:33,249 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:34,272 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:35,293 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:36,313 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:37,333 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:38,355 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:39,375 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:40,395 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:41,414 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:42,434 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:43,456 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:44,475 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:45,495 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:46,514 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:47,535 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:48,557 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:49,579 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:50,599 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:51,620 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:52,641 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:53,667 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:54,689 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:55,710 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:56,732 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:57,757 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:58,780 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:18:59,808 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:00,828 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:01,851 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:02,874 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:03,894 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:04,913 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:05,939 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:06,962 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:07,983 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:09,003 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:10,022 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:11,041 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:12,070 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:13,090 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:14,111 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:15,131 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:16,150 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:17,173 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:18,195 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:19,214 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:20,234 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:21,256 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:22,276 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:23,296 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:24,317 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:25,337 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:26,359 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:27,380 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:28,402 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:29,422 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:30,441 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:31,467 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:32,486 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:33,506 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:34,525 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:35,544 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:36,566 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:37,586 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:38,606 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!
+2016-09-29 16:19:39,628 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: processBar],元素可见!

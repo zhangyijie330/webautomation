@@ -1,0 +1,155 @@
+2016-09-07 10:49:57,056 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-07 10:49:57,061 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-07 10:50:06,944 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from product_temp where product_id='YYS003'] Successfully!
+2016-09-07 10:50:06,965 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-07 10:50:11,555 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/
+2016-09-07 10:50:13,738 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[@id='login_button']]
+2016-09-07 10:50:14,370 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='username']],元素可见!
+2016-09-07 10:50:14,911 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+2016-09-07 10:50:15,049 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='pwd']],元素可见!
+2016-09-07 10:50:15,293 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+2016-09-07 10:50:26,053 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-07 10:50:26,273 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='normalSub']]
+2016-09-07 10:50:29,787 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-09-07 10:50:29,814 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-09-07 10:50:40,250 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-07 10:50:40,656 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-07 10:50:40,658 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:196)] 保理账户登录成功！
+2016-09-07 10:50:40,835 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+2016-09-07 10:50:41,601 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: getMyRecordList_type],元素可见!
+2016-09-07 10:50:41,681 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: getMyRecordList_type],元素存在!
+2016-09-07 10:50:41,682 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:201)] 【进入资金记录页面成功！】
+2016-09-07 10:50:41,752 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='start_time']],元素可见!
+2016-09-07 10:50:42,016 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='start_time']] to [2016-09-06]
+2016-09-07 10:50:42,090 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='end_time']],元素可见!
+2016-09-07 10:50:42,254 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='end_time']] to [2016-09-06]
+2016-09-07 10:50:42,430 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[@id='search']/label/input]
+2016-09-07 10:50:45,569 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[@id='search']/label/input]
+2016-09-07 10:50:48,636 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr],元素可见!
+2016-09-07 10:50:49,024 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select * from fund_record where pro_name='YYS20160907001' ] Successfully!
+2016-09-07 10:50:49,025 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=-90000.00, 类型=项目支付, 摘要=项目 “YYS20160906004” 支付}
+2016-09-07 10:50:49,025 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=+35000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}
+2016-09-07 10:50:49,026 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=+48200.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}
+2016-09-07 10:50:49,026 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=+1000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}
+2016-09-07 10:50:49,026 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=+5000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}
+2016-09-07 10:50:49,026 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=+800.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}
+2016-09-07 10:50:49,026 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:231)] 【资金记录数据校验错误！】
+2016-09-07 10:50:49,166 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+2016-09-07 10:50:50,089 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='login_button']],元素可见!
+2016-09-07 10:50:50,130 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='login_button']],元素存在!
+2016-09-07 10:50:50,130 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:238)] logout successfully
+2016-09-07 10:50:50,153 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-07 10:50:56,217 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-07 11:10:11,889 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-07 11:10:11,894 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-07 11:10:14,892 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from product_temp where product_id='YYS003'] Successfully!
+2016-09-07 11:10:14,912 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-07 11:10:18,709 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/
+2016-09-07 11:10:20,542 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[@id='login_button']]
+2016-09-07 11:10:21,249 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='username']],元素可见!
+2016-09-07 11:10:22,820 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+2016-09-07 11:10:23,285 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='pwd']],元素可见!
+2016-09-07 11:10:24,571 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+2016-09-07 11:10:35,506 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-07 11:10:35,683 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='normalSub']]
+2016-09-07 11:10:37,089 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-09-07 11:10:38,305 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-09-07 11:10:48,917 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-07 11:10:49,326 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-07 11:10:49,327 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:196)] 保理账户登录成功！
+2016-09-07 11:10:49,496 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+2016-09-07 11:10:50,155 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: getMyRecordList_type],元素可见!
+2016-09-07 11:10:50,190 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: getMyRecordList_type],元素存在!
+2016-09-07 11:10:50,190 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:201)] 【进入资金记录页面成功！】
+2016-09-07 11:10:50,263 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='start_time']],元素可见!
+2016-09-07 11:10:50,444 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='start_time']] to [2016-09-06]
+2016-09-07 11:10:50,506 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='end_time']],元素可见!
+2016-09-07 11:10:50,663 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='end_time']] to [2016-09-06]
+2016-09-07 11:10:50,869 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[@id='search']/label/input]
+2016-09-07 11:10:53,997 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[@id='search']/label/input]
+2016-09-07 11:10:57,950 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr],元素可见!
+2016-09-07 11:10:58,283 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select * from fund_record where pro_name='YYS20160907001' ] Successfully!
+2016-09-07 11:12:06,976 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-07 11:12:06,980 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-07 11:12:11,081 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from product_temp where product_id='YYS003'] Successfully!
+2016-09-07 11:12:11,115 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-07 11:12:17,221 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/
+2016-09-07 11:12:18,087 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[@id='login_button']]
+2016-09-07 11:12:18,759 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='username']],元素可见!
+2016-09-07 11:12:18,910 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+2016-09-07 11:12:19,006 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='pwd']],元素可见!
+2016-09-07 11:12:19,156 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+2016-09-07 11:12:29,280 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-07 11:12:29,468 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='normalSub']]
+2016-09-07 11:12:30,744 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-09-07 11:12:30,808 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-09-07 11:12:41,357 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-07 11:12:41,793 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-07 11:12:41,795 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:196)] 保理账户登录成功！
+2016-09-07 11:12:41,954 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+2016-09-07 11:12:42,578 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: getMyRecordList_type],元素可见!
+2016-09-07 11:12:42,656 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: getMyRecordList_type],元素存在!
+2016-09-07 11:12:42,657 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:201)] 【进入资金记录页面成功！】
+2016-09-07 11:12:42,721 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='start_time']],元素可见!
+2016-09-07 11:12:42,869 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='start_time']] to [2016-09-06]
+2016-09-07 11:12:42,936 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='end_time']],元素可见!
+2016-09-07 11:12:43,096 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='end_time']] to [2016-09-06]
+2016-09-07 11:12:43,309 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[@id='search']/label/input]
+2016-09-07 11:12:46,442 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[@id='search']/label/input]
+2016-09-07 11:12:49,505 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr],元素可见!
+2016-09-07 11:12:49,816 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select * from fund_record where pro_name='YYS20160906004' ] Successfully!
+2016-09-07 11:12:49,865 INFO [com.autotest.service.bmpService.Loan.getdata(Loan.java:441)] 期望值{交易金额=-90000.00, 类型=项目支付, 摘要=项目 “YYS20160906004” 支付}；与实际值：{交易金额=-90000.00, 类型=项目支付, 摘要=项目 “YYS20160906004” 支付}相等！
+2016-09-07 11:12:49,865 INFO [com.autotest.service.bmpService.Loan.getdata(Loan.java:441)] 期望值{交易金额=+35000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}；与实际值：{交易金额=+35000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}相等！
+2016-09-07 11:12:49,865 INFO [com.autotest.service.bmpService.Loan.getdata(Loan.java:441)] 期望值{交易金额=+48200.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}；与实际值：{交易金额=+48200.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}相等！
+2016-09-07 11:12:49,866 INFO [com.autotest.service.bmpService.Loan.getdata(Loan.java:441)] 期望值{交易金额=+1000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}；与实际值：{交易金额=+1000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}相等！
+2016-09-07 11:12:49,866 INFO [com.autotest.service.bmpService.Loan.getdata(Loan.java:441)] 期望值{交易金额=+5000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}；与实际值：{交易金额=+5000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}相等！
+2016-09-07 11:12:49,866 INFO [com.autotest.service.bmpService.Loan.getdata(Loan.java:441)] 期望值{交易金额=+800.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}；与实际值：{交易金额=+800.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}相等！
+2016-09-07 11:12:49,866 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:229)] 【资金记录数据校验正确！】
+2016-09-07 11:12:50,004 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+2016-09-07 11:12:53,059 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='login_button']],元素可见!
+2016-09-07 11:12:53,094 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='login_button']],元素存在!
+2016-09-07 11:12:53,095 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:238)] logout successfully
+2016-09-07 11:12:53,100 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-07 11:12:54,807 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.
+2016-09-07 15:06:39,804 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-07 15:06:39,807 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:chrome
+2016-09-07 15:06:44,633 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from product_temp where product_id='YYS003'] Successfully!
+2016-09-07 15:06:44,648 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from loan_temp where product_id='YYS003'] Successfully!
+2016-09-07 15:06:48,969 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/
+2016-09-07 15:06:50,771 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[@id='login_button']]
+2016-09-07 15:06:51,471 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='username']],元素可见!
+2016-09-07 15:06:51,626 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+2016-09-07 15:06:51,722 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='pwd']],元素可见!
+2016-09-07 15:06:51,883 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+2016-09-07 15:07:02,132 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-07 15:07:02,392 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //input[@id='normalSub']]
+2016-09-07 15:07:04,283 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-09-07 15:07:04,307 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-09-07 15:07:15,082 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-07 15:07:15,529 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-07 15:07:15,530 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:256)] 保理账户登录成功！
+2016-09-07 15:07:15,707 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+2016-09-07 15:07:16,370 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: getMyRecordList_type],元素可见!
+2016-09-07 15:07:16,410 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: getMyRecordList_type],元素存在!
+2016-09-07 15:07:16,411 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:261)] 【进入资金记录页面成功！】
+2016-09-07 15:07:16,482 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='start_time']],元素可见!
+2016-09-07 15:07:16,730 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='start_time']] to [2016-09-06]
+2016-09-07 15:07:16,814 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='end_time']],元素可见!
+2016-09-07 15:07:16,976 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:279)] Set the value of [By.xpath: //input[@id='end_time']] to [2016-09-06]
+2016-09-07 15:07:17,158 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[@id='search']/label/input]
+2016-09-07 15:07:20,302 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //div[@id='search']/label/input]
+2016-09-07 15:07:23,370 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr],元素可见!
+2016-09-07 15:07:23,708 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select * from fund_record where pro_name='YYS20160906004' ] Successfully!
+2016-09-07 15:07:23,756 INFO [com.autotest.utility.StringUtils.compareList(StringUtils.java:190)] 期望值{交易金额=-90000.00, 类型=项目支付, 摘要=项目 “YYS20160906004” 支付}；与实际值：{交易金额=-90000.00, 类型=项目支付, 摘要=项目 “YYS20160906004” 支付}相等！
+2016-09-07 15:07:23,757 INFO [com.autotest.utility.StringUtils.compareList(StringUtils.java:190)] 期望值{交易金额=+35000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}；与实际值：{交易金额=+35000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}相等！
+2016-09-07 15:07:23,757 INFO [com.autotest.utility.StringUtils.compareList(StringUtils.java:190)] 期望值{交易金额=+48200.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}；与实际值：{交易金额=+48200.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}相等！
+2016-09-07 15:07:23,757 INFO [com.autotest.utility.StringUtils.compareList(StringUtils.java:190)] 期望值{交易金额=+1000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}；与实际值：{交易金额=+1000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}相等！
+2016-09-07 15:07:23,757 INFO [com.autotest.utility.StringUtils.compareList(StringUtils.java:190)] 期望值{交易金额=+5000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}；与实际值：{交易金额=+5000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}相等！
+2016-09-07 15:07:23,758 INFO [com.autotest.utility.StringUtils.compareList(StringUtils.java:190)] 期望值{交易金额=+800.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}；与实际值：{交易金额=+800.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}相等！
+2016-09-07 15:07:23,758 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:289)] 【资金记录数据校验正确！】
+2016-09-07 15:07:23,919 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:229)] Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+2016-09-07 15:07:29,319 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='login_button']],元素可见!
+2016-09-07 15:07:29,357 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='login_button']],元素存在!
+2016-09-07 15:07:29,357 INFO [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:298)] logout successfully
+2016-09-07 15:07:29,365 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with chrome is closed.
+2016-09-07 15:07:31,928 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.

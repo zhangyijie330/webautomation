@@ -1,0 +1,36 @@
+﻿2016-10-10 11:23:23,538 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-10-10 11:25:47,884 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-10-10 11:25:58,855 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-10-10 11:28:18,947 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-10-10 11:28:29,982 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-10-10 11:30:50,353 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-10-10 11:31:02,474 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-10-10 11:33:24,077 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-10-10 11:33:35,549 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: guide-close],元素不可见!
+2016-10-10 11:45:31,768 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:83)] 期望值:账户总览;与实际值:我要理财-投资成功不等！
+2016-10-10 11:46:06,186 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:83)] 期望值:账户总览;与实际值:我要理财-投资成功不等！
+2016-10-10 11:49:20,371 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: work_frame],元素不可见!
+2016-10-10 11:49:20,381 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.id: work_frame],元素不存在!
+2016-10-10 11:49:22,130 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] maincontract期望值:-;与实际值:主合同签章关闭不等！
+2016-10-10 11:49:22,130 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] confirmation期望值:-;与实际值:电子签章关闭不等！
+2016-10-10 11:49:22,130 ERROR [com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:86)] 【项目放款】放款字段校验失败！
+2016-10-10 11:49:34,615 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: processBar],元素不可见!
+2016-10-10 11:49:59,660 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-10-10 11:49:59,670 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-10-10 11:50:27,018 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-10-10 11:50:27,028 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-10-10 11:50:53,756 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-10-10 11:50:53,767 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-10-10 11:51:19,838 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-10-10 11:51:19,848 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-10-10 11:51:46,544 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-10-10 11:51:46,554 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-10-10 11:52:08,168 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-10 11:52:08,178 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-10 11:52:44,802 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-10 11:52:44,815 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-10 11:52:48,718 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] 需还款金额期望值:100069.82;与实际值:100069.83不等！
+2016-10-10 11:52:48,812 ERROR [com.autotest.testcases.RYS001_Repay_Business.test(RYS001_Repay_Business.java:93)] 【还款计划列表的字段及字段值】校验失败！
+2016-10-10 11:53:00,846 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@class='page pageWraper']/a],元素不可见!
+2016-10-10 11:53:00,856 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@class='page pageWraper']/a],元素不存在!
+2016-10-10 11:53:01,112 ERROR [com.autotest.testcases.RYS001_Repay_Business.test(RYS001_Repay_Business.java:137)] 【当期还款明细信息列表】校验失败

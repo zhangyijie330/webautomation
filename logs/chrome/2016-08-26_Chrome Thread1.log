@@ -1,0 +1,497 @@
+[2016-08-26 11:00:10][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - balance期望值:50000.00;与实际值:25000.89不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - asset期望值:50000.00;与实际值:100048.89不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - exist_profit期望值:0.00;与实际值:48.89不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - will_profit期望值:0.00;与实际值:159.64不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - total_profit期望值:0.00;与实际值:208.53不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][94] - total_invest期望值:0.00;与实际值:75048.00不等！
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-26 11:00:14][ERROR][Chrome Thread1][YYS002_Payment.java][113] - 【账户总览】页面字段校验失败
+[2016-08-26 11:00:25][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-26 11:00:25][ERROR][Chrome Thread1][YYS002_Payment.java][134] - 回款日历校验失败！
+[2016-08-26 11:03:01][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - balance期望值:50000.00;与实际值:25000.89不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - asset期望值:50000.00;与实际值:100048.89不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - exist_profit期望值:0.00;与实际值:48.89不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - will_profit期望值:0.00;与实际值:159.64不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - total_profit期望值:0.00;与实际值:208.53不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][94] - total_invest期望值:0.00;与实际值:75048.00不等！
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-26 11:03:05][ERROR][Chrome Thread1][YYS002_Payment.java][113] - 【账户总览】页面字段校验失败
+[2016-08-26 11:03:15][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-26 11:03:15][ERROR][Chrome Thread1][YYS002_Payment.java][134] - 回款日历校验失败！
+[2016-08-26 04:02:07][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-26 04:02:07][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-26 04:02:16][INFO][Chrome Thread1][KeyWords.java][123] - open url - http://10.13.28.102:8080/
+[2016-08-26 04:02:16][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-26 04:02:17][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-26 04:02:17][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-26 04:02:18][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-26 04:02:18][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-26 04:02:18][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-26 04:02:20][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-26 04:02:20][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-26 04:02:20][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-26 04:02:21][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-26 04:02:33][ERROR][Chrome Thread1][KeyWords.java][156] - [By.id: work_frame],元素不可见!
+[2016-08-26 04:02:34][ERROR][Chrome Thread1][KeyWords.java][175] - [By.id: work_frame],元素不存在!
+[2016-08-26 04:02:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.id: prjPay_prjName],元素可见!
+[2016-08-26 04:02:34][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.id: prjPay_prjName] to [ZYJ20160826002]
+[2016-08-26 04:02:34][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //form[@id='queryFormForPayWait']/table/tbody/tr/td[7]/a]
+[2016-08-26 04:02:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素可见!
+[2016-08-26 04:02:36][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素存在!
+[2016-08-26 04:02:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素可见!
+[2016-08-26 04:02:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[3]/div],元素可见!
+[2016-08-26 04:02:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[4]/div],元素可见!
+[2016-08-26 04:02:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[5]/div],元素可见!
+[2016-08-26 04:02:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[6]/div],元素可见!
+[2016-08-26 04:02:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[7]/div],元素可见!
+[2016-08-26 04:02:37][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[8]/div],元素可见!
+[2016-08-26 04:02:37][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[9]/div],元素可见!
+[2016-08-26 04:02:37][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[10]/div],元素可见!
+[2016-08-26 04:02:37][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[11]/div],元素可见!
+[2016-08-26 04:02:37][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[12]/div],元素可见!
+[2016-08-26 04:02:37][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[13]/div],元素可见!
+[2016-08-26 04:02:37][INFO][Chrome Thread1][StringUtils.java][90] - site期望值:鑫合汇;与实际值:鑫合汇相等！
+[2016-08-26 04:02:37][INFO][Chrome Thread1][StringUtils.java][90] - bond期望值:0.00;与实际值:0.00相等！
+[2016-08-26 04:02:37][INFO][Chrome Thread1][StringUtils.java][90] - financingscale期望值:25,000.00;与实际值:25,000.00相等！
+[2016-08-26 04:02:37][INFO][Chrome Thread1][StringUtils.java][90] - maincontract期望值:-;与实际值:-相等！
+[2016-08-26 04:02:37][INFO][Chrome Thread1][StringUtils.java][90] - inaccount期望值:上海鑫合汇网络科技有限公司;与实际值:上海鑫合汇网络科技有限公司相等！
+[2016-08-26 04:02:37][INFO][Chrome Thread1][StringUtils.java][90] - confirmation期望值:-;与实际值:-相等！
+[2016-08-26 04:02:37][INFO][Chrome Thread1][StringUtils.java][90] - substandard期望值:无子标;与实际值:无子标相等！
+[2016-08-26 04:02:37][ERROR][Chrome Thread1][StringUtils.java][94] - loanprofit期望值:17.46;与实际值:17.45不等！
+[2016-08-26 04:02:37][INFO][Chrome Thread1][StringUtils.java][90] - actualfinacamount期望值:25,000.00;与实际值:25,000.00相等！
+[2016-08-26 04:02:37][ERROR][Chrome Thread1][StringUtils.java][94] - prodname期望值:ZYJ20160826002(订单数:0/0);与实际值:ZYJ20160826002(订单数:0/5)不等！
+[2016-08-26 04:02:37][INFO][Chrome Thread1][StringUtils.java][90] - managementfee期望值:0.00;与实际值:0.00相等！
+[2016-08-26 04:02:37][INFO][Chrome Thread1][StringUtils.java][90] - needpayamount期望值:25,000.00;与实际值:25,000.00相等！
+[2016-08-26 04:02:37][ERROR][Chrome Thread1][RYS001_Payment.java][75] - 【项目放款】放款字段校验失败！
+[2016-08-26 04:02:38][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span]
+[2016-08-26 04:02:39][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素可见!
+[2016-08-26 04:02:39][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素存在!
+[2016-08-26 04:02:39][INFO][Chrome Thread1][KeyWords.java][153] - [By.id: payAmount],元素可见!
+[2016-08-26 04:02:39][INFO][Chrome Thread1][RYS001_Payment.java][82] - 【项目放款】校验支付金额正确！
+[2016-08-26 04:02:39][INFO][Chrome Thread1][KeyWords.java][153] - [By.id: liushuihao],元素可见!
+[2016-08-26 04:02:39][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.id: liushuihao] to [ACR20160718000041]
+[2016-08-26 04:02:39][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //div[@id='pay_identity']/div[2]/a[1]/span/span]
+[2016-08-26 04:02:44][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: /html/body/div[9]/div[2]/div[2]],元素可见!
+[2016-08-26 04:02:44][INFO][Chrome Thread1][RYS001_Payment.java][92] - 【项目放款】支付完成！
+[2016-08-26 04:02:44][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: /html/body/div[9]/div[2]/div[4]/a]
+[2016-08-26 04:02:44][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //tbody[@id='body_dataTableForPayWait']/tr/td/div],元素可见!
+[2016-08-26 04:02:44][INFO][Chrome Thread1][RYS001_Payment.java][106] - 【项目放款】放款成功！
+[2016-08-26 04:02:53][INFO][Chrome Thread1][KeyWords.java][123] - open url - http://10.13.28.101/
+[2016-08-26 04:02:54][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-26 04:02:54][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-26 04:02:54][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='username']] to [15157119201]
+[2016-08-26 04:02:55][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-26 04:02:55][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='pwd']] to [z123456]
+[2016-08-26 04:03:05][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-26 04:03:05][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-26 04:03:07][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-26 04:03:07][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-26 04:03:07][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-26 04:03:07][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-26 04:03:07][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-26 04:03:07][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-26 04:03:07][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-26 04:03:07][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-26 04:03:08][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-26 04:03:08][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: total],元素可见!
+[2016-08-26 04:03:08][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: wait],元素可见!
+[2016-08-26 04:03:08][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: already],元素可见!
+[2016-08-26 04:03:08][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-26 04:03:08][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-26 04:03:08][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-26 04:03:08][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在balance字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在asset字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在exist_profit字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在will_profit字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在total_profit字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在total_invest字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在invite_partner字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在cash_loan字段
+[2016-08-26 04:03:08][ERROR][Chrome Thread1][RYS001_Payment.java][137] - 【账户总览】页面字段校验失败
+[2016-08-26 04:03:09][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.id: go-return-remind]
+[2016-08-26 04:03:10][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素可见!
+[2016-08-26 04:03:10][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素存在!
+[2016-08-26 04:03:10][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3],元素可见!
+[2016-08-26 04:03:10][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素可见!
+[2016-08-26 04:03:10][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/p  ],元素可见!
+[2016-08-26 04:03:10][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/p],元素可见!
+[2016-08-26 04:03:10][INFO][Chrome Thread1][RYS001_Payment.java][186] - 未找到该回款提醒！
+[2016-08-26 04:03:10][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 投资管理]
+[2016-08-26 04:03:12][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 所有]
+[2016-08-26 04:03:14][INFO][Chrome Thread1][KeyWords.java][153] - [By.cssSelector: .ui-record-table>tbody],元素可见!
+[2016-08-26 04:03:15][ERROR][Chrome Thread1][RYS001_Payment.java][199] - 【理财记录】中的记录条数错误！
+[2016-08-26 04:03:15][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]],元素可见!
+[2016-08-26 04:03:15][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/preceding-sibling::td/p],元素可见!
+[2016-08-26 04:03:15][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td/span[@class='orange']],元素可见!
+[2016-08-26 04:03:15][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td/div[@class='prel envelopes_parent']],元素可见!
+[2016-08-26 04:03:15][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td[4]],元素可见!
+[2016-08-26 04:03:15][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在invest_amount字段
+[2016-08-26 04:03:15][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在profit字段
+[2016-08-26 04:03:15][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在status字段
+[2016-08-26 04:03:15][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在product_name字段
+[2016-08-26 04:03:15][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在repay_date字段
+[2016-08-26 04:03:15][ERROR][Chrome Thread1][RYS001_Payment.java][211] - 【理财记录】校验数据失败
+[2016-08-26 04:03:15][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 资金记录]
+[2016-08-26 04:03:17][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]],元素可见!
+[2016-08-26 04:03:17][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td[3]],元素可见!
+[2016-08-26 04:03:17][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td/div[@class='green']],元素可见!
+[2016-08-26 04:03:17][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td[1]],元素可见!
+[2016-08-26 04:03:17][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在amount字段
+[2016-08-26 04:03:17][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在abstract字段
+[2016-08-26 04:03:17][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在acct_balance字段
+[2016-08-26 04:03:17][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在finance_type字段
+[2016-08-26 04:03:17][ERROR][Chrome Thread1][RYS001_Payment.java][228] - 【资金记录】校验数据失败
+[2016-08-26 04:03:18][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-26 04:03:18][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-26 04:03:18][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-26 04:03:18][INFO][Chrome Thread1][RYS001_Payment.java][235] - logout successfully
+[2016-08-26 04:03:19][INFO][Chrome Thread1][KeyWords.java][123] - open url - http://10.13.28.101/
+[2016-08-26 04:03:19][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-26 04:03:20][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-26 04:03:20][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='username']] to [15157119202]
+[2016-08-26 04:03:20][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-26 04:03:20][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='pwd']] to [z123456]
+[2016-08-26 04:03:31][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-26 04:03:31][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-26 04:03:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-26 04:03:33][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-26 04:03:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-26 04:03:33][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-26 04:03:33][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-26 04:03:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-26 04:03:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-26 04:03:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-26 04:03:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-26 04:03:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: total],元素可见!
+[2016-08-26 04:03:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: wait],元素可见!
+[2016-08-26 04:03:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: already],元素可见!
+[2016-08-26 04:03:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-26 04:03:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-26 04:03:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-26 04:03:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在balance字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在asset字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在exist_profit字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在will_profit字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在total_profit字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在total_invest字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在invite_partner字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在cash_loan字段
+[2016-08-26 04:03:34][ERROR][Chrome Thread1][RYS001_Payment.java][137] - 【账户总览】页面字段校验失败
+[2016-08-26 04:03:35][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.id: go-return-remind]
+[2016-08-26 04:03:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素可见!
+[2016-08-26 04:03:36][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素存在!
+[2016-08-26 04:03:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3],元素可见!
+[2016-08-26 04:03:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素可见!
+[2016-08-26 04:03:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/p  ],元素可见!
+[2016-08-26 04:03:36][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/p],元素可见!
+[2016-08-26 04:03:36][INFO][Chrome Thread1][RYS001_Payment.java][186] - 未找到该回款提醒！
+[2016-08-26 04:03:36][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 投资管理]
+[2016-08-26 04:03:37][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 所有]
+[2016-08-26 04:03:40][INFO][Chrome Thread1][KeyWords.java][153] - [By.cssSelector: .ui-record-table>tbody],元素可见!
+[2016-08-26 04:03:40][ERROR][Chrome Thread1][RYS001_Payment.java][199] - 【理财记录】中的记录条数错误！
+[2016-08-26 04:03:40][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]],元素可见!
+[2016-08-26 04:03:40][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/preceding-sibling::td/p],元素可见!
+[2016-08-26 04:03:40][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td/span[@class='orange']],元素可见!
+[2016-08-26 04:03:40][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td/div[@class='prel envelopes_parent']],元素可见!
+[2016-08-26 04:03:40][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td[4]],元素可见!
+[2016-08-26 04:03:40][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在invest_amount字段
+[2016-08-26 04:03:40][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在profit字段
+[2016-08-26 04:03:40][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在status字段
+[2016-08-26 04:03:40][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在product_name字段
+[2016-08-26 04:03:40][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在repay_date字段
+[2016-08-26 04:03:40][ERROR][Chrome Thread1][RYS001_Payment.java][211] - 【理财记录】校验数据失败
+[2016-08-26 04:03:40][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 资金记录]
+[2016-08-26 04:03:42][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]],元素可见!
+[2016-08-26 04:03:42][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td[3]],元素可见!
+[2016-08-26 04:03:42][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td/div[@class='green']],元素可见!
+[2016-08-26 04:03:42][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td[1]],元素可见!
+[2016-08-26 04:03:42][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在amount字段
+[2016-08-26 04:03:42][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在abstract字段
+[2016-08-26 04:03:42][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在acct_balance字段
+[2016-08-26 04:03:42][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在finance_type字段
+[2016-08-26 04:03:42][ERROR][Chrome Thread1][RYS001_Payment.java][228] - 【资金记录】校验数据失败
+[2016-08-26 04:03:42][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-26 04:03:44][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-26 04:03:44][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-26 04:03:44][INFO][Chrome Thread1][RYS001_Payment.java][235] - logout successfully
+[2016-08-26 04:03:45][INFO][Chrome Thread1][KeyWords.java][123] - open url - http://10.13.28.101/
+[2016-08-26 04:03:45][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-26 04:03:45][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-26 04:03:46][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='username']] to [15157119203]
+[2016-08-26 04:03:46][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-26 04:03:46][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='pwd']] to [z123456]
+[2016-08-26 04:03:57][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-26 04:03:57][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-26 04:03:58][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-26 04:03:58][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-26 04:03:58][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-26 04:03:58][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-26 04:03:58][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-26 04:03:58][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-26 04:03:58][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-26 04:03:59][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-26 04:03:59][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-26 04:03:59][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: total],元素可见!
+[2016-08-26 04:03:59][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: wait],元素可见!
+[2016-08-26 04:03:59][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: already],元素可见!
+[2016-08-26 04:03:59][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-26 04:03:59][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-26 04:04:00][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-26 04:04:00][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在balance字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在asset字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在exist_profit字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在will_profit字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在total_profit字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在total_invest字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在invite_partner字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在cash_loan字段
+[2016-08-26 04:04:00][ERROR][Chrome Thread1][RYS001_Payment.java][137] - 【账户总览】页面字段校验失败
+[2016-08-26 04:04:00][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.id: go-return-remind]
+[2016-08-26 04:04:01][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素可见!
+[2016-08-26 04:04:01][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素存在!
+[2016-08-26 04:04:01][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3],元素可见!
+[2016-08-26 04:04:01][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素可见!
+[2016-08-26 04:04:01][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/p  ],元素可见!
+[2016-08-26 04:04:01][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/p],元素可见!
+[2016-08-26 04:04:01][INFO][Chrome Thread1][RYS001_Payment.java][186] - 未找到该回款提醒！
+[2016-08-26 04:04:02][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 投资管理]
+[2016-08-26 04:04:02][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 所有]
+[2016-08-26 04:04:05][INFO][Chrome Thread1][KeyWords.java][153] - [By.cssSelector: .ui-record-table>tbody],元素可见!
+[2016-08-26 04:04:05][ERROR][Chrome Thread1][RYS001_Payment.java][199] - 【理财记录】中的记录条数错误！
+[2016-08-26 04:04:05][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]],元素可见!
+[2016-08-26 04:04:05][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/preceding-sibling::td/p],元素可见!
+[2016-08-26 04:04:05][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td/span[@class='orange']],元素可见!
+[2016-08-26 04:04:05][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td/div[@class='prel envelopes_parent']],元素可见!
+[2016-08-26 04:04:05][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td[4]],元素可见!
+[2016-08-26 04:04:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在invest_amount字段
+[2016-08-26 04:04:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在profit字段
+[2016-08-26 04:04:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在status字段
+[2016-08-26 04:04:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在product_name字段
+[2016-08-26 04:04:05][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在repay_date字段
+[2016-08-26 04:04:05][ERROR][Chrome Thread1][RYS001_Payment.java][211] - 【理财记录】校验数据失败
+[2016-08-26 04:04:06][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 资金记录]
+[2016-08-26 04:04:06][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]],元素可见!
+[2016-08-26 04:04:06][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td[3]],元素可见!
+[2016-08-26 04:04:06][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td/div[@class='green']],元素可见!
+[2016-08-26 04:04:07][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td[1]],元素可见!
+[2016-08-26 04:04:07][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在amount字段
+[2016-08-26 04:04:07][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在abstract字段
+[2016-08-26 04:04:07][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在acct_balance字段
+[2016-08-26 04:04:07][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在finance_type字段
+[2016-08-26 04:04:07][ERROR][Chrome Thread1][RYS001_Payment.java][228] - 【资金记录】校验数据失败
+[2016-08-26 04:04:07][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-26 04:04:07][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-26 04:04:07][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-26 04:04:07][INFO][Chrome Thread1][RYS001_Payment.java][235] - logout successfully
+[2016-08-26 04:04:08][INFO][Chrome Thread1][KeyWords.java][123] - open url - http://10.13.28.101/
+[2016-08-26 04:04:08][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-26 04:04:09][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-26 04:04:09][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='username']] to [15157119204]
+[2016-08-26 04:04:09][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-26 04:04:09][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='pwd']] to [z123456]
+[2016-08-26 04:04:20][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-26 04:04:20][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-26 04:04:22][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-26 04:04:22][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-26 04:04:22][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-26 04:04:22][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-26 04:04:22][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-26 04:04:22][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-26 04:04:22][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-26 04:04:22][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-26 04:04:22][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-26 04:04:23][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: total],元素可见!
+[2016-08-26 04:04:23][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: wait],元素可见!
+[2016-08-26 04:04:23][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: already],元素可见!
+[2016-08-26 04:04:23][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-26 04:04:23][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-26 04:04:23][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-26 04:04:23][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在balance字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在asset字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在exist_profit字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在will_profit字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在total_profit字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在total_invest字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在invite_partner字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在cash_loan字段
+[2016-08-26 04:04:23][ERROR][Chrome Thread1][RYS001_Payment.java][137] - 【账户总览】页面字段校验失败
+[2016-08-26 04:04:24][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.id: go-return-remind]
+[2016-08-26 04:04:25][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素可见!
+[2016-08-26 04:04:25][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素存在!
+[2016-08-26 04:04:25][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3],元素可见!
+[2016-08-26 04:04:25][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素可见!
+[2016-08-26 04:04:25][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/p  ],元素可见!
+[2016-08-26 04:04:25][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/p],元素可见!
+[2016-08-26 04:04:25][INFO][Chrome Thread1][RYS001_Payment.java][186] - 未找到该回款提醒！
+[2016-08-26 04:04:25][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 投资管理]
+[2016-08-26 04:04:27][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 所有]
+[2016-08-26 04:04:29][INFO][Chrome Thread1][KeyWords.java][153] - [By.cssSelector: .ui-record-table>tbody],元素可见!
+[2016-08-26 04:04:29][ERROR][Chrome Thread1][RYS001_Payment.java][199] - 【理财记录】中的记录条数错误！
+[2016-08-26 04:04:29][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]],元素可见!
+[2016-08-26 04:04:29][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/preceding-sibling::td/p],元素可见!
+[2016-08-26 04:04:30][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td/span[@class='orange']],元素可见!
+[2016-08-26 04:04:30][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td/div[@class='prel envelopes_parent']],元素可见!
+[2016-08-26 04:04:30][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td[4]],元素可见!
+[2016-08-26 04:04:30][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在invest_amount字段
+[2016-08-26 04:04:30][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在profit字段
+[2016-08-26 04:04:30][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在status字段
+[2016-08-26 04:04:30][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在product_name字段
+[2016-08-26 04:04:30][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在repay_date字段
+[2016-08-26 04:04:30][ERROR][Chrome Thread1][RYS001_Payment.java][211] - 【理财记录】校验数据失败
+[2016-08-26 04:04:30][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 资金记录]
+[2016-08-26 04:04:32][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]],元素可见!
+[2016-08-26 04:04:32][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td[3]],元素可见!
+[2016-08-26 04:04:32][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td/div[@class='green']],元素可见!
+[2016-08-26 04:04:32][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td[1]],元素可见!
+[2016-08-26 04:04:32][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在amount字段
+[2016-08-26 04:04:32][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在abstract字段
+[2016-08-26 04:04:32][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在acct_balance字段
+[2016-08-26 04:04:32][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在finance_type字段
+[2016-08-26 04:04:32][ERROR][Chrome Thread1][RYS001_Payment.java][228] - 【资金记录】校验数据失败
+[2016-08-26 04:04:32][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-26 04:04:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-26 04:04:33][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-26 04:04:33][INFO][Chrome Thread1][RYS001_Payment.java][235] - logout successfully
+[2016-08-26 04:04:34][INFO][Chrome Thread1][KeyWords.java][123] - open url - http://10.13.28.101/
+[2016-08-26 04:04:34][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-26 04:04:35][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-26 04:04:35][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='username']] to [15157119205]
+[2016-08-26 04:04:35][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-26 04:04:35][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='pwd']] to [z123456]
+[2016-08-26 04:04:46][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-26 04:04:46][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-26 04:04:48][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-26 04:04:48][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-26 04:04:48][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-26 04:04:48][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-26 04:04:48][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-26 04:04:48][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-26 04:04:48][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-26 04:04:48][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-26 04:04:49][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-26 04:04:49][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: total],元素可见!
+[2016-08-26 04:04:49][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: wait],元素可见!
+[2016-08-26 04:04:49][INFO][Chrome Thread1][KeyWords.java][153] - [By.className: already],元素可见!
+[2016-08-26 04:04:49][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-26 04:04:49][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-26 04:04:49][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-26 04:04:49][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在balance字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在asset字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在exist_profit字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在will_profit字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在total_profit字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在total_invest字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在invite_partner字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在cash_loan字段
+[2016-08-26 04:04:50][ERROR][Chrome Thread1][RYS001_Payment.java][137] - 【账户总览】页面字段校验失败
+[2016-08-26 04:04:50][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.id: go-return-remind]
+[2016-08-26 04:04:51][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素可见!
+[2016-08-26 04:04:51][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素存在!
+[2016-08-26 04:04:51][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3],元素可见!
+[2016-08-26 04:04:51][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素可见!
+[2016-08-26 04:04:51][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/p  ],元素可见!
+[2016-08-26 04:04:51][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/p],元素可见!
+[2016-08-26 04:04:51][INFO][Chrome Thread1][RYS001_Payment.java][186] - 未找到该回款提醒！
+[2016-08-26 04:04:51][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 投资管理]
+[2016-08-26 04:04:52][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 所有]
+[2016-08-26 04:04:54][INFO][Chrome Thread1][KeyWords.java][153] - [By.cssSelector: .ui-record-table>tbody],元素可见!
+[2016-08-26 04:04:55][ERROR][Chrome Thread1][RYS001_Payment.java][199] - 【理财记录】中的记录条数错误！
+[2016-08-26 04:04:55][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]],元素可见!
+[2016-08-26 04:04:55][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/preceding-sibling::td/p],元素可见!
+[2016-08-26 04:04:55][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td/span[@class='orange']],元素可见!
+[2016-08-26 04:04:55][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td/div[@class='prel envelopes_parent']],元素可见!
+[2016-08-26 04:04:55][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'ZYJ20160826002')]/ancestor::td/following-sibling::td[4]],元素可见!
+[2016-08-26 04:04:55][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在invest_amount字段
+[2016-08-26 04:04:55][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在profit字段
+[2016-08-26 04:04:55][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在status字段
+[2016-08-26 04:04:55][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在product_name字段
+[2016-08-26 04:04:55][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在repay_date字段
+[2016-08-26 04:04:55][ERROR][Chrome Thread1][RYS001_Payment.java][211] - 【理财记录】校验数据失败
+[2016-08-26 04:04:55][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.linkText: 资金记录]
+[2016-08-26 04:04:57][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]],元素可见!
+[2016-08-26 04:04:57][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td[3]],元素可见!
+[2016-08-26 04:04:57][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td/div[@class='green']],元素可见!
+[2016-08-26 04:04:57][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')][not(contains(text(),'回款'))]/preceding-sibling::td[1]],元素可见!
+[2016-08-26 04:04:57][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在amount字段
+[2016-08-26 04:04:57][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在abstract字段
+[2016-08-26 04:04:57][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在acct_balance字段
+[2016-08-26 04:04:57][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在finance_type字段
+[2016-08-26 04:04:57][ERROR][Chrome Thread1][RYS001_Payment.java][228] - 【资金记录】校验数据失败
+[2016-08-26 04:04:58][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-26 04:05:00][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-26 04:05:00][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-26 04:05:00][INFO][Chrome Thread1][RYS001_Payment.java][235] - logout successfully
+[2016-08-26 04:05:00][INFO][Chrome Thread1][KeyWords.java][123] - open url - http://10.13.28.101/
+[2016-08-26 04:05:01][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-26 04:05:01][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-26 04:05:01][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+[2016-08-26 04:05:01][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-26 04:05:02][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+[2016-08-26 04:05:12][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-26 04:05:12][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-26 04:05:13][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-26 04:05:14][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-26 04:05:24][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+[2016-08-26 04:05:25][ERROR][Chrome Thread1][KeyWords.java][175] - [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+[2016-08-26 04:05:25][INFO][Chrome Thread1][RYS001_Payment.java][247] - 保理账户登录成功！
+[2016-08-26 04:05:25][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+[2016-08-26 04:05:26][INFO][Chrome Thread1][KeyWords.java][153] - [By.id: getMyRecordList_type],元素可见!
+[2016-08-26 04:05:26][INFO][Chrome Thread1][KeyWords.java][172] - [By.id: getMyRecordList_type],元素存在!
+[2016-08-26 04:05:26][INFO][Chrome Thread1][RYS001_Payment.java][252] - 【进入资金记录页面成功！】
+[2016-08-26 04:05:26][INFO][Chrome Thread1][SSHUtil.java][101] - ssh已经连接OK
+[2016-08-26 04:05:26][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@id='start_time']],元素可见!
+[2016-08-26 04:05:27][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@id='start_time']] to [2016-08-26]
+[2016-08-26 04:05:27][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@id='end_time']],元素可见!
+[2016-08-26 04:05:27][INFO][Chrome Thread1][KeyWords.java][283] - Set the value of [By.xpath: //input[@id='end_time']] to [2016-08-26]
+[2016-08-26 04:05:27][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-26 04:05:30][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-26 04:05:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-26 04:05:33][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-26 04:05:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[2]],元素可见!
+[2016-08-26 04:05:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-26 04:05:33][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-26 04:05:33][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-26 04:05:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')]/parent::*],元素可见!
+[2016-08-26 04:05:34][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //td[contains(text(),'ZYJ20160826002')]/parent::*],元素存在!
+[2016-08-26 04:05:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')]],元素可见!
+[2016-08-26 04:05:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')]/preceding-sibling::td[2]],元素可见!
+[2016-08-26 04:05:34][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //td[contains(text(),'ZYJ20160826002')]/preceding-sibling::td[3]],元素可见!
+[2016-08-26 04:05:35][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[text()='>']]
+[2016-08-26 04:05:37][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //input[@value='跳转']],元素可见!
+[2016-08-26 04:05:37][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //input[@value='跳转']],元素存在!
+[2016-08-26 04:05:37][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //span[contains(@class,'current')]],元素可见!
+[2016-08-26 04:05:47][ERROR][Chrome Thread1][KeyWords.java][156] - [By.xpath: //td[contains(text(),'ZYJ20160826002')]/parent::*],元素不可见!
+[2016-08-26 04:05:47][ERROR][Chrome Thread1][KeyWords.java][175] - [By.xpath: //td[contains(text(),'ZYJ20160826002')]/parent::*],元素不存在!
+[2016-08-26 04:05:47][ERROR][Chrome Thread1][RYS001_Payment.java][270] - 【资金记录数据校验错误！】
+[2016-08-26 04:05:47][INFO][Chrome Thread1][KeyWords.java][233] - Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+[2016-08-26 04:05:48][INFO][Chrome Thread1][KeyWords.java][153] - [By.xpath: //a[@id='login_button']],元素可见!
+[2016-08-26 04:05:48][INFO][Chrome Thread1][KeyWords.java][172] - [By.xpath: //a[@id='login_button']],元素存在!
+[2016-08-26 04:05:48][INFO][Chrome Thread1][RYS001_Payment.java][277] - logout successfully
+[2016-08-26 04:05:48][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-26 04:05:51][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.

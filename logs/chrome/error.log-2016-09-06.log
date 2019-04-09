@@ -1,0 +1,257 @@
+2016-09-06 10:58:50,259 ERROR [com.autotest.service.bmpService.GeneratePaymentPlan.clickGeneratePaymentPlan(GeneratePaymentPlan.java:527)] 实际标记：-
+2016-09-06 10:58:50,260 ERROR [com.autotest.service.bmpService.GeneratePaymentPlan.clickGeneratePaymentPlan(GeneratePaymentPlan.java:528)] 实际差值：0.0
+2016-09-06 10:58:50,261 ERROR [com.autotest.testcases.YYS003_GenPayPlan.test(YYS003_GenPayPlan.java:101)] 点击生成还款计划失败!
+2016-09-06 10:59:05,342 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 10:59:25,398 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:284)] 预期值与实际值不匹配
+2016-09-06 10:59:45,916 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 11:00:05,776 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:284)] 预期值与实际值不匹配
+2016-09-06 11:00:26,833 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 11:00:46,548 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:284)] 预期值与实际值不匹配
+2016-09-06 11:01:06,909 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 11:01:26,605 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:284)] 预期值与实际值不匹配
+2016-09-06 11:01:47,009 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 11:02:06,592 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:284)] 预期值与实际值不匹配
+2016-09-06 11:08:55,812 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: work_frame],元素不可见!
+2016-09-06 11:08:56,412 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.id: work_frame],元素不存在!
+2016-09-06 11:09:28,755 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 11:09:48,706 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:284)] 预期值与实际值不匹配
+2016-09-06 11:09:48,707 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:171)] 回款日历校验失败！
+2016-09-06 11:10:00,434 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-09-06 11:10:01,017 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-09-06 11:10:19,997 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 11:10:42,093 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:284)] 预期值与实际值不匹配
+2016-09-06 11:10:42,093 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:171)] 回款日历校验失败！
+2016-09-06 11:10:53,871 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-09-06 11:10:54,498 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-09-06 11:11:14,146 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 11:11:34,936 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:284)] 预期值与实际值不匹配
+2016-09-06 11:11:34,936 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:171)] 回款日历校验失败！
+2016-09-06 11:11:46,612 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-09-06 11:11:47,230 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-09-06 11:12:05,014 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 11:12:26,748 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:284)] 预期值与实际值不匹配
+2016-09-06 11:12:26,748 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:171)] 回款日历校验失败！
+2016-09-06 11:12:38,591 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-09-06 11:12:39,213 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-09-06 11:12:58,668 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 11:13:19,209 ERROR [com.autotest.service.xhhService.PubXhhService.checkReturnMoneyCalendar(PubXhhService.java:284)] 预期值与实际值不匹配
+2016-09-06 11:13:19,209 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:171)] 回款日历校验失败！
+2016-09-06 11:13:30,997 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-09-06 11:13:31,614 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-09-06 11:13:50,829 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 11:14:03,295 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-06 11:14:03,724 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-06 11:14:11,710 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:114)] 交易金额期望值:+800.00;与实际值:+35000.00不等！
+2016-09-06 11:14:11,711 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:114)] 交易金额期望值:+35000.00;与实际值:+1000.00不等！
+2016-09-06 11:14:11,712 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:114)] 交易金额期望值:+1000.00;与实际值:+5000.00不等！
+2016-09-06 11:14:11,712 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:114)] 交易金额期望值:+5000.00;与实际值:+800.00不等！
+2016-09-06 11:14:11,713 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:297)] 【资金记录数据校验错误！】
+2016-09-06 11:39:51,741 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 13:26:11,883 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 13:34:58,986 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 16:38:17,726 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 16:38:31,533 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-06 16:38:31,986 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-06 16:38:43,118 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[6]/p],元素不可见!
+2016-09-06 16:40:24,897 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 16:40:37,508 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-06 16:40:37,946 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-06 16:41:22,725 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[6]/p/comment()],元素不可见!
+2016-09-06 16:49:06,352 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 16:49:19,427 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-06 16:49:19,818 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-06 16:49:30,705 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='hovercard-id-5437']/div/div/p[2]],元素不可见!
+2016-09-06 16:49:31,125 ERROR [com.autotest.test.Test1.Test(Test1.java:263)] 
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='hovercard-id-5437']/div/div/p[2]}
+Session ID: 617088915bb02e65af509f6017b042ba
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7228_18432}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 412 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='hovercard-id-5437']/div/div/p[2]}
+Session ID: ac621f49-cd57-461c-b2c6-8331dbcd9f9b
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7228_18432}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=ac621f49-cd57-461c-b2c6-8331dbcd9f9b, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:337)
+	at com.autotest.test.Test1.Test(Test1.java:219)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 27 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='hovercard-id-5437']/div/div/p[2]}
+Session ID: 617088915bb02e65af509f6017b042ba
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7228_18432}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+2016-09-06 16:53:37,763 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-06 16:53:49,904 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-06 16:53:50,302 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-06 16:54:01,640 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[6]/p/comment()],元素不可见!
+2016-09-06 16:54:02,166 ERROR [com.autotest.test.Test1.Test(Test1.java:264)] 
+org.openqa.selenium.InvalidSelectorException: invalid selector: The result of the xpath expression "//div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[6]/p/comment()" is: [object Comment]. It should be an element.
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[6]/p/comment()}
+Session ID: 2a2b88ddcadffafdaeaad1a49218787c
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir4480_32015}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 516 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[6]/p/comment()}
+Session ID: 182734d9-89d7-4a1e-bec2-f6ad00eeffe9
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir4480_32015}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=182734d9-89d7-4a1e-bec2-f6ad00eeffe9, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:337)
+	at com.autotest.test.Test1.Test(Test1.java:220)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 27 more
+Caused by: org.openqa.selenium.InvalidSelectorException: invalid selector: The result of the xpath expression "//div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[6]/p/comment()" is: [object Comment]. It should be an element.
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[6]/p/comment()}
+Session ID: 2a2b88ddcadffafdaeaad1a49218787c
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir4480_32015}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more

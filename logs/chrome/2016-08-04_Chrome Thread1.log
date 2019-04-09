@@ -1,0 +1,30 @@
+[2016-08-04 04:19:42][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-04 04:19:42][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-04 04:19:57][INFO][Chrome Thread1][KeyWords.java][95] - open url - http://10.13.28.102:8080/
+[2016-08-04 04:19:58][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-04 04:19:59][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='userNo']] to [t0277]
+[2016-08-04 04:19:59][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-04 04:19:59][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-04 04:19:59][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-04 04:19:59][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-04 04:20:01][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-04 04:20:01][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-04 04:20:02][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //div[contains(text(),'项目运营')]]
+[2016-08-04 04:20:03][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //ul[@id='menu181']/li[11]/div/span[3]]
+[2016-08-04 04:20:09][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: work_frame],元素可见!
+[2016-08-04 04:20:09][INFO][Chrome Thread1][KeyWords.java][141] - [By.id: work_frame],元素存在!
+[2016-08-04 04:20:12][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+[2016-08-04 04:20:12][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //body/div[@class='func_tool_area']/a/span]
+[2016-08-04 04:20:23][ERROR][Chrome Thread1][KeyWords.java][126] - [By.id: work_frame],元素不可见!
+[2016-08-04 04:20:24][ERROR][Chrome Thread1][KeyWords.java][144] - [By.id: work_frame],元素不存在!
+[2016-08-04 04:20:35][ERROR][Chrome Thread1][KeyWords.java][126] - [By.id: work_frame],元素不可见!
+[2016-08-04 04:20:36][ERROR][Chrome Thread1][KeyWords.java][144] - [By.id: work_frame],元素不存在!
+[2016-08-04 04:20:47][ERROR][Chrome Thread1][KeyWords.java][126] - [By.id: work_frame],元素不可见!
+[2016-08-04 04:20:48][ERROR][Chrome Thread1][KeyWords.java][144] - [By.id: work_frame],元素不存在!
+[2016-08-04 04:20:59][ERROR][Chrome Thread1][KeyWords.java][126] - [By.id: work_frame],元素不可见!
+[2016-08-04 04:21:00][ERROR][Chrome Thread1][KeyWords.java][144] - [By.id: work_frame],元素不存在!
+[2016-08-04 04:21:11][ERROR][Chrome Thread1][KeyWords.java][126] - [By.id: work_frame],元素不可见!
+[2016-08-04 04:21:11][ERROR][Chrome Thread1][KeyWords.java][144] - [By.id: work_frame],元素不存在!
+[2016-08-04 04:21:13][ERROR][Chrome Thread1][TestCase_Factoring_Project_Release_RYS20160718001.java][47] - 进入【保理发布-基本信息】页签失败!
+[2016-08-04 04:21:13][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-04 04:21:15][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.

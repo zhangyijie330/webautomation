@@ -1,0 +1,676 @@
+﻿2016-10-17 21:27:18,096 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-10-17 21:29:53,378 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: register-back-time],元素不可见!
+2016-10-17 21:30:04,359 ERROR [com.autotest.testcases.UserRegistration.test(UserRegistration.java:72)] 实名认证失败
+2016-10-17 21:30:04,359 ERROR [com.autotest.testcases.UserRegistration.test(UserRegistration.java:153)] u2 13483474998实名认证失败
+java.lang.Exception: u2 13483474998实名认证失败
+	at com.autotest.testcases.UserRegistration.test(UserRegistration.java:73)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-10-17 21:30:06,047 ERROR [com.autotest.testcases.UserRegistration.test(UserRegistration.java:155)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread1_20161017213004.jpg
+2016-10-17 21:41:43,302 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] bonus_not_use期望值:0.00;与实际值:50.00不等！
+2016-10-17 21:41:43,302 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] coupons_not_use期望值:0.00;与实际值:10.00不等！
+2016-10-17 21:41:43,302 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] rate_coupons_not_use期望值:0;与实际值:2不等！
+2016-10-17 21:41:43,302 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] invite_partner期望值:0;与实际值:2不等！
+2016-10-17 21:41:43,302 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:288)] 【账户总览】页面字段校验失败
+2016-10-17 21:42:11,060 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] bonus_not_use期望值:0.00;与实际值:50.00不等！
+2016-10-17 21:42:11,060 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] coupons_not_use期望值:0.00;与实际值:10.00不等！
+2016-10-17 21:42:11,060 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] rate_coupons_not_use期望值:0;与实际值:2不等！
+2016-10-17 21:42:11,060 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] invite_partner期望值:0;与实际值:2不等！
+2016-10-17 21:42:11,060 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:101)] 【账户总览】页面字段校验失败
+2016-10-17 21:42:25,524 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不可见!
+2016-10-17 21:42:25,544 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不存在!
+2016-10-17 21:42:25,544 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:116)] 【投资管理】存在理财记录
+2016-10-17 21:42:38,564 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不可见!
+2016-10-17 21:42:38,565 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不存在!
+2016-10-17 21:42:38,565 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:126)] 【投资管理】存在资金记录
+2016-10-17 21:42:53,442 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] acct_pay期望值:20000.00;与实际值:19950.00不等！
+2016-10-17 21:42:53,442 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:251)] 【投资确认】页面数据校验失败
+2016-10-17 21:43:13,786 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] balance期望值:10000.00;与实际值:10050.00不等！
+2016-10-17 21:43:13,786 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] will_profit期望值:0.00;与实际值:50.00不等！
+2016-10-17 21:43:13,786 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] coupons_not_use期望值:0.00;与实际值:10.00不等！
+2016-10-17 21:43:13,786 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] total_profit期望值:0.00;与实际值:50.00不等！
+2016-10-17 21:43:13,786 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] total_invest期望值:40000.00;与实际值:39950.00不等！
+2016-10-17 21:43:13,786 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] rate_coupons_not_use期望值:0;与实际值:2不等！
+2016-10-17 21:43:13,786 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] invite_partner期望值:0;与实际值:2不等！
+2016-10-17 21:43:13,786 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:288)] 【账户总览】页面字段校验失败
+2016-10-17 21:43:25,859 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] amount期望值:-20000.00;与实际值:-19950.00不等！
+2016-10-17 21:43:25,859 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] acct_balance期望值:10000.00;与实际值:10050.00不等！
+2016-10-17 21:43:25,859 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:328)] 【资金记录】校验数据失败
+2016-10-17 21:43:43,399 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] bonus_not_use期望值:0.00;与实际值:50.00不等！
+2016-10-17 21:43:43,399 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] coupons_not_use期望值:0.00;与实际值:10.00不等！
+2016-10-17 21:43:43,399 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] rate_coupons_not_use期望值:0;与实际值:2不等！
+2016-10-17 21:43:43,399 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] invite_partner期望值:0;与实际值:2不等！
+2016-10-17 21:43:43,399 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:101)] 【账户总览】页面字段校验失败
+2016-10-17 21:44:00,483 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不可见!
+2016-10-17 21:44:00,501 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不存在!
+2016-10-17 21:44:00,501 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:116)] 【投资管理】存在理财记录
+2016-10-17 21:44:13,192 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不可见!
+2016-10-17 21:44:13,208 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'没有相关数据')]],元素不存在!
+2016-10-17 21:44:13,208 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:126)] 【投资管理】存在资金记录
+2016-10-17 21:44:28,813 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] acct_pay期望值:30000.00;与实际值:29950.00不等！
+2016-10-17 21:44:28,813 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:251)] 【投资确认】页面数据校验失败
+2016-10-17 21:44:33,278 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:83)] 期望值:我要理财-投资成功;与实际值:日益升 -鑫股一号-鑫合汇不等！
+2016-10-17 21:44:34,280 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:83)] 期望值:我要理财-投资成功;与实际值:日益升 -鑫股一号-鑫合汇不等！
+2016-10-17 21:44:35,283 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:83)] 期望值:我要理财-投资成功;与实际值:日益升 -鑫股一号-鑫合汇不等！
+2016-10-17 21:44:46,615 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.cssSelector: .invest-success-msg.tac>dt],元素不可见!
+2016-10-17 21:44:46,616 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:351)] Unable to locate element: {"method":"css selector","selector":".invest-success-msg.tac>dt"}
+Command duration or timeout: 1 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=css selector, value=.invest-success-msg.tac>dt}
+Session ID: 37e8cfcd-127e-4f22-a4d7-fa6652e187f0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"css selector","selector":".invest-success-msg.tac>dt"}
+Command duration or timeout: 1 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=css selector, value=.invest-success-msg.tac>dt}
+Session ID: 37e8cfcd-127e-4f22-a4d7-fa6652e187f0
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:399)
+	at com.autotest.service.xhhService.InvestFinanceService.payConfirmAndCheckSuccess(InvestFinanceService.java:1054)
+	at com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:259)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"css selector","selector":".invest-success-msg.tac>dt"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous4621717652309165752webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous4621717652309165752webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous4621717652309165752webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous4621717652309165752webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous4621717652309165752webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+2016-10-17 21:44:47,011 ERROR [com.autotest.testcases.RYS001_UserInvest.test(RYS001_UserInvest.java:353)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread1_20161017214446.jpg
+2016-10-17 21:45:28,974 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span/span],元素不可见!
+2016-10-17 21:45:28,989 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span/span],元素不存在!
+2016-10-17 21:45:28,989 ERROR [com.autotest.testcases.RYS001_GenPayPlan.test(RYS001_GenPayPlan.java:66)] 查询项目失败!
+2016-10-17 21:45:28,989 ERROR [com.autotest.testcases.RYS001_GenPayPlan.test(RYS001_GenPayPlan.java:206)] Exception
+java.lang.Exception: search failed
+	at com.autotest.testcases.RYS001_GenPayPlan.test(RYS001_GenPayPlan.java:67)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-10-17 21:45:29,234 ERROR [com.autotest.testcases.RYS001_GenPayPlan.test(RYS001_GenPayPlan.java:207)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread1_20161017214528.jpg
+2016-10-17 21:46:12,101 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: work_frame],元素不可见!
+2016-10-17 21:46:12,101 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.id: work_frame],元素不存在!
+2016-10-17 21:46:24,875 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素不可见!
+2016-10-17 21:46:24,887 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素不存在!
+2016-10-17 21:46:35,244 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素不可见!
+2016-10-17 21:46:35,245 ERROR [com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:324)] Exception
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//tr[@id='tr_dataTableForPayWait_0']/td[2]/div"}
+Command duration or timeout: 1 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//tr[@id='tr_dataTableForPayWait_0']/td[2]/div}
+Session ID: 32ca9694-fc2b-4b16-b172-1906f18e2e9d
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:399)
+	at com.autotest.service.bmpService.Loan.Checkprod(Loan.java:210)
+	at com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:83)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//tr[@id='tr_dataTableForPayWait_0']/td[2]/div"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous4745813378443634541webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous4745813378443634541webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous4745813378443634541webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous4745813378443634541webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous4745813378443634541webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+2016-10-17 21:46:35,472 ERROR [com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:325)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread1_20161017214635.jpg
+2016-10-17 21:47:31,401 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 21:47:31,402 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 21:47:42,744 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 21:47:42,760 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 21:47:54,154 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 21:47:54,169 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 21:48:05,629 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 21:48:05,645 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 21:48:17,015 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 21:48:17,016 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 21:48:28,434 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 21:48:28,465 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 21:48:39,850 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 21:48:39,866 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 21:48:50,936 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 21:48:50,952 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 21:49:02,381 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 21:49:04,202 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 21:49:15,683 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 21:49:15,700 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 21:49:30,239 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'RYS20161017009')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 21:49:44,138 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'RYS20161017009')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 21:49:57,833 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'RYS20161017009')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 21:50:11,519 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'RYS20161017009')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 21:50:26,365 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'RYS20161017009')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 21:50:39,961 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'RYS20161017009')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 21:50:53,494 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'RYS20161017009')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 21:51:06,949 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'RYS20161017009')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 21:51:22,921 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'RYS20161017009')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 21:51:23,124 ERROR [com.autotest.testcases.RYS001_Repay_Business.test(RYS001_Repay_Business.java:273)] 找不到项目RYS20161017009
+2016-10-17 21:58:52,864 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@class='page pageWraper']/a[text()='>']/preceding-sibling::a[1]],元素不可见!
+2016-10-17 21:58:52,865 ERROR [com.autotest.testcases.Project_Release_YYS002.test(Project_Release_YYS002.java:403)] Unable to locate element: {"method":"xpath","selector":"//div[@class='page pageWraper']/a[text()='>']/preceding-sibling::a[1]"}
+Command duration or timeout: 1 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@class='page pageWraper']/a[text()='>']/preceding-sibling::a[1]}
+Session ID: ccb7e483-c535-473d-b9db-51ef88e9f171
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//div[@class='page pageWraper']/a[text()='>']/preceding-sibling::a[1]"}
+Command duration or timeout: 1 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@class='page pageWraper']/a[text()='>']/preceding-sibling::a[1]}
+Session ID: ccb7e483-c535-473d-b9db-51ef88e9f171
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getAttribute(KeyWords.java:429)
+	at com.autotest.service.xhhService.FactoringProject.searchProject(FactoringProject.java:211)
+	at com.autotest.testcases.Project_Release_YYS002.test(Project_Release_YYS002.java:385)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//div[@class='page pageWraper']/a[text()='>']/preceding-sibling::a[1]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous8758596253388408590webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous8758596253388408590webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous8758596253388408590webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous8758596253388408590webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous8758596253388408590webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+2016-10-17 21:58:53,130 ERROR [com.autotest.testcases.Project_Release_YYS002.test(Project_Release_YYS002.java:405)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread2_20161017215852.jpg
+2016-10-17 21:59:31,231 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] bonus_not_use期望值:0.00;与实际值:50.00不等！
+2016-10-17 21:59:31,231 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] coupons_not_use期望值:0.00;与实际值:10.00不等！
+2016-10-17 21:59:31,232 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] rate_coupons_not_use期望值:0;与实际值:2不等！
+2016-10-17 21:59:31,232 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] invite_partner期望值:0;与实际值:2不等！
+2016-10-17 21:59:31,232 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:103)] 【账户总览】页面字段校验失败
+2016-10-17 21:59:37,578 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] profit期望值:--;与实际值:10.47不等！
+2016-10-17 21:59:37,578 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:140)] 【理财记录】校验数据失败
+2016-10-17 21:59:57,131 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'RYS20161017009')][(contains(text(),'回款'))]],元素不可见!
+2016-10-17 21:59:57,132 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'RYS20161017009')][(contains(text(),'回款'))]],元素不存在!
+2016-10-17 21:59:58,148 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-10-17 21:59:58,148 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInPayRecord(UserAccountService.java:396)] 【资金记录】未找到项目RYS20161017009
+2016-10-17 21:59:58,148 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:177)] 【资金记录】校验回款数据失败
+2016-10-17 22:02:29,571 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] acct_pay期望值:1000.00;与实际值:990.00不等！
+2016-10-17 22:02:29,571 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:312)] 【投资确认】页面数据校验失败
+2016-10-17 22:02:50,098 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] balance期望值:34000.00;与实际值:34010.00不等！
+2016-10-17 22:02:50,098 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] will_profit期望值:0.00;与实际值:10.00不等！
+2016-10-17 22:02:50,098 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] bonus_not_use期望值:0.00;与实际值:50.00不等！
+2016-10-17 22:02:50,098 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] total_profit期望值:0.00;与实际值:10.00不等！
+2016-10-17 22:02:50,098 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] total_invest期望值:16000.00;与实际值:15990.00不等！
+2016-10-17 22:02:50,098 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] rate_coupons_not_use期望值:0;与实际值:2不等！
+2016-10-17 22:02:50,098 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] invite_partner期望值:0;与实际值:2不等！
+2016-10-17 22:02:50,098 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:347)] 【账户总览】页面字段校验失败
+2016-10-17 22:03:03,472 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] amount期望值:-1000.00;与实际值:-990.00不等！
+2016-10-17 22:03:03,472 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] acct_balance期望值:34000.00;与实际值:34010.00不等！
+2016-10-17 22:03:03,472 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:404)] 【资金记录】校验数据失败
+2016-10-17 22:03:19,314 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] balance期望值:10000.00;与实际值:10050.00不等！
+2016-10-17 22:03:19,314 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] will_profit期望值:0.00;与实际值:50.00不等！
+2016-10-17 22:03:19,314 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] coupons_not_use期望值:0.00;与实际值:10.00不等！
+2016-10-17 22:03:19,314 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] total_profit期望值:0.00;与实际值:50.00不等！
+2016-10-17 22:03:19,314 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] total_invest期望值:40000.00;与实际值:39950.00不等！
+2016-10-17 22:03:19,314 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] rate_coupons_not_use期望值:0;与实际值:2不等！
+2016-10-17 22:03:19,314 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] invite_partner期望值:0;与实际值:2不等！
+2016-10-17 22:03:19,314 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:103)] 【账户总览】页面字段校验失败
+2016-10-17 22:03:25,672 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] profit期望值:--;与实际值:13.97不等！
+2016-10-17 22:03:25,672 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:140)] 【理财记录】校验数据失败
+2016-10-17 22:03:34,452 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] amount期望值:-20000.00;与实际值:-19950.00不等！
+2016-10-17 22:03:34,452 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] acct_balance期望值:10000.00;与实际值:10050.00不等！
+2016-10-17 22:03:34,452 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:168)] 【资金记录】校验投资数据失败
+2016-10-17 22:03:45,673 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //td[contains(text(),'RYS20161017009')][(contains(text(),'回款'))]],元素不可见!
+2016-10-17 22:03:45,689 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //td[contains(text(),'RYS20161017009')][(contains(text(),'回款'))]],元素不存在!
+2016-10-17 22:03:46,704 ERROR [com.autotest.driver.KeyWords.isElementExist2(KeyWords.java:191)] [By.xpath: //a[text()='>']/preceding-sibling::a[1]],元素不存在!
+2016-10-17 22:03:46,704 ERROR [com.autotest.service.xhhService.UserAccountService.checkValInPayRecord(UserAccountService.java:396)] 【资金记录】未找到项目RYS20161017009
+2016-10-17 22:03:46,704 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:177)] 【资金记录】校验回款数据失败
+2016-10-17 22:04:13,431 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] expect_income期望值:307.39;与实际值:397.80不等！
+2016-10-17 22:04:13,431 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] acct_pay期望值:22000.00;与实际值:10050.00不等！
+2016-10-17 22:04:13,431 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:312)] 【投资确认】页面数据校验失败
+2016-10-17 22:04:18,000 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:83)] 期望值:我要理财-投资成功;与实际值:月益升 -经营贷-鑫合汇不等！
+2016-10-17 22:04:18,979 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:83)] 期望值:我要理财-投资成功;与实际值:月益升 -经营贷-鑫合汇不等！
+2016-10-17 22:04:20,021 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:83)] 期望值:我要理财-投资成功;与实际值:月益升 -经营贷-鑫合汇不等！
+2016-10-17 22:04:31,207 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.cssSelector: .invest-success-msg.tac>dt],元素不可见!
+2016-10-17 22:04:31,208 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:426)] Unable to locate element: {"method":"css selector","selector":".invest-success-msg.tac>dt"}
+Command duration or timeout: 1 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=css selector, value=.invest-success-msg.tac>dt}
+Session ID: bf4d3618-fe10-4a7a-876a-d1306cd07de5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"css selector","selector":".invest-success-msg.tac>dt"}
+Command duration or timeout: 1 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=css selector, value=.invest-success-msg.tac>dt}
+Session ID: bf4d3618-fe10-4a7a-876a-d1306cd07de5
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByCssSelector(RemoteWebDriver.java:492)
+	at org.openqa.selenium.By$ByCssSelector.findElement(By.java:430)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:399)
+	at com.autotest.service.xhhService.InvestFinanceService.payConfirmAndCheckSuccess(InvestFinanceService.java:1054)
+	at com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:320)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"css selector","selector":".invest-success-msg.tac>dt"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6888233365053605148webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6888233365053605148webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6888233365053605148webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6888233365053605148webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6888233365053605148webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+2016-10-17 22:04:31,614 ERROR [com.autotest.testcases.YYS002_UserInvest.test(YYS002_UserInvest.java:428)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread2_20161017220431.jpg
+2016-10-17 22:05:10,129 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span/span],元素不可见!
+2016-10-17 22:05:10,130 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span/span],元素不存在!
+2016-10-17 22:05:10,130 ERROR [com.autotest.testcases.YYS002_GenPayPlan.test(YYS002_GenPayPlan.java:66)] 查询项目失败!
+2016-10-17 22:05:10,130 ERROR [com.autotest.testcases.YYS002_GenPayPlan.test(YYS002_GenPayPlan.java:206)] Exception
+java.lang.Exception: search failed
+	at com.autotest.testcases.YYS002_GenPayPlan.test(YYS002_GenPayPlan.java:67)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-10-17 22:05:10,395 ERROR [com.autotest.testcases.YYS002_GenPayPlan.test(YYS002_GenPayPlan.java:207)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread2_20161017220510.jpg
+2016-10-17 22:05:44,957 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: work_frame],元素不可见!
+2016-10-17 22:05:44,958 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.id: work_frame],元素不存在!
+2016-10-17 22:05:56,718 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素不可见!
+2016-10-17 22:05:56,719 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素不存在!
+2016-10-17 22:06:07,088 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素不可见!
+2016-10-17 22:06:07,101 ERROR [com.autotest.testcases.YYS002_Payment.Test(YYS002_Payment.java:326)] Exception
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//tr[@id='tr_dataTableForPayWait_0']/td[2]/div"}
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//tr[@id='tr_dataTableForPayWait_0']/td[2]/div}
+Session ID: eff0eaea-9d4c-4305-bd91-ff005593c837
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:399)
+	at com.autotest.service.bmpService.Loan.Checkprod(Loan.java:210)
+	at com.autotest.testcases.YYS002_Payment.Test(YYS002_Payment.java:81)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//tr[@id='tr_dataTableForPayWait_0']/td[2]/div"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous2094056251257279882webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous2094056251257279882webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous2094056251257279882webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous2094056251257279882webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous2094056251257279882webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+2016-10-17 22:06:07,324 ERROR [com.autotest.testcases.YYS002_Payment.Test(YYS002_Payment.java:327)] Screenshot path: E:\12345\web_automation\snapshot\Firefox Thread2_20161017220607.jpg
+2016-10-17 22:06:42,014 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:06:42,030 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:06:53,339 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:06:53,340 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:07:04,646 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:07:04,661 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:07:16,019 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:07:16,034 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:07:27,444 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:07:27,459 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:07:38,833 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:07:38,833 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:07:50,234 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:07:50,235 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:08:01,633 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:08:01,634 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:08:13,022 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:08:13,062 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:08:24,429 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:08:24,444 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:08:42,993 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name']/a[contains(text(),'YYS20161017005')]/parent::node()/parent::node()/parent::node()/td[8]/a],元素不可见!
+2016-10-17 22:08:43,010 ERROR [com.autotest.testcases.YYS002_EarlyRepay_GenPayPlan.Test(YYS002_EarlyRepay_GenPayPlan.java:453)] Unable to locate element: {"method":"xpath","selector":"//p[@class='pro_name']/a[contains(text(),'YYS20161017005')]/parent::node()/parent::node()/parent::node()/td[8]/a"}
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//p[@class='pro_name']/a[contains(text(),'YYS20161017005')]/parent::node()/parent::node()/parent::node()/td[8]/a}
+Session ID: 182de92c-31ca-4f4f-9634-ff8567b528f1
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//p[@class='pro_name']/a[contains(text(),'YYS20161017005')]/parent::node()/parent::node()/parent::node()/td[8]/a"}
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//p[@class='pro_name']/a[contains(text(),'YYS20161017005')]/parent::node()/parent::node()/parent::node()/td[8]/a}
+Session ID: 182de92c-31ca-4f4f-9634-ff8567b528f1
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getWebElement(KeyWords.java:222)
+	at com.autotest.service.xhhService.EarlyRepayService.checkProManageInfo(EarlyRepayService.java:114)
+	at com.autotest.testcases.YYS002_EarlyRepay_GenPayPlan.Test(YYS002_EarlyRepay_GenPayPlan.java:95)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//p[@class='pro_name']/a[contains(text(),'YYS20161017005')]/parent::node()/parent::node()/parent::node()/td[8]/a"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6978528037869830448webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6978528037869830448webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6978528037869830448webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6978528037869830448webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6978528037869830448webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+2016-10-17 22:08:43,012 ERROR [com.autotest.testcases.YYS002_EarlyRepay_GenPayPlan.Test(YYS002_EarlyRepay_GenPayPlan.java:455)] 出现异常!截图[screenshot/1476713323012.jpg]
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//p[@class='pro_name']/a[contains(text(),'YYS20161017005')]/parent::node()/parent::node()/parent::node()/td[8]/a"}
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//p[@class='pro_name']/a[contains(text(),'YYS20161017005')]/parent::node()/parent::node()/parent::node()/td[8]/a}
+Session ID: 182de92c-31ca-4f4f-9634-ff8567b528f1
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=43.0.3}]
+	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getWebElement(KeyWords.java:222)
+	at com.autotest.service.xhhService.EarlyRepayService.checkProManageInfo(EarlyRepayService.java:114)
+	at com.autotest.testcases.YYS002_EarlyRepay_GenPayPlan.Test(YYS002_EarlyRepay_GenPayPlan.java:95)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//p[@class='pro_name']/a[contains(text(),'YYS20161017005')]/parent::node()/parent::node()/parent::node()/td[8]/a"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.46.168.29', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6978528037869830448webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10770)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6978528037869830448webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:10779)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6978528037869830448webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12661)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6978528037869830448webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12666)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/wb0005/AppData/Local/Temp/anonymous6978528037869830448webdriver-profile/extensions/fxdriver@googlecode.com/components/command-processor.js:12608)
+2016-10-17 22:09:41,024 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:09:41,038 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:09:52,312 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:09:52,327 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:10:03,657 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:10:03,675 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:10:15,115 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:10:15,116 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:10:26,499 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:10:26,500 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:10:37,881 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:10:37,903 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:10:49,317 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:10:49,318 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:11:00,767 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:11:00,786 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:11:12,229 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:11:12,245 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:11:23,637 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-10-17 22:11:23,638 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-10-17 22:11:37,282 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'YYS20161017005')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 22:11:51,354 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'YYS20161017005')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 22:12:05,167 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'YYS20161017005')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 22:12:18,845 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'YYS20161017005')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 22:12:32,311 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'YYS20161017005')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 22:12:45,809 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'YYS20161017005')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 22:12:59,596 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'YYS20161017005')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 22:13:12,913 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //p[@class='pro_name' and contains(text(),'YYS20161017005')]/parent::node()/parent::node()],元素不可见!
+2016-10-17 22:13:13,142 ERROR [com.autotest.testcases.YYS002_Repay_Business.test(YYS002_Repay_Business.java:272)] 找不到项目YYS20161017005

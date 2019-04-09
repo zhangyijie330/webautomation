@@ -1,0 +1,1155 @@
+2016-09-02 14:44:09,990 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-02 14:44:09,990 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:firefox
+2016-09-02 14:44:12,584 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-02 14:44:13,475 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-02 14:44:13,991 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='userNo']] to [wb002]
+2016-09-02 14:44:16,279 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-02 14:44:16,510 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-02 14:44:16,585 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-02 14:44:17,036 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-02 14:44:19,438 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-02 14:44:19,469 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-02 14:44:19,819 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-02 14:44:21,053 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //ul[@id='menu181']/li[11]/div/span[3]]
+2016-09-02 14:44:21,444 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: work_frame],元素可见!
+2016-09-02 14:44:21,504 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: work_frame],元素存在!
+2016-09-02 14:44:29,129 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 14:44:29,500 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: /html/body/div[4]/a[1]]
+2016-09-02 14:44:30,702 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='baseInfo_form']/table],元素可见!
+2016-09-02 14:44:31,043 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[@id='isXprj0']]
+2016-09-02 14:44:31,293 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //span[@id='borrowerType']/span]
+2016-09-02 14:44:31,573 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[text()='个人']]
+2016-09-02 14:44:32,113 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[@id='borrowName']]
+2016-09-02 14:44:32,194 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[@class='panel window']],元素可见!
+2016-09-02 14:44:32,284 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_borrowerDataTable']],元素可见!
+2016-09-02 14:44:34,270 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_borrowerDataTable']/tr],元素可见!
+2016-09-02 14:44:34,541 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]]
+2016-09-02 14:44:34,601 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]],元素可见!
+2016-09-02 14:44:34,731 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tr[@id='tr_borrowerDataTable_0']/td[2]/div],元素可见!
+2016-09-02 14:44:34,941 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='borrowName']],元素可见!
+2016-09-02 14:44:35,101 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='demandAmount']],元素可见!
+2016-09-02 14:44:35,271 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='demandAmount']] to [100000]
+2016-09-02 14:44:35,322 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='time']],元素可见!
+2016-09-02 14:44:35,472 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='time']] to [3]
+2016-09-02 14:44:36,602 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //span[@id='timeLimitUnit']/span]
+2016-09-02 14:44:36,722 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //div[text()='天']]
+2016-09-02 14:44:36,792 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='rate']],元素可见!
+2016-09-02 14:44:36,942 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='rate']] to [8.5]
+2016-09-02 14:44:37,092 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //span[@id='prjBusinessType']/span/span]
+2016-09-02 14:44:37,202 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:251)] Click on [By.xpath: //div[text()='鑫股一号']]
+2016-09-02 14:44:37,272 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='showBidTime']],元素可见!
+2016-09-02 14:44:37,432 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='showBidTime']] to [2016-09-02 14:49:30]
+2016-09-02 14:44:37,512 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='startBidTime']],元素可见!
+2016-09-02 14:44:37,658 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='startBidTime']] to [2016-09-02 14:54:30]
+2016-09-02 14:44:37,738 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='endBidTime']],元素可见!
+2016-09-02 14:44:37,958 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='endBidTime']] to [2016-09-02 23:59:59]
+2016-09-02 14:44:39,299 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+2016-09-02 14:44:39,369 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='product_form']],元素可见!
+2016-09-02 14:44:39,449 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='bid_form']],元素可见!
+2016-09-02 14:44:39,539 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='protocolparamform']],元素可见!
+2016-09-02 14:44:40,050 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='productName']],元素可见!
+2016-09-02 14:44:40,200 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='productName']] to [ZYS20160902001]
+2016-09-02 14:44:40,340 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //form[@id='product_form']]
+2016-09-02 14:44:44,683 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //textarea[@id='money_using']],元素可见!
+2016-09-02 14:44:44,854 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //textarea[@id='money_using']] to [临时周转]
+2016-09-02 14:44:44,924 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //textarea[@id='repay_origin']],元素可见!
+2016-09-02 14:44:45,074 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //textarea[@id='repay_origin']] to [经营所得]
+2016-09-02 14:44:45,264 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //span[@id='fiPrjPerson_educational']/span]
+2016-09-02 14:44:45,384 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:251)] Click on [By.xpath: //div[text()='博士后']]
+2016-09-02 14:44:45,454 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='annualEarnings']],元素可见!
+2016-09-02 14:44:45,673 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='annualEarnings']] to [1000000]
+2016-09-02 14:44:45,903 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //span[@id='fundAccount']/span]
+2016-09-02 14:44:46,024 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:251)] Click on [By.xpath: //div[text()='上海鑫合汇网络科技有限公司(工商银行-6227003814170172872)']]
+2016-09-02 14:44:46,084 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+2016-09-02 14:44:46,264 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [ZYS20160902001合同]
+2016-09-02 14:44:46,334 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[1].paramValue']],元素可见!
+2016-09-02 14:44:46,474 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[1].paramValue']] to [xm001]
+2016-09-02 14:44:46,544 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[4].paramValue']],元素可见!
+2016-09-02 14:44:46,684 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[4].paramValue']] to [dbbh001]
+2016-09-02 14:44:46,764 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[5].paramValue']],元素可见!
+2016-09-02 14:44:46,904 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[5].paramValue']] to [blh001]
+2016-09-02 14:44:46,975 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[9].paramValue']],元素可见!
+2016-09-02 14:44:47,115 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[9].paramValue']] to [孙群领]
+2016-09-02 14:44:47,175 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[11].paramValue']],元素可见!
+2016-09-02 14:44:47,335 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[11].paramValue']] to [330722196501292110]
+2016-09-02 14:44:47,405 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[13].paramValue']],元素可见!
+2016-09-02 14:44:47,555 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[13].paramValue']] to [0]
+2016-09-02 14:44:47,627 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[14].paramValue']],元素可见!
+2016-09-02 14:44:47,777 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[14].paramValue']] to [1]
+2016-09-02 14:44:47,847 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='productName']],元素可见!
+2016-09-02 14:44:48,267 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //a[@id='doPublishFactor']]
+2016-09-02 14:44:51,679 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[@class='messager-body panel-body panel-body-noborder window-body']/div[2]],元素可见!
+2016-09-02 14:44:51,990 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@class='messager-button']/a]
+2016-09-02 14:44:57,079 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 14:44:57,460 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //span[text()='项目审核']]
+2016-09-02 14:44:57,960 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //iframe[@id='work_frame']],元素可见!
+2016-09-02 14:44:58,240 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //iframe[@id='work_frame']],元素存在!
+2016-09-02 14:44:59,321 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 14:44:59,442 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='searchBean.projectName']],元素可见!
+2016-09-02 14:44:59,594 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='searchBean.projectName']] to [ZYS20160902001]
+2016-09-02 14:44:59,654 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='searchBean.projectName']],元素可见!
+2016-09-02 14:44:59,991 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 14:45:00,191 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[2]/div/input],元素可见!
+2016-09-02 14:45:00,421 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[3]/div],元素可见!
+2016-09-02 14:45:00,563 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[4]/div],元素可见!
+2016-09-02 14:45:00,707 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[5]/div],元素可见!
+2016-09-02 14:45:00,837 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[6]/div],元素可见!
+2016-09-02 14:45:01,057 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[7]/div],元素可见!
+2016-09-02 14:45:01,187 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[8]/div],元素可见!
+2016-09-02 14:45:01,327 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[9]/div],元素可见!
+2016-09-02 14:45:01,457 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[10]/div],元素可见!
+2016-09-02 14:45:01,588 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[11]/div],元素可见!
+2016-09-02 14:45:01,728 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[12]/div],元素可见!
+2016-09-02 14:45:02,889 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 14:45:04,487 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='financingInfo_form']],元素可见!
+2016-09-02 14:45:04,527 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //form[@id='financingInfo_form']],元素存在!
+2016-09-02 14:45:05,260 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+2016-09-02 14:45:06,328 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //table[@id='basic']],元素可见!
+2016-09-02 14:45:06,358 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //table[@id='basic']],元素存在!
+2016-09-02 14:45:06,673 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //span[@id='memberId_noShare']/span]
+2016-09-02 14:45:06,803 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:251)] Click on [By.xpath: //div[text()='鑫合汇']]
+2016-09-02 14:45:07,053 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[@id='ch1']]
+2016-09-02 14:45:07,153 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+2016-09-02 14:45:07,323 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [hth001]
+2016-09-02 14:45:07,504 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //span[@id='prjType']/parent::td/following-sibling::td[2]],元素可见!
+2016-09-02 14:45:07,771 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //span[@id='repayDateSpan']/parent::font/parent::td],元素可见!
+2016-09-02 14:45:08,021 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //span[@id='repayDateSpan']/parent::font/parent::td/following-sibling::td[2]],元素可见!
+2016-09-02 14:45:08,211 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrj_isNew1']],元素可见!
+2016-09-02 14:45:08,654 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isXzd1']],元素可见!
+2016-09-02 14:45:08,805 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isExtend1']],元素可见!
+2016-09-02 14:45:09,208 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //span[@id='payWay']/input[1]],元素可见!
+2016-09-02 14:45:09,388 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[contains(text(),'保障方式:')]/following-sibling::td[1]],元素可见!
+2016-09-02 14:45:09,588 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[text()='发布机构:']/following-sibling::td[1]],元素可见!
+2016-09-02 14:45:10,038 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[text()='户名：']/following-sibling::td[1]],元素可见!
+2016-09-02 14:45:10,299 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[text()='账号：']/following-sibling::td[1]],元素可见!
+2016-09-02 14:45:10,674 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[text()='开户行：']/following-sibling::td[1]],元素可见!
+2016-09-02 14:45:11,054 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='isShare1']],元素可见!
+2016-09-02 14:45:11,265 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isEarlyClose1']],元素可见!
+2016-09-02 14:45:11,405 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isHaveBidingIncoming1']],元素可见!
+2016-09-02 14:45:11,597 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isEarlyRepay1']],元素可见!
+2016-09-02 14:45:11,737 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[contains(text(),'是否允许多次投标')]/following-sibling::td[1]/child::input[1]],元素可见!
+2016-09-02 14:45:11,887 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isAppointPrj1']],元素可见!
+2016-09-02 14:45:17,269 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']],元素可见!
+2016-09-02 14:45:17,722 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:124)] Driver with firefox is closed.
+2016-09-02 14:45:19,685 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:136)] Open the ReportNG report.
+2016-09-02 15:30:12,981 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-02 15:30:12,984 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:firefox
+2016-09-02 15:30:16,178 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/
+2016-09-02 15:30:17,481 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+2016-09-02 15:30:17,572 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+2016-09-02 15:30:17,754 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [18314512254]
+2016-09-02 15:30:19,169 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='password']],元素可见!
+2016-09-02 15:30:19,340 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='password']] to [a111111]
+2016-09-02 15:30:23,760 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+2016-09-02 15:30:25,140 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:30:25,371 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:30:27,840 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+2016-09-02 15:30:27,980 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [775812]
+2016-09-02 15:30:28,050 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+2016-09-02 15:30:28,280 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[contains(@value,'注 册')]]
+2016-09-02 15:30:30,956 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-09-02 15:30:31,037 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-09-02 15:30:31,117 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:31,187 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:31,277 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:31,347 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:31,427 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:31,507 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:31,647 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:31,717 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:31,807 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:31,877 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:31,947 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:32,027 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:32,148 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:32,208 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:32,268 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:32,348 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:32,671 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:32,741 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:32,811 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:32,881 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:32,941 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,011 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,071 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,142 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,212 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,282 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,352 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,412 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,472 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,532 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,622 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,692 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,752 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,812 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,882 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:33,952 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:34,012 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:34,082 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:34,143 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:34,213 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:34,273 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:34,353 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:34,423 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:34,493 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:34,573 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:34,635 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:30:45,464 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: register-back-time],元素不可见!
+2016-09-02 15:30:45,464 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:53)] 18314512254注册成功
+2016-09-02 15:30:45,464 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:54)] 18314512254实名认证
+2016-09-02 15:30:48,181 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/Account/IdAuth/verifyId?isAjax=1&name=%E5%AD%99%E6%99%93%E6%98%8E&personId=330721198012040257
+2016-09-02 15:30:48,242 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: /html/body],元素可见!
+2016-09-02 15:30:48,302 INFO [com.autotest.testcases.UserRegistration.authenticate(UserRegistration.java:123)] 实名认证成功
+2016-09-02 15:30:48,502 INFO [com.autotest.driver.KeyWords.switchToWindow(KeyWords.java:609)] Switch to window: 新手指引,新人福利,新手专享-鑫合汇 successfully!
+2016-09-02 15:30:48,502 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:56)] 18314512254设置支付密码
+2016-09-02 15:30:50,332 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: name]
+2016-09-02 15:30:50,443 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: guide-close],元素可见!
+2016-09-02 15:30:50,681 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: guide-close]
+2016-09-02 15:30:52,278 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.linkText: 用户中心]
+2016-09-02 15:30:52,549 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: set-paypwd]
+2016-09-02 15:30:52,632 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.name: password],元素可见!
+2016-09-02 15:30:52,812 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.name: password] to [123456]
+2016-09-02 15:30:52,912 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.name: password_repeat],元素可见!
+2016-09-02 15:30:53,092 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.name: password_repeat] to [123456]
+2016-09-02 15:30:53,323 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //*[@id="formId_Account_User_setPayPwd"]/ul/li[4]/span[2]/input]
+2016-09-02 15:30:53,698 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:30:53,958 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:30:53,998 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:58)] 18314512254充值
+2016-09-02 15:30:58,300 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+2016-09-02 15:30:58,571 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='login_button']],元素可见!
+2016-09-02 15:30:58,608 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='login_button']],元素存在!
+2016-09-02 15:30:58,608 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:77)] 18314512254退出成功
+2016-09-02 15:31:39,652 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-02 15:31:39,652 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:firefox
+2016-09-02 15:31:42,946 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/
+2016-09-02 15:31:44,307 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+2016-09-02 15:31:44,418 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+2016-09-02 15:31:44,578 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [13034175359]
+2016-09-02 15:31:45,873 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='password']],元素可见!
+2016-09-02 15:31:46,054 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='password']] to [a111111]
+2016-09-02 15:31:49,760 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+2016-09-02 15:31:51,029 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:31:51,260 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:31:53,656 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+2016-09-02 15:31:53,786 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [521699]
+2016-09-02 15:31:53,856 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+2016-09-02 15:31:54,086 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[contains(@value,'注 册')]]
+2016-09-02 15:31:55,774 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-09-02 15:31:55,805 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-09-02 15:31:55,875 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:55,945 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,025 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,095 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,165 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,225 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,305 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,385 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,445 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,505 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,565 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,630 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,690 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,820 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,891 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:56,961 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,041 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,101 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,161 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,231 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,301 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,381 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,451 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,511 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,571 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,641 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,701 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,781 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,851 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,922 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:57,992 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,052 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,132 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,192 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,262 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,332 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,392 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,462 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,562 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,625 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,685 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,745 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,815 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,875 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,936 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:58,996 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,056 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,116 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,176 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,256 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,336 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,406 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,466 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,556 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,616 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,676 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,736 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,796 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,856 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,916 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:31:59,977 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:32:00,037 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:32:00,097 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:32:00,157 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:32:00,217 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:32:00,277 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:32:10,852 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: register-back-time],元素不可见!
+2016-09-02 15:32:10,862 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:53)] 13034175359注册成功
+2016-09-02 15:32:10,862 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:54)] 13034175359实名认证
+2016-09-02 15:32:11,393 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/Account/IdAuth/verifyId?isAjax=1&name=%E5%AD%99%E6%99%93%E6%98%8E&personId=330721198012040257
+2016-09-02 15:32:11,453 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: /html/body],元素可见!
+2016-09-02 15:32:11,513 INFO [com.autotest.testcases.UserRegistration.authenticate(UserRegistration.java:123)] 实名认证成功
+2016-09-02 15:32:11,713 INFO [com.autotest.driver.KeyWords.switchToWindow(KeyWords.java:609)] Switch to window: 新手指引,新人福利,新手专享-鑫合汇 successfully!
+2016-09-02 15:32:11,713 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:56)] 13034175359设置支付密码
+2016-09-02 15:32:13,497 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: name]
+2016-09-02 15:32:13,578 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: guide-close],元素可见!
+2016-09-02 15:32:13,808 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: guide-close]
+2016-09-02 15:32:15,804 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.linkText: 用户中心]
+2016-09-02 15:32:16,035 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: set-paypwd]
+2016-09-02 15:32:16,115 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.name: password],元素可见!
+2016-09-02 15:32:16,305 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.name: password] to [123456]
+2016-09-02 15:32:16,405 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.name: password_repeat],元素可见!
+2016-09-02 15:32:16,565 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.name: password_repeat] to [123456]
+2016-09-02 15:32:16,790 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //*[@id="formId_Account_User_setPayPwd"]/ul/li[4]/span[2]/input]
+2016-09-02 15:32:17,950 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:32:18,171 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:32:18,211 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:58)] 13034175359充值
+2016-09-02 15:32:22,225 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+2016-09-02 15:32:22,336 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='login_button']],元素可见!
+2016-09-02 15:32:22,386 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='login_button']],元素存在!
+2016-09-02 15:32:22,386 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:77)] 13034175359退出成功
+2016-09-02 15:32:54,608 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-02 15:32:54,618 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:firefox
+2016-09-02 15:32:58,973 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/
+2016-09-02 15:33:00,314 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+2016-09-02 15:33:00,415 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+2016-09-02 15:33:00,575 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [18369562143]
+2016-09-02 15:33:01,763 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='password']],元素可见!
+2016-09-02 15:33:01,914 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='password']] to [a111111]
+2016-09-02 15:33:06,953 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+2016-09-02 15:33:08,217 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:33:08,458 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:33:10,864 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+2016-09-02 15:33:11,034 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [219784]
+2016-09-02 15:33:11,104 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+2016-09-02 15:33:11,324 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[contains(@value,'注 册')]]
+2016-09-02 15:33:12,965 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-09-02 15:33:13,006 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-09-02 15:33:13,076 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,156 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,226 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,286 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,356 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,426 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,496 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,566 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,641 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,711 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,791 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,851 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:13,991 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,062 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,142 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,202 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,262 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,322 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,382 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,442 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,502 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,562 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,627 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,687 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,747 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,807 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,867 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,937 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:14,997 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,058 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,118 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,178 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,238 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,298 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,358 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,428 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,488 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,568 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,628 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,688 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,748 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,818 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,888 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:15,948 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,008 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,069 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,129 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,189 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,249 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,309 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,369 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,429 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,489 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,559 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,615 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,675 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,745 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,820 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,880 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:16,940 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:17,000 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:17,060 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:17,121 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:17,181 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:17,251 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:17,301 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:17,361 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:17,421 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:17,481 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:33:28,551 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: register-back-time],元素不可见!
+2016-09-02 15:33:28,551 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:53)] 18369562143注册成功
+2016-09-02 15:33:28,551 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:54)] 18369562143实名认证
+2016-09-02 15:33:29,289 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/Account/IdAuth/verifyId?isAjax=1&name=%E5%AD%99%E6%99%93%E6%98%8E&personId=330721198012040257
+2016-09-02 15:33:29,349 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: /html/body],元素可见!
+2016-09-02 15:33:29,419 INFO [com.autotest.testcases.UserRegistration.authenticate(UserRegistration.java:123)] 实名认证成功
+2016-09-02 15:33:29,609 INFO [com.autotest.driver.KeyWords.switchToWindow(KeyWords.java:609)] Switch to window: 新手指引,新人福利,新手专享-鑫合汇 successfully!
+2016-09-02 15:33:29,609 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:56)] 18369562143设置支付密码
+2016-09-02 15:33:31,454 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: name]
+2016-09-02 15:33:31,555 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: guide-close],元素可见!
+2016-09-02 15:33:31,785 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: guide-close]
+2016-09-02 15:33:33,315 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.linkText: 用户中心]
+2016-09-02 15:33:33,596 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: set-paypwd]
+2016-09-02 15:33:33,666 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.name: password],元素可见!
+2016-09-02 15:33:33,856 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.name: password] to [123456]
+2016-09-02 15:33:33,956 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.name: password_repeat],元素可见!
+2016-09-02 15:33:34,096 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.name: password_repeat] to [123456]
+2016-09-02 15:33:34,326 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //*[@id="formId_Account_User_setPayPwd"]/ul/li[4]/span[2]/input]
+2016-09-02 15:33:35,447 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:33:35,658 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:33:35,698 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:58)] 18369562143充值
+2016-09-02 15:33:39,536 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+2016-09-02 15:33:39,677 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='login_button']],元素可见!
+2016-09-02 15:33:39,757 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='login_button']],元素存在!
+2016-09-02 15:33:39,757 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:77)] 18369562143退出成功
+2016-09-02 15:34:14,293 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-02 15:34:14,293 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:firefox
+2016-09-02 15:34:18,315 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/
+2016-09-02 15:34:19,624 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+2016-09-02 15:34:19,735 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+2016-09-02 15:34:19,905 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [13995899654]
+2016-09-02 15:34:20,981 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='password']],元素可见!
+2016-09-02 15:34:21,202 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='password']] to [a111111]
+2016-09-02 15:34:25,571 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+2016-09-02 15:34:26,831 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:34:27,062 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:34:29,432 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+2016-09-02 15:34:29,562 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [320867]
+2016-09-02 15:34:29,636 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+2016-09-02 15:34:29,846 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[contains(@value,'注 册')]]
+2016-09-02 15:34:31,800 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-09-02 15:34:31,831 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-09-02 15:34:31,891 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:31,971 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,041 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,111 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,171 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,231 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,291 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,371 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,431 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,491 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,551 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,608 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,668 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,728 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,838 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,899 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:32,979 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,039 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,099 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,159 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,229 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,289 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,349 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,419 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,479 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,549 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,613 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,673 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,733 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,793 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,853 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,914 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:33,974 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,034 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,094 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,154 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,214 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,274 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,344 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,404 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,474 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,544 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,604 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,674 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,734 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,794 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,854 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,915 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:34,975 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,035 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,095 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,155 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,215 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,275 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,345 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,405 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,475 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,535 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,586 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,660 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,740 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,800 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,860 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,921 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:35,981 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:36,041 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:36,101 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:36,161 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:36,221 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:36,281 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:34:47,308 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: register-back-time],元素不可见!
+2016-09-02 15:34:47,308 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:53)] 13995899654注册成功
+2016-09-02 15:34:47,308 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:54)] 13995899654实名认证
+2016-09-02 15:34:47,963 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/Account/IdAuth/verifyId?isAjax=1&name=%E5%AD%99%E6%99%93%E6%98%8E&personId=330721198012040257
+2016-09-02 15:34:48,023 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: /html/body],元素可见!
+2016-09-02 15:34:48,083 INFO [com.autotest.testcases.UserRegistration.authenticate(UserRegistration.java:123)] 实名认证成功
+2016-09-02 15:34:48,273 INFO [com.autotest.driver.KeyWords.switchToWindow(KeyWords.java:609)] Switch to window: 新手指引,新人福利,新手专享-鑫合汇 successfully!
+2016-09-02 15:34:48,273 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:56)] 13995899654设置支付密码
+2016-09-02 15:34:50,129 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: name]
+2016-09-02 15:34:50,230 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: guide-close],元素可见!
+2016-09-02 15:34:50,440 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: guide-close]
+2016-09-02 15:34:52,002 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.linkText: 用户中心]
+2016-09-02 15:34:52,313 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: set-paypwd]
+2016-09-02 15:34:52,423 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.name: password],元素可见!
+2016-09-02 15:34:52,621 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.name: password] to [123456]
+2016-09-02 15:34:52,701 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.name: password_repeat],元素可见!
+2016-09-02 15:34:52,851 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.name: password_repeat] to [123456]
+2016-09-02 15:34:53,081 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //*[@id="formId_Account_User_setPayPwd"]/ul/li[4]/span[2]/input]
+2016-09-02 15:34:53,413 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:34:53,669 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:34:53,709 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:58)] 13995899654充值
+2016-09-02 15:34:57,546 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+2016-09-02 15:34:57,667 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='login_button']],元素可见!
+2016-09-02 15:34:57,717 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='login_button']],元素存在!
+2016-09-02 15:34:57,717 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:77)] 13995899654退出成功
+2016-09-02 15:35:32,882 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-02 15:35:32,882 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:firefox
+2016-09-02 15:35:39,160 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/
+2016-09-02 15:35:40,610 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+2016-09-02 15:35:40,691 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+2016-09-02 15:35:40,861 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [18279817259]
+2016-09-02 15:35:44,408 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='password']],元素可见!
+2016-09-02 15:35:44,590 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='password']] to [a111111]
+2016-09-02 15:35:47,922 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+2016-09-02 15:35:48,192 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:35:48,432 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:35:50,844 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+2016-09-02 15:35:50,994 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [771326]
+2016-09-02 15:35:51,068 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+2016-09-02 15:35:51,288 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[contains(@value,'注 册')]]
+2016-09-02 15:35:52,991 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-09-02 15:35:53,032 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-09-02 15:35:53,102 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,182 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,262 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,332 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,392 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,452 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,522 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,582 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,642 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,702 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,762 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,822 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:53,882 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,012 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,073 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,143 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,213 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,283 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,343 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,403 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,463 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,523 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,583 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,642 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,702 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,762 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,822 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,882 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:54,942 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,002 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,062 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,105 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,175 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,245 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,305 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,365 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,425 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,485 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,555 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,615 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,675 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,735 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,795 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,855 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,915 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:55,975 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,045 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,105 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,166 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,226 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,286 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,346 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,406 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,466 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,526 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,587 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,659 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,739 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,799 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,859 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,919 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:56,979 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:57,049 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:57,109 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:57,170 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:57,230 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:57,290 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:57,360 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:57,420 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:35:57,480 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:36:02,030 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: register-back-time],元素不可见!
+2016-09-02 15:36:02,030 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:53)] 18279817259注册成功
+2016-09-02 15:36:02,030 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:54)] 18279817259实名认证
+2016-09-02 15:36:03,566 ERROR [com.autotest.testcases.UserRegistration.test(UserRegistration.java:100)] Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+Session ID: 22c002bb-8169-418f-b17c-17f7c13b8ef0
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=22.0}]
+Command duration or timeout: 1.54 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: b849ef67-d953-4ebc-b464-9dd98b413ea3
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, acceptSslCerts=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=b849ef67-d953-4ebc-b464-9dd98b413ea3, version=22.0, databaseEnabled=true, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+org.openqa.selenium.WebDriverException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+Session ID: 22c002bb-8169-418f-b17c-17f7c13b8ef0
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=22.0}]
+Command duration or timeout: 1.54 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Session ID: b849ef67-d953-4ebc-b464-9dd98b413ea3
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, acceptSslCerts=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=b849ef67-d953-4ebc-b464-9dd98b413ea3, version=22.0, databaseEnabled=true, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:577)
+	at com.autotest.driver.KeyWords.executeJsReturnString(KeyWords.java:104)
+	at com.autotest.driver.KeyWords.openNewWindow(KeyWords.java:80)
+	at com.autotest.testcases.UserRegistration.authenticate(UserRegistration.java:117)
+	at com.autotest.testcases.UserRegistration.test(UserRegistration.java:55)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+Session ID: 22c002bb-8169-418f-b17c-17f7c13b8ef0
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=22.0}]
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+2016-09-02 15:36:03,567 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:124)] Driver with firefox is closed.
+2016-09-02 15:36:48,199 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-02 15:36:48,199 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:firefox
+2016-09-02 15:36:51,508 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/
+2016-09-02 15:36:52,922 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@id='navBox']/div/div[2]/a[2]]
+2016-09-02 15:36:53,008 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']],元素可见!
+2016-09-02 15:36:53,148 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[2]/span//input[@name='mobile']] to [14844186992]
+2016-09-02 15:36:54,318 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='password']],元素可见!
+2016-09-02 15:36:54,499 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='password']] to [a111111]
+2016-09-02 15:36:58,252 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]/a[1]]
+2016-09-02 15:36:59,537 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:36:59,768 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:37:02,163 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']],元素可见!
+2016-09-02 15:37:02,293 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //form[@id='formId_Account_User_Register']/div[1]/div/ul[1]/li[6]/span/span[1]//input[@name='code']] to [058297]
+2016-09-02 15:37:02,363 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[contains(@value,'注 册')]],元素可见!
+2016-09-02 15:37:02,584 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[contains(@value,'注 册')]]
+2016-09-02 15:37:04,293 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-09-02 15:37:04,324 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-09-02 15:37:04,404 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:04,474 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:04,554 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:04,619 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:04,679 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:04,759 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:04,829 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:04,899 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:04,979 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,039 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,099 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,159 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,219 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,339 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,410 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,480 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,560 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,630 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,690 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,760 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,830 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,891 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:05,961 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,021 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,081 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,141 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,211 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,271 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,331 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,391 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,462 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,522 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,582 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,641 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,701 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,761 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,831 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,891 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:06,961 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,021 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,081 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,141 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,211 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,271 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,331 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,391 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,451 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,512 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,572 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,632 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,692 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,762 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,832 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,892 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:07,962 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,022 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,112 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,182 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,242 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,302 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,362 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,422 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,492 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,563 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,630 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,690 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,750 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:08,810 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: register-back-time],元素可见!
+2016-09-02 15:37:19,127 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.id: register-back-time],元素不可见!
+2016-09-02 15:37:19,127 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:53)] 14844186992注册成功
+2016-09-02 15:37:19,127 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:54)] 14844186992实名认证
+2016-09-02 15:37:19,762 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.101/Account/IdAuth/verifyId?isAjax=1&name=%E5%AD%99%E6%99%93%E6%98%8E&personId=330721198012040257
+2016-09-02 15:37:19,822 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: /html/body],元素可见!
+2016-09-02 15:37:19,882 INFO [com.autotest.testcases.UserRegistration.authenticate(UserRegistration.java:123)] 实名认证成功
+2016-09-02 15:37:20,072 INFO [com.autotest.driver.KeyWords.switchToWindow(KeyWords.java:609)] Switch to window: 新手指引,新人福利,新手专享-鑫合汇 successfully!
+2016-09-02 15:37:20,072 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:56)] 14844186992设置支付密码
+2016-09-02 15:37:21,973 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: name]
+2016-09-02 15:37:22,044 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: guide-close],元素可见!
+2016-09-02 15:37:22,344 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: guide-close]
+2016-09-02 15:37:22,694 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.linkText: 用户中心]
+2016-09-02 15:37:24,158 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: set-paypwd]
+2016-09-02 15:37:24,229 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.name: password],元素可见!
+2016-09-02 15:37:24,439 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.name: password] to [123456]
+2016-09-02 15:37:24,529 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.name: password_repeat],元素可见!
+2016-09-02 15:37:24,688 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.name: password_repeat] to [123456]
+2016-09-02 15:37:24,928 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //*[@id="formId_Account_User_setPayPwd"]/ul/li[4]/span[2]/input]
+2016-09-02 15:37:25,278 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: colorboxClose],元素可见!
+2016-09-02 15:37:25,569 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.id: colorboxClose]
+2016-09-02 15:37:25,590 INFO [com.autotest.testcases.UserRegistration.test(UserRegistration.java:58)] 14844186992充值
+2016-09-02 15:37:29,365 ERROR [com.autotest.testcases.UserRegistration.test(UserRegistration.java:100)] Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+Session ID: 179b6431-b757-48f2-9bba-2ac8d6604824
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=22.0}]
+Command duration or timeout: 1.45 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//a[contains(@href,'/Account/User/Logout')]}
+Session ID: 7c52adab-9ce3-4d52-a7f5-78ff76f5068e
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, acceptSslCerts=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=7c52adab-9ce3-4d52-a7f5-78ff76f5068e, version=22.0, databaseEnabled=true, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+org.openqa.selenium.WebDriverException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+Session ID: 179b6431-b757-48f2-9bba-2ac8d6604824
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=22.0}]
+Command duration or timeout: 1.45 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//a[contains(@href,'/Account/User/Logout')]}
+Session ID: 7c52adab-9ce3-4d52-a7f5-78ff76f5068e
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, acceptSslCerts=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=7c52adab-9ce3-4d52-a7f5-78ff76f5068e, version=22.0, databaseEnabled=true, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:899)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$0(ExpectedConditions.java:897)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:653)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:238)
+	at com.autotest.driver.KeyWords.waitElementToBeClickable(KeyWords.java:136)
+	at com.autotest.driver.KeyWords.click(KeyWords.java:225)
+	at com.autotest.service.xhhService.PubXhhService.logout(PubXhhService.java:181)
+	at com.autotest.testcases.UserRegistration.test(UserRegistration.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+Session ID: 179b6431-b757-48f2-9bba-2ac8d6604824
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=22.0}]
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+2016-09-02 15:37:29,376 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:124)] Driver with firefox is closed.
+2016-09-02 15:38:31,434 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-02 15:38:31,434 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:firefox
+2016-09-02 15:38:32,747 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-02 15:38:32,878 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-02 15:38:33,028 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='userNo']] to [wb002]
+2016-09-02 15:38:33,991 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-02 15:38:34,132 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-02 15:38:34,202 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-02 15:38:34,412 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-02 15:38:35,786 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-02 15:38:35,827 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-02 15:38:36,047 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-02 15:38:37,300 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //ul[@id='menu181']/li[11]/div/span[3]]
+2016-09-02 15:38:37,625 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: work_frame],元素可见!
+2016-09-02 15:38:37,685 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: work_frame],元素存在!
+2016-09-02 15:38:42,063 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 15:38:45,767 ERROR [com.autotest.testcases.Factoring_Project_Release_RYS20160718001.test(Factoring_Project_Release_RYS20160718001.java:234)] 出现异常!截图[screenshot/1472801925767.jpg]
+org.openqa.selenium.WebDriverException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+Session ID: 2f46886d-ecaf-4f11-b7af-1f64c620b513
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=22.0}]
+Command duration or timeout: 3.64 seconds
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=/html/body/div[4]/a[1]}
+Session ID: 1f1cb9d2-952c-4eea-8af3-164f363f5c31
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=WINDOWS, javascriptEnabled=true, acceptSslCerts=true, browserName=firefox, rotatable=false, locationContextEnabled=true, webdriver.remote.sessionid=1f1cb9d2-952c-4eea-8af3-164f363f5c31, version=22.0, databaseEnabled=true, cssSelectorsEnabled=true, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, applicationCacheEnabled=true, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:899)
+	at org.openqa.selenium.support.ui.ExpectedConditions.access$0(ExpectedConditions.java:897)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:653)
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:1)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:238)
+	at com.autotest.driver.KeyWords.waitElementToBeClickable(KeyWords.java:136)
+	at com.autotest.driver.KeyWords.click(KeyWords.java:225)
+	at com.autotest.service.bmpService.FactoringRelease.enterNewReleaseProject(FactoringRelease.java:154)
+	at com.autotest.testcases.Factoring_Project_Release_RYS20160718001.test(Factoring_Project_Release_RYS20160718001.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.UnreachableBrowserException: Error communicating with the remote browser. It may have died.
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+Session ID: 2f46886d-ecaf-4f11-b7af-1f64c620b513
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, nativeEvents=false, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=22.0}]
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: unknown
+2016-09-02 15:38:46,808 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:124)] Driver with firefox is closed.
+2016-09-02 15:39:57,451 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-02 15:39:57,461 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:firefox
+2016-09-02 15:40:00,397 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-02 15:40:00,528 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-02 15:40:00,663 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='userNo']] to [wb002]
+2016-09-02 15:40:01,676 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-02 15:40:01,827 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-02 15:40:01,887 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-02 15:40:02,097 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-02 15:40:05,963 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[@id='user_name_link']],元素不可见!
+2016-09-02 15:40:07,410 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[@id='user_name_link']],元素不存在!
+2016-09-02 15:40:07,410 ERROR [com.autotest.testcases.Factoring_Project_Release_RYS20160718001.test(Factoring_Project_Release_RYS20160718001.java:234)] 出现异常!截图[screenshot/1472802007410.jpg]
+java.lang.Exception: 登录失败！
+	at com.autotest.service.bmpService.PubBmpService.login(PubBmpService.java:59)
+	at com.autotest.testcases.Factoring_Project_Release_RYS20160718001.test(Factoring_Project_Release_RYS20160718001.java:47)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+2016-09-02 15:40:08,447 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with firefox is closed.
+2016-09-02 15:45:19,821 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:111)] ******************************************************************************
+2016-09-02 15:45:19,831 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:112)] Create a Driver, Browser:firefox
+2016-09-02 15:45:22,839 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:119)] open url - http://10.13.28.102:8080/
+2016-09-02 15:45:22,960 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='userNo']],元素可见!
+2016-09-02 15:45:23,100 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='userNo']] to [wb002]
+2016-09-02 15:45:24,153 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='pwd']],元素可见!
+2016-09-02 15:45:24,294 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+2016-09-02 15:45:24,364 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='mi']],元素可见!
+2016-09-02 15:45:24,614 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[@id='login_btn']]
+2016-09-02 15:45:26,044 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //a[@id='user_name_link']],元素可见!
+2016-09-02 15:45:26,075 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //a[@id='user_name_link']],元素存在!
+2016-09-02 15:45:26,315 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[contains(text(),'项目运营')]]
+2016-09-02 15:45:27,499 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //ul[@id='menu181']/li[11]/div/span[3]]
+2016-09-02 15:45:27,792 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.id: work_frame],元素可见!
+2016-09-02 15:45:27,862 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.id: work_frame],元素存在!
+2016-09-02 15:45:32,548 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 15:45:32,949 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: /html/body/div[4]/a[1]]
+2016-09-02 15:45:34,062 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='baseInfo_form']/table],元素可见!
+2016-09-02 15:45:34,323 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[@id='isXprj0']]
+2016-09-02 15:45:34,593 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //span[@id='borrowerType']/span]
+2016-09-02 15:45:34,815 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[text()='个人']]
+2016-09-02 15:45:35,255 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[@id='borrowName']]
+2016-09-02 15:45:35,326 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[@class='panel window']],元素可见!
+2016-09-02 15:45:35,416 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_borrowerDataTable']],元素可见!
+2016-09-02 15:45:37,329 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_borrowerDataTable']/tr],元素可见!
+2016-09-02 15:45:37,630 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]]
+2016-09-02 15:45:37,710 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_borrowerDataTable']/tr[1]],元素可见!
+2016-09-02 15:45:37,830 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tr[@id='tr_borrowerDataTable_0']/td[2]/div],元素可见!
+2016-09-02 15:45:38,020 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='borrowName']],元素可见!
+2016-09-02 15:45:38,170 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='demandAmount']],元素可见!
+2016-09-02 15:45:38,330 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='demandAmount']] to [100000]
+2016-09-02 15:45:38,401 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='time']],元素可见!
+2016-09-02 15:45:38,571 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='time']] to [3]
+2016-09-02 15:45:39,762 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //span[@id='timeLimitUnit']/span]
+2016-09-02 15:45:39,882 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //div[text()='天']]
+2016-09-02 15:45:39,962 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='rate']],元素可见!
+2016-09-02 15:45:40,102 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='rate']] to [8.5]
+2016-09-02 15:45:40,252 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //span[@id='prjBusinessType']/span/span]
+2016-09-02 15:45:40,382 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:251)] Click on [By.xpath: //div[text()='鑫股一号']]
+2016-09-02 15:45:40,452 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='showBidTime']],元素可见!
+2016-09-02 15:45:40,592 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='showBidTime']] to [2016-09-02 15:50:34]
+2016-09-02 15:45:40,651 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='startBidTime']],元素可见!
+2016-09-02 15:45:40,821 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='startBidTime']] to [2016-09-02 15:55:34]
+2016-09-02 15:45:40,891 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='endBidTime']],元素可见!
+2016-09-02 15:45:41,071 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='endBidTime']] to [2016-09-02 23:59:59]
+2016-09-02 15:45:42,372 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+2016-09-02 15:45:42,442 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='product_form']],元素可见!
+2016-09-02 15:45:42,522 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='bid_form']],元素可见!
+2016-09-02 15:45:42,593 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='protocolparamform']],元素可见!
+2016-09-02 15:45:42,880 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:99)] Query with SQL - [select productName from productname where productType='ZYS' and date='20160902' order by productName desc limit 1] Successfully!
+2016-09-02 15:45:43,020 INFO [com.autotest.utility.DbUtil.insert(DbUtil.java:172)] Insert Result:1
+2016-09-02 15:45:43,020 INFO [com.autotest.utility.DbUtil.insert(DbUtil.java:176)] Insert with SQL - [insert into productname (date,productName,productType) values ('20160902','ZYS20160902002','ZYS')] Successfully!
+2016-09-02 15:45:43,070 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='productName']],元素可见!
+2016-09-02 15:45:43,220 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='productName']] to [ZYS20160902002]
+2016-09-02 15:45:43,361 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //form[@id='product_form']]
+2016-09-02 15:45:47,762 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //textarea[@id='money_using']],元素可见!
+2016-09-02 15:45:47,913 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //textarea[@id='money_using']] to [临时周转]
+2016-09-02 15:45:47,983 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //textarea[@id='repay_origin']],元素可见!
+2016-09-02 15:45:48,133 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //textarea[@id='repay_origin']] to [经营所得]
+2016-09-02 15:45:48,303 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //span[@id='fiPrjPerson_educational']/span]
+2016-09-02 15:45:48,423 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:251)] Click on [By.xpath: //div[text()='博士后']]
+2016-09-02 15:45:48,483 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='annualEarnings']],元素可见!
+2016-09-02 15:45:48,683 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@id='annualEarnings']] to [1000000]
+2016-09-02 15:45:48,873 INFO [com.autotest.driver.KeyWords.clickDiv(KeyWords.java:239)] Click on [By.xpath: //span[@id='fundAccount']/span]
+2016-09-02 15:45:48,994 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:251)] Click on [By.xpath: //div[text()='上海鑫合汇网络科技有限公司(工商银行-6227003814170172872)']]
+2016-09-02 15:45:49,074 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+2016-09-02 15:45:49,234 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [ZYS20160902002合同]
+2016-09-02 15:45:49,494 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[1].paramValue']],元素可见!
+2016-09-02 15:45:49,629 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[1].paramValue']] to [xm001]
+2016-09-02 15:45:49,709 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[4].paramValue']],元素可见!
+2016-09-02 15:45:49,869 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[4].paramValue']] to [dbbh001]
+2016-09-02 15:45:49,939 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[5].paramValue']],元素可见!
+2016-09-02 15:45:50,090 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[5].paramValue']] to [blh001]
+2016-09-02 15:45:50,160 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[9].paramValue']],元素可见!
+2016-09-02 15:45:50,310 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[9].paramValue']] to [孙群领]
+2016-09-02 15:45:50,380 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[11].paramValue']],元素可见!
+2016-09-02 15:45:50,540 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[11].paramValue']] to [330722196501292110]
+2016-09-02 15:45:50,610 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[13].paramValue']],元素可见!
+2016-09-02 15:45:50,760 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[13].paramValue']] to [0]
+2016-09-02 15:45:50,830 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[14].paramValue']],元素可见!
+2016-09-02 15:45:51,000 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[14].paramValue']] to [1]
+2016-09-02 15:45:51,071 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='productName']],元素可见!
+2016-09-02 15:45:51,421 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //a[@id='doPublishFactor']]
+2016-09-02 15:45:54,774 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //div[@class='messager-body panel-body panel-body-noborder window-body']/div[2]],元素可见!
+2016-09-02 15:45:55,115 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@class='messager-button']/a]
+2016-09-02 15:46:04,753 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 15:46:05,074 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //span[text()='项目审核']]
+2016-09-02 15:46:05,474 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //iframe[@id='work_frame']],元素可见!
+2016-09-02 15:46:05,774 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //iframe[@id='work_frame']],元素存在!
+2016-09-02 15:46:06,875 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 15:46:06,976 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='searchBean.projectName']],元素可见!
+2016-09-02 15:46:07,106 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='searchBean.projectName']] to [ZYS20160902002]
+2016-09-02 15:46:07,176 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='searchBean.projectName']],元素可见!
+2016-09-02 15:46:07,506 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 15:46:07,691 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[2]/div/input],元素可见!
+2016-09-02 15:46:07,851 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[3]/div],元素可见!
+2016-09-02 15:46:08,021 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[4]/div],元素可见!
+2016-09-02 15:46:08,172 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[5]/div],元素可见!
+2016-09-02 15:46:08,302 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[6]/div],元素可见!
+2016-09-02 15:46:08,442 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[7]/div],元素可见!
+2016-09-02 15:46:08,592 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[8]/div],元素可见!
+2016-09-02 15:46:08,717 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[9]/div],元素可见!
+2016-09-02 15:46:08,857 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[10]/div],元素可见!
+2016-09-02 15:46:08,987 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[11]/div],元素可见!
+2016-09-02 15:46:09,127 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr[1]/td[12]/div],元素可见!
+2016-09-02 15:46:10,269 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']/tr],元素可见!
+2016-09-02 15:46:11,754 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //form[@id='financingInfo_form']],元素可见!
+2016-09-02 15:46:11,784 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //form[@id='financingInfo_form']],元素存在!
+2016-09-02 15:46:12,404 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //div[@id='tt']/div/div[3]/ul/li[2]/a]
+2016-09-02 15:46:13,470 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //table[@id='basic']],元素可见!
+2016-09-02 15:46:13,500 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:167)] [By.xpath: //table[@id='basic']],元素存在!
+2016-09-02 15:46:13,803 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //span[@id='memberId_noShare']/span]
+2016-09-02 15:46:13,953 INFO [com.autotest.driver.KeyWords.clickDivByText(KeyWords.java:251)] Click on [By.xpath: //div[text()='鑫合汇']]
+2016-09-02 15:46:14,233 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:228)] Click on [By.xpath: //input[@id='ch1']]
+2016-09-02 15:46:14,323 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@name='protocolList[0].paramValue']],元素可见!
+2016-09-02 15:46:14,513 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:278)] Set the value of [By.xpath: //input[@name='protocolList[0].paramValue']] to [hth001]
+2016-09-02 15:46:14,684 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //span[@id='prjType']/parent::td/following-sibling::td[2]],元素可见!
+2016-09-02 15:46:14,934 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //span[@id='repayDateSpan']/parent::font/parent::td],元素可见!
+2016-09-02 15:46:15,134 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //span[@id='repayDateSpan']/parent::font/parent::td/following-sibling::td[2]],元素可见!
+2016-09-02 15:46:15,548 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrj_isNew1']],元素可见!
+2016-09-02 15:46:15,785 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isXzd1']],元素可见!
+2016-09-02 15:46:15,935 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isExtend1']],元素可见!
+2016-09-02 15:46:16,585 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //span[@id='payWay']/input[1]],元素可见!
+2016-09-02 15:46:16,763 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[contains(text(),'保障方式:')]/following-sibling::td[1]],元素可见!
+2016-09-02 15:46:16,903 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[text()='发布机构:']/following-sibling::td[1]],元素可见!
+2016-09-02 15:46:17,383 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[text()='户名：']/following-sibling::td[1]],元素可见!
+2016-09-02 15:46:17,533 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[text()='账号：']/following-sibling::td[1]],元素可见!
+2016-09-02 15:46:17,703 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[text()='开户行：']/following-sibling::td[1]],元素可见!
+2016-09-02 15:46:17,884 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='isShare1']],元素可见!
+2016-09-02 15:46:18,084 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isEarlyClose1']],元素可见!
+2016-09-02 15:46:18,234 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isHaveBidingIncoming1']],元素可见!
+2016-09-02 15:46:18,384 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isEarlyRepay1']],元素可见!
+2016-09-02 15:46:18,534 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //td[contains(text(),'是否允许多次投标')]/following-sibling::td[1]/child::input[1]],元素可见!
+2016-09-02 15:46:18,684 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //input[@id='fiPrjExt_isAppointPrj1']],元素可见!
+2016-09-02 15:46:25,803 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:148)] [By.xpath: //tbody[@id='body_dataTable']],元素可见!
+2016-09-02 15:46:25,984 INFO [com.autotest.utility.DbUtil.insert(DbUtil.java:172)] Insert Result:1
+2016-09-02 15:46:25,984 INFO [com.autotest.utility.DbUtil.insert(DbUtil.java:176)] Insert with SQL - [insert into productinfo (prj_name,prj_no,prj_type,busi_type,demand_amount,year_rate,term,repay_date,repay_way,is_new,is_xzd,is_extend,extend_time,show_bid_time,start_bid_time,min_bid_amount,end_bid_time,start_profit_date,max_bid_amount,step_bid_amount,pay_way,platform_fee,safe_guard_way,mi_no,is_early_close,is_haveBidingIncoming,is_early_repay,early_repay_days,is_transfer,is_multi_buy,is_appoint_prj,time,appoint_prj_ratio,protocol_list0,balance,progress,collect,profit_10thous,profit_start_date,account_name,borrower_name) values ('ZYS20160902002','1A2016090200004','日益升','鑫股一号','100000.00','8.50%','3天','2016-09-05','到期还本付息','否','否','否','null','2016-09-02 15:50:34','2016-09-02 15:55:34','1000.00','2016-09-02 23:59:59','1','','1.00','满标后支付 ','0.00%','100%本息保障','鑫合汇','否','是','否','null','否','是','否','2016-09-02 15:53:03','null','hth001','100000.00','0','0.00','6.98','2016-09-03','上海鑫合汇网络科技有限公司','浙江琅素实业有限公司')] Successfully!
+2016-09-02 15:46:26,094 INFO [com.autotest.utility.DbUtil.insert(DbUtil.java:172)] Insert Result:1
+2016-09-02 15:46:26,094 INFO [com.autotest.utility.DbUtil.insert(DbUtil.java:176)] Insert with SQL - [insert into product_repay_plan (name,code,stage,capital,profit,total_money,remain_capital,repay_date,status) values ('ZYS20160902002','1A2016090200004','1','100000.00','69.86','100069.86','0.00','2016-09-05',0)] Successfully!
+2016-09-02 15:46:26,104 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:99)] Query with SQL - [select * from product_temp where product_id = 'RYS001'] Successfully!
+2016-09-02 15:46:26,164 INFO [com.autotest.utility.DbUtil.update(DbUtil.java:204)] Update Result:1
+2016-09-02 15:46:26,164 INFO [com.autotest.utility.DbUtil.update(DbUtil.java:208)] Update with SQL - [update product_temp set product_name='ZYS20160902002',product_no='1A2016090200004',time='2016-09-02 15:53:03' where product_id='RYS001'] Successfully!
+2016-09-02 15:46:26,164 INFO [com.autotest.driver.TestDriver.quitDriver(TestDriver.java:125)] Driver with firefox is closed.
+2016-09-02 15:46:26,626 INFO [com.autotest.driver.TestDriver.openReport(TestDriver.java:137)] Open the ReportNG report.

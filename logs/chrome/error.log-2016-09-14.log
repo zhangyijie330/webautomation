@@ -1,0 +1,11 @@
+2016-09-14 16:04:25,289 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-14 16:04:28,311 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] balance期望值:45000.00;与实际值:40000.00不等！
+2016-09-14 16:04:28,311 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] asset期望值:50000.00;与实际值:40000.00不等！
+2016-09-14 16:04:28,311 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] exist_profit期望值:0.00;与实际值:334.24不等！
+2016-09-14 16:04:28,311 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] will_profit期望值:334.24;与实际值:0.00不等！
+2016-09-14 16:04:28,311 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] total_invest期望值:10000.00;与实际值:0.00不等！
+2016-09-14 16:04:28,311 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] cash_loan期望值:5000.00;与实际值:0.00不等！
+2016-09-14 16:04:28,311 ERROR [com.autotest.testcases.YYS007_PayMent.Test(YYS007_PayMent.java:170)] 【账户总览】页面字段校验失败
+2016-09-14 16:04:46,539 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+2016-09-14 16:04:46,561 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+2016-09-14 16:04:56,848 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3],元素不可见!

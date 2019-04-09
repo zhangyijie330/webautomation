@@ -1,0 +1,1156 @@
+[2016-08-24 01:50:19][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 01:50:19][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 01:50:29][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.101/
+[2016-08-24 01:50:31][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 01:50:32][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 01:50:32][INFO][Chrome Thread1][KeyWords.java][261] - Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+[2016-08-24 01:50:32][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 01:50:33][INFO][Chrome Thread1][KeyWords.java][261] - Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+[2016-08-24 01:50:43][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 01:50:44][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 01:50:46][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 01:50:46][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 01:50:57][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+[2016-08-24 01:50:57][ERROR][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+[2016-08-24 01:50:57][INFO][Chrome Thread1][test11.java][43] - maoyl1登录成功
+[2016-08-24 01:51:00][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+[2016-08-24 01:51:04][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: getMyRecordList_type],元素可见!
+[2016-08-24 01:51:04][INFO][Chrome Thread1][KeyWords.java][150] - [By.id: getMyRecordList_type],元素存在!
+[2016-08-24 01:51:04][INFO][Chrome Thread1][test11.java][54] - 【进入资金记录页面成功！】
+[2016-08-24 01:51:04][INFO][Chrome Thread1][SSHUtil.java][101] - ssh已经连接OK
+[2016-08-24 01:51:04][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='start_time']],元素可见!
+[2016-08-24 01:51:04][INFO][Chrome Thread1][KeyWords.java][261] - Set the value of [By.xpath: //input[@id='start_time']] to [2016-08-24]
+[2016-08-24 01:51:05][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='end_time']],元素可见!
+[2016-08-24 01:51:06][INFO][Chrome Thread1][KeyWords.java][261] - Set the value of [By.xpath: //input[@id='end_time']] to [2016-08-24]
+[2016-08-24 01:51:06][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-24 01:51:09][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-24 02:09:12][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 02:09:12][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 02:09:18][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.101/
+[2016-08-24 02:09:19][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 02:09:20][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 02:09:20][INFO][Chrome Thread1][KeyWords.java][261] - Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+[2016-08-24 02:09:20][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 02:09:20][INFO][Chrome Thread1][KeyWords.java][261] - Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+[2016-08-24 02:09:30][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 02:09:30][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 02:09:34][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 02:09:34][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 02:09:45][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+[2016-08-24 02:09:45][ERROR][Chrome Thread1][KeyWords.java][153] - [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+[2016-08-24 02:09:45][INFO][Chrome Thread1][test11.java][44] - maoyl1登录成功
+[2016-08-24 02:09:48][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+[2016-08-24 02:09:51][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: getMyRecordList_type],元素可见!
+[2016-08-24 02:09:51][INFO][Chrome Thread1][KeyWords.java][150] - [By.id: getMyRecordList_type],元素存在!
+[2016-08-24 02:09:51][INFO][Chrome Thread1][test11.java][55] - 【进入资金记录页面成功！】
+[2016-08-24 02:10:10][INFO][Chrome Thread1][SSHUtil.java][101] - ssh已经连接OK
+[2016-08-24 02:10:19][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='start_time']],元素可见!
+[2016-08-24 02:10:19][INFO][Chrome Thread1][KeyWords.java][261] - Set the value of [By.xpath: //input[@id='start_time']] to [2016-08-24]
+[2016-08-24 02:10:19][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='end_time']],元素可见!
+[2016-08-24 02:10:19][INFO][Chrome Thread1][KeyWords.java][261] - Set the value of [By.xpath: //input[@id='end_time']] to [2016-08-24]
+[2016-08-24 02:10:20][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-24 02:10:27][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-24 05:32:13][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 05:32:13][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 05:32:22][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 05:32:23][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 05:32:24][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 05:32:26][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+[2016-08-24 05:32:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 05:32:29][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+[2016-08-24 05:32:40][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 05:32:40][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 05:32:42][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 05:32:42][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 05:32:52][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+[2016-08-24 05:32:53][ERROR][Chrome Thread1][KeyWords.java][164] - [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+[2016-08-24 05:32:53][INFO][Chrome Thread1][RYS001_Payment.java][223] - 保理账户登录成功！
+[2016-08-24 05:32:53][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+[2016-08-24 05:32:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.id: getMyRecordList_type],元素可见!
+[2016-08-24 05:32:54][INFO][Chrome Thread1][KeyWords.java][161] - [By.id: getMyRecordList_type],元素存在!
+[2016-08-24 05:32:54][INFO][Chrome Thread1][RYS001_Payment.java][228] - 【进入资金记录页面成功！】
+[2016-08-24 05:32:54][INFO][Chrome Thread1][SSHUtil.java][101] - ssh已经连接OK
+[2016-08-24 05:32:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@id='start_time']],元素可见!
+[2016-08-24 05:32:55][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@id='start_time']] to [2016-08-24]
+[2016-08-24 05:32:55][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@id='end_time']],元素可见!
+[2016-08-24 05:32:55][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@id='end_time']] to [2016-08-24]
+[2016-08-24 05:32:55][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-24 05:32:58][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-24 05:33:12][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //a[contains(text(),'>>')]/preceding-sibling::a[2]],元素不可见!
+[2016-08-24 05:33:12][ERROR][Chrome Thread1][RYS001_Payment.java][264] - 
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//a[contains(text(),'>>')]/preceding-sibling::a[2]}
+Session ID: bcd1f66c31f0c539ef268e005629c010
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir8920_7837}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 366 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//a[contains(text(),'>>')]/preceding-sibling::a[2]}
+Session ID: 13553371-956b-4b01-8743-13f1e62eed4f
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir8920_7837}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=13553371-956b-4b01-8743-13f1e62eed4f, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:330)
+	at com.autotest.service.bmpService.Loan.getdata(Loan.java:364)
+	at com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:240)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 28 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//a[contains(text(),'>>')]/preceding-sibling::a[2]}
+Session ID: bcd1f66c31f0c539ef268e005629c010
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir8920_7837}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+[2016-08-24 05:33:12][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-24 05:33:15][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-24 05:41:43][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 05:41:43][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 05:41:51][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 05:41:51][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 05:41:52][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 05:41:52][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+[2016-08-24 05:41:52][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 05:41:52][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+[2016-08-24 05:42:02][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 05:42:02][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 05:42:04][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 05:42:04][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 05:42:15][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+[2016-08-24 05:42:16][ERROR][Chrome Thread1][KeyWords.java][164] - [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+[2016-08-24 05:42:16][INFO][Chrome Thread1][RYS001_Payment.java][223] - 保理账户登录成功！
+[2016-08-24 05:42:16][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[contains(@href,'/Application/ProjectManage/getMyMoneyList')]]
+[2016-08-24 05:42:16][INFO][Chrome Thread1][KeyWords.java][142] - [By.id: getMyRecordList_type],元素可见!
+[2016-08-24 05:42:16][INFO][Chrome Thread1][KeyWords.java][161] - [By.id: getMyRecordList_type],元素存在!
+[2016-08-24 05:42:16][INFO][Chrome Thread1][RYS001_Payment.java][228] - 【进入资金记录页面成功！】
+[2016-08-24 05:42:17][INFO][Chrome Thread1][SSHUtil.java][101] - ssh已经连接OK
+[2016-08-24 05:42:17][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@id='start_time']],元素可见!
+[2016-08-24 05:42:17][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@id='start_time']] to [2016-08-24]
+[2016-08-24 05:42:17][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@id='end_time']],元素可见!
+[2016-08-24 05:42:18][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@id='end_time']] to [2016-08-24]
+[2016-08-24 05:42:18][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-24 05:42:21][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='search']/label/input]
+[2016-08-24 05:42:34][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //span[contains(@class,'current')]],元素不可见!
+[2016-08-24 05:42:35][ERROR][Chrome Thread1][RYS001_Payment.java][264] - 
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//span[contains(@class,'current')]}
+Session ID: c2f44c0b7e09df63d0775a4cf071b428
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7756_25834}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 624 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//span[contains(@class,'current')]}
+Session ID: dcf8bef8-8d00-407f-b12f-53221aa08b93
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7756_25834}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=dcf8bef8-8d00-407f-b12f-53221aa08b93, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:330)
+	at com.autotest.service.bmpService.Loan.getdata(Loan.java:369)
+	at com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:240)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 28 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//span[contains(@class,'current')]}
+Session ID: c2f44c0b7e09df63d0775a4cf071b428
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7756_25834}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor9.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+[2016-08-24 05:42:35][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-24 05:42:37][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-24 05:48:20][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 05:48:20][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 05:48:26][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 05:48:27][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 05:48:27][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 05:48:28][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [maoyl1]
+[2016-08-24 05:48:28][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 05:48:28][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [m123456]
+[2016-08-24 05:49:15][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 05:49:15][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 05:49:22][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 05:49:23][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 05:49:24][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 05:49:24][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [17705711133]
+[2016-08-24 05:49:24][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 05:49:24][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-24 05:49:34][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 05:49:34][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 05:49:36][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 05:49:36][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 05:49:36][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-24 05:49:36][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-24 05:49:36][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-24 05:49:36][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-24 05:49:36][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-24 05:49:36][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-24 05:49:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-24 05:49:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: total],元素可见!
+[2016-08-24 05:49:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: wait],元素可见!
+[2016-08-24 05:49:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: already],元素可见!
+[2016-08-24 05:49:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-24 05:49:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-24 05:49:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 05:49:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 05:49:38][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 05:49:38][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 05:49:38][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:49:38][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:49:38][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-24 05:49:38][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-24 05:49:38][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:49:38][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:49:38][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-24 05:49:38][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-24 05:49:38][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:49:38][INFO][Chrome Thread1][RYS001_Payment.java][121] - 【账户总览】页面字段校验成功
+[2016-08-24 05:49:48][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-24 05:49:48][ERROR][Chrome Thread1][RYS001_Payment.java][144] - 回款日历校验失败！
+[2016-08-24 05:49:48][ERROR][Chrome Thread1][RYS001_Payment.java][264] - 
+java.lang.NullPointerException
+	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+	at java.lang.Double.parseDouble(Unknown Source)
+	at com.autotest.service.bmpService.Loan.formatStr(Loan.java:47)
+	at com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:155)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[2016-08-24 05:49:48][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-24 05:49:49][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-24 05:53:08][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 05:53:08][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 05:53:14][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 05:53:15][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 05:53:16][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 05:53:16][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [17705711133]
+[2016-08-24 05:53:16][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 05:53:16][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-24 05:53:27][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 05:53:27][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 05:53:28][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 05:53:28][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 05:53:28][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-24 05:53:28][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-24 05:53:28][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-24 05:53:28][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-24 05:53:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-24 05:53:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-24 05:53:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-24 05:53:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: total],元素可见!
+[2016-08-24 05:53:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: wait],元素可见!
+[2016-08-24 05:53:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: already],元素可见!
+[2016-08-24 05:53:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-24 05:53:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-24 05:53:30][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 05:53:30][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 05:53:30][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 05:53:30][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 05:53:30][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:53:30][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:53:30][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-24 05:53:30][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-24 05:53:30][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:53:30][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:53:30][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-24 05:53:30][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-24 05:53:30][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:53:30][INFO][Chrome Thread1][RYS001_Payment.java][121] - 【账户总览】页面字段校验成功
+[2016-08-24 05:53:40][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-24 05:53:40][ERROR][Chrome Thread1][RYS001_Payment.java][144] - 回款日历校验失败！
+[2016-08-24 05:53:40][ERROR][Chrome Thread1][RYS001_Payment.java][264] - 
+java.lang.NullPointerException
+	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+	at java.lang.Double.parseDouble(Unknown Source)
+	at com.autotest.service.bmpService.Loan.formatStr(Loan.java:47)
+	at com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:155)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[2016-08-24 05:53:40][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-24 05:53:42][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-24 05:56:32][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 05:56:32][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 05:56:39][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 05:56:39][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 05:56:40][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 05:56:40][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [17705711133]
+[2016-08-24 05:56:40][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 05:56:40][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-24 05:56:51][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 05:56:51][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 05:56:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 05:56:53][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 05:56:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-24 05:56:53][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-24 05:56:53][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-24 05:56:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-24 05:56:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-24 05:56:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-24 05:56:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-24 05:56:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: total],元素可见!
+[2016-08-24 05:56:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: wait],元素可见!
+[2016-08-24 05:56:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: already],元素可见!
+[2016-08-24 05:56:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-24 05:56:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-24 05:56:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 05:56:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 05:56:54][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 05:56:54][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 05:56:54][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:56:54][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:56:54][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-24 05:56:54][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-24 05:56:54][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:56:54][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:56:54][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-24 05:56:54][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-24 05:56:54][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:56:54][INFO][Chrome Thread1][RYS001_Payment.java][121] - 【账户总览】页面字段校验成功
+[2016-08-24 05:57:04][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-24 05:57:05][ERROR][Chrome Thread1][RYS001_Payment.java][144] - 回款日历校验失败！
+[2016-08-24 05:57:05][ERROR][Chrome Thread1][RYS001_Payment.java][264] - 
+java.lang.NullPointerException
+	at sun.misc.FloatingDecimal.readJavaFormatString(Unknown Source)
+	at java.lang.Double.parseDouble(Unknown Source)
+	at com.autotest.service.bmpService.Loan.formatStr(Loan.java:47)
+	at com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:155)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[2016-08-24 05:57:05][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-24 05:57:06][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-24 05:59:06][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 05:59:06][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 05:59:13][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 05:59:13][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 05:59:14][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 05:59:14][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [17705711133]
+[2016-08-24 05:59:14][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 05:59:14][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-24 05:59:25][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 05:59:25][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 05:59:26][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 05:59:26][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 05:59:27][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-24 05:59:27][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-24 05:59:27][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-24 05:59:27][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-24 05:59:27][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-24 05:59:27][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-24 05:59:27][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-24 05:59:27][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: total],元素可见!
+[2016-08-24 05:59:27][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: wait],元素可见!
+[2016-08-24 05:59:28][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: already],元素可见!
+[2016-08-24 05:59:28][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-24 05:59:28][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-24 05:59:28][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 05:59:28][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 05:59:28][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 05:59:28][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 05:59:28][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:59:28][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:59:28][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-24 05:59:28][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-24 05:59:28][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:59:28][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:59:28][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-24 05:59:28][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-24 05:59:28][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-24 05:59:28][INFO][Chrome Thread1][RYS001_Payment.java][121] - 【账户总览】页面字段校验成功
+[2016-08-24 05:59:38][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-24 05:59:38][ERROR][Chrome Thread1][RYS001_Payment.java][144] - 回款日历校验失败！
+[2016-08-24 06:02:20][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 06:02:20][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 06:02:29][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 06:02:30][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 06:02:31][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 06:02:31][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [17705711133]
+[2016-08-24 06:02:31][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 06:02:31][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-24 06:02:42][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 06:02:42][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 06:02:44][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 06:02:44][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 06:02:44][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-24 06:02:44][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-24 06:02:44][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-24 06:02:44][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-24 06:02:44][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-24 06:02:44][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-24 06:02:44][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-24 06:02:45][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: total],元素可见!
+[2016-08-24 06:02:45][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: wait],元素可见!
+[2016-08-24 06:02:45][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: already],元素可见!
+[2016-08-24 06:02:45][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-24 06:02:45][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-24 06:02:45][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 06:02:45][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 06:02:45][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 06:02:45][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 06:02:45][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:02:45][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:02:45][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-24 06:02:45][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-24 06:02:45][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:02:45][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:02:45][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-24 06:02:45][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-24 06:02:45][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:02:45][INFO][Chrome Thread1][RYS001_Payment.java][121] - 【账户总览】页面字段校验成功
+[2016-08-24 06:02:56][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-24 06:02:56][ERROR][Chrome Thread1][RYS001_Payment.java][144] - 回款日历校验失败！
+[2016-08-24 06:08:15][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 06:08:15][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 06:08:22][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 06:08:23][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 06:08:23][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 06:08:23][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [17705711133]
+[2016-08-24 06:08:24][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 06:08:24][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+[2016-08-24 06:08:35][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 06:08:35][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 06:08:36][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 06:08:36][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 06:08:36][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-24 06:08:36][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-24 06:08:36][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-24 06:08:36][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-24 06:08:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-24 06:08:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-24 06:08:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-24 06:08:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: total],元素可见!
+[2016-08-24 06:08:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: wait],元素可见!
+[2016-08-24 06:08:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: already],元素可见!
+[2016-08-24 06:08:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-24 06:08:37][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-24 06:08:38][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 06:08:38][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 06:08:38][INFO][Chrome Thread1][StringUtils.java][90] - balance期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 06:08:38][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50000.00;与实际值:50000.00相等！
+[2016-08-24 06:08:38][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:08:38][INFO][Chrome Thread1][StringUtils.java][90] - will_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:08:38][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-24 06:08:38][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-24 06:08:38][INFO][Chrome Thread1][StringUtils.java][90] - total_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:08:38][INFO][Chrome Thread1][StringUtils.java][90] - total_invest期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:08:38][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-24 06:08:38][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-24 06:08:38][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:08:38][INFO][Chrome Thread1][RYS001_Payment.java][121] - 【账户总览】页面字段校验成功
+[2016-08-24 06:08:48][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-24 06:08:48][ERROR][Chrome Thread1][RYS001_Payment.java][144] - 回款日历校验失败！
+[2016-08-24 06:08:48][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.id: go-return-remind]
+[2016-08-24 06:09:00][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3],元素不可见!
+[2016-08-24 06:09:01][ERROR][Chrome Thread1][RYS001_Payment.java][264] - 
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3}
+Session ID: f7767e689c70c994136f9c4cf4a12696
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir9100_9487}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 558 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3}
+Session ID: 0b680c58-cb3c-478e-9259-e95d061984ee
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir9100_9487}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=0b680c58-cb3c-478e-9259-e95d061984ee, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:330)
+	at com.autotest.service.xhhService.PubXhhService.checkReturnMoneyReminder(PubXhhService.java:233)
+	at com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:159)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 28 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3}
+Session ID: f7767e689c70c994136f9c4cf4a12696
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir9100_9487}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+[2016-08-24 06:09:01][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-24 06:09:02][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-24 06:13:32][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 06:13:32][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 06:13:38][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 06:13:40][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 06:13:40][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 06:13:40][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [15157119201]
+[2016-08-24 06:13:40][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 06:13:41][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [z123456]
+[2016-08-24 06:13:51][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 06:13:52][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 06:13:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 06:13:53][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 06:13:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-24 06:13:53][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-24 06:13:53][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-24 06:13:53][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-24 06:13:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-24 06:13:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-24 06:13:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-24 06:13:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: total],元素可见!
+[2016-08-24 06:13:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: wait],元素可见!
+[2016-08-24 06:13:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: already],元素可见!
+[2016-08-24 06:13:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-24 06:13:54][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-24 06:13:55][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 06:13:55][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 06:13:55][ERROR][Chrome Thread1][StringUtils.java][94] - balance期望值:50000.00;与实际值:0.89不等！
+[2016-08-24 06:13:55][ERROR][Chrome Thread1][StringUtils.java][94] - asset期望值:50000.00;与实际值:50048.89不等！
+[2016-08-24 06:13:55][ERROR][Chrome Thread1][StringUtils.java][94] - exist_profit期望值:0.00;与实际值:48.89不等！
+[2016-08-24 06:13:55][ERROR][Chrome Thread1][StringUtils.java][94] - will_profit期望值:0.00;与实际值:142.19不等！
+[2016-08-24 06:13:55][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-24 06:13:55][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-24 06:13:55][ERROR][Chrome Thread1][StringUtils.java][94] - total_profit期望值:0.00;与实际值:191.08不等！
+[2016-08-24 06:13:55][ERROR][Chrome Thread1][StringUtils.java][94] - total_invest期望值:0.00;与实际值:50048.00不等！
+[2016-08-24 06:13:55][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-24 06:13:55][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-24 06:13:55][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:13:55][ERROR][Chrome Thread1][RYS001_Payment.java][123] - 【账户总览】页面字段校验失败
+[2016-08-24 06:14:05][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-24 06:14:05][ERROR][Chrome Thread1][RYS001_Payment.java][144] - 回款日历校验失败！
+[2016-08-24 06:14:05][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.id: go-return-remind]
+[2016-08-24 06:14:06][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[1]/h3],元素可见!
+[2016-08-24 06:14:17][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+[2016-08-24 06:14:18][ERROR][Chrome Thread1][RYS001_Payment.java][264] - 
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3}
+Session ID: 68eb3d6ea10cf81bb1b193ce320e96b6
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir6836_24262}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 437 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3}
+Session ID: 5bac89a9-f610-4958-a49a-228dc387f17c
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir6836_24262}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=5bac89a9-f610-4958-a49a-228dc387f17c, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:330)
+	at com.autotest.service.xhhService.PubXhhService.checkReturnMoneyReminder(PubXhhService.java:235)
+	at com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:159)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 28 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3}
+Session ID: 68eb3d6ea10cf81bb1b193ce320e96b6
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir6836_24262}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+[2016-08-24 06:14:18][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-24 06:14:19][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-24 06:20:57][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 06:20:57][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 06:21:05][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 06:21:06][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 06:21:07][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 06:21:08][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [15157119201]
+[2016-08-24 06:21:08][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 06:21:08][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [z123456]
+[2016-08-24 06:21:18][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 06:21:18][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 06:21:20][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 06:21:20][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 06:21:20][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-24 06:21:20][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-24 06:21:20][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-24 06:21:20][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-24 06:21:20][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-24 06:21:21][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-24 06:21:21][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-24 06:21:21][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: total],元素可见!
+[2016-08-24 06:21:21][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: wait],元素可见!
+[2016-08-24 06:21:21][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: already],元素可见!
+[2016-08-24 06:21:21][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-24 06:21:21][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-24 06:21:21][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 06:21:22][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 06:21:22][ERROR][Chrome Thread1][StringUtils.java][94] - balance期望值:50000.00;与实际值:0.89不等！
+[2016-08-24 06:21:22][ERROR][Chrome Thread1][StringUtils.java][94] - asset期望值:50000.00;与实际值:50048.89不等！
+[2016-08-24 06:21:22][ERROR][Chrome Thread1][StringUtils.java][94] - exist_profit期望值:0.00;与实际值:48.89不等！
+[2016-08-24 06:21:22][ERROR][Chrome Thread1][StringUtils.java][94] - will_profit期望值:0.00;与实际值:142.19不等！
+[2016-08-24 06:21:22][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-24 06:21:22][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-24 06:21:22][ERROR][Chrome Thread1][StringUtils.java][94] - total_profit期望值:0.00;与实际值:191.08不等！
+[2016-08-24 06:21:22][ERROR][Chrome Thread1][StringUtils.java][94] - total_invest期望值:0.00;与实际值:50048.00不等！
+[2016-08-24 06:21:22][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-24 06:21:22][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-24 06:21:22][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:21:22][ERROR][Chrome Thread1][RYS001_Payment.java][123] - 【账户总览】页面字段校验失败
+[2016-08-24 06:21:32][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-24 06:21:32][ERROR][Chrome Thread1][RYS001_Payment.java][144] - 回款日历校验失败！
+[2016-08-24 06:21:32][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.id: go-return-remind]
+[2016-08-24 06:21:34][ERROR][Chrome Thread1][RYS001_Payment.java][264] - 
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3}
+Session ID: 69e09089bd0405a4fb4f8ed87ebff03e
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7300_3666}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 612 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3}
+Session ID: 39585d23-34a2-4787-954f-a4f5bf670a86
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7300_3666}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=39585d23-34a2-4787-954f-a4f5bf670a86, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText2(KeyWords.java:344)
+	at com.autotest.service.xhhService.PubXhhService.checkReturnMoneyReminder(PubXhhService.java:235)
+	at com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:159)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 28 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 25 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3}
+Session ID: 69e09089bd0405a4fb4f8ed87ebff03e
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir7300_3666}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+[2016-08-24 06:21:34][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-24 06:21:35][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-24 06:43:19][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-24 06:43:19][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-24 06:43:27][INFO][Chrome Thread1][KeyWords.java][112] - open url - http://10.13.28.101/
+[2016-08-24 06:43:28][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-24 06:43:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-24 06:43:29][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='username']] to [15157119201]
+[2016-08-24 06:43:29][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-24 06:43:29][INFO][Chrome Thread1][KeyWords.java][272] - Set the value of [By.xpath: //input[@name='pwd']] to [z123456]
+[2016-08-24 06:43:40][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-24 06:43:40][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-24 06:43:41][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-24 06:43:41][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-24 06:43:41][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-24 06:43:41][INFO][Chrome Thread1][KeyWords.java][161] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-24 06:43:42][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-24 06:43:42][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-24 06:43:42][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-24 06:43:42][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-24 06:43:42][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-24 06:43:42][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: total],元素可见!
+[2016-08-24 06:43:42][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: wait],元素可见!
+[2016-08-24 06:43:42][INFO][Chrome Thread1][KeyWords.java][142] - [By.className: already],元素可见!
+[2016-08-24 06:43:42][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-24 06:43:43][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-24 06:43:43][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 06:43:43][INFO][Chrome Thread1][KeyWords.java][142] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-24 06:43:43][ERROR][Chrome Thread1][StringUtils.java][94] - balance期望值:50000.00;与实际值:0.89不等！
+[2016-08-24 06:43:43][ERROR][Chrome Thread1][StringUtils.java][94] - asset期望值:50000.00;与实际值:50048.89不等！
+[2016-08-24 06:43:43][ERROR][Chrome Thread1][StringUtils.java][94] - exist_profit期望值:0.00;与实际值:48.89不等！
+[2016-08-24 06:43:43][ERROR][Chrome Thread1][StringUtils.java][94] - will_profit期望值:0.00;与实际值:142.19不等！
+[2016-08-24 06:43:43][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-24 06:43:43][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-24 06:43:43][ERROR][Chrome Thread1][StringUtils.java][94] - total_profit期望值:0.00;与实际值:191.08不等！
+[2016-08-24 06:43:43][ERROR][Chrome Thread1][StringUtils.java][94] - total_invest期望值:0.00;与实际值:50048.00不等！
+[2016-08-24 06:43:43][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-24 06:43:43][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-24 06:43:43][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-24 06:43:43][ERROR][Chrome Thread1][RYS001_Payment.java][123] - 【账户总览】页面字段校验失败
+[2016-08-24 06:43:53][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //input[@id='month']],元素不可见!
+[2016-08-24 06:43:53][ERROR][Chrome Thread1][RYS001_Payment.java][144] - 回款日历校验失败！
+[2016-08-24 06:43:53][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.id: go-return-remind]
+[2016-08-24 06:44:05][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不可见!
+[2016-08-24 06:44:05][ERROR][Chrome Thread1][KeyWords.java][164] - [By.xpath: //div[@id='container']/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/ul/li[2]/h3],元素不存在!
+[2016-08-24 06:44:05][INFO][Chrome Thread1][RYS001_Payment.java][162] - 未找到该回款提醒！
+[2016-08-24 06:44:06][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.linkText: 投资管理]
+[2016-08-24 06:44:07][INFO][Chrome Thread1][KeyWords.java][222] - Click on [By.linkText: 所有]
+[2016-08-24 06:44:08][INFO][Chrome Thread1][KeyWords.java][142] - [By.cssSelector: .ui-record-table>tbody],元素可见!
+[2016-08-24 06:44:08][ERROR][Chrome Thread1][RYS001_Payment.java][176] - 【理财记录】中的记录条数错误！
+[2016-08-24 06:44:18][ERROR][Chrome Thread1][KeyWords.java][145] - [By.xpath: //a[contains(text(),'RYS20160824007')]],元素不可见!
+[2016-08-24 06:44:19][ERROR][Chrome Thread1][RYS001_Payment.java][264] - 
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//a[contains(text(),'RYS20160824007')]}
+Session ID: 337593e604752db519884193446ffa26
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir8252_4962}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 575 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//a[contains(text(),'RYS20160824007')]}
+Session ID: bcf7041a-1f4b-4e4e-9d2d-1ca6bc474501
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir8252_4962}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=bcf7041a-1f4b-4e4e-9d2d-1ca6bc474501, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor11.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:330)
+	at com.autotest.service.xhhService.UserAccountService.checkValInInvestRecord(UserAccountService.java:230)
+	at com.autotest.testcases.RYS001_Payment.Test(RYS001_Payment.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 28 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=//a[contains(text(),'RYS20160824007')]}
+Session ID: 337593e604752db519884193446ffa26
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir8252_4962}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.16.0.44', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor26.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor14.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+[2016-08-24 06:44:19][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-24 06:44:20][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.

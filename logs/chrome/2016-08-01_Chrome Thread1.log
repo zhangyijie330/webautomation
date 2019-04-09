@@ -1,0 +1,49 @@
+[2016-08-01 03:37:31][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-01 03:37:31][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-01 03:39:42][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-01 03:39:42][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-01 03:40:00][INFO][Chrome Thread1][KeyWords.java][136] - [By.id: login_button],元素加载完成!
+[2016-08-01 03:40:00][INFO][Chrome Thread1][KeyWords.java][193] - Click on [By.id: login_button]
+[2016-08-01 03:40:01][INFO][Chrome Thread1][KeyWords.java][136] - [By.name: username],元素加载完成!
+[2016-08-01 03:40:01][INFO][Chrome Thread1][KeyWords.java][215] - Set the value of [By.name: username] to [18858158758]
+[2016-08-01 03:40:01][INFO][Chrome Thread1][KeyWords.java][136] - [By.name: pwd],元素加载完成!
+[2016-08-01 03:40:01][INFO][Chrome Thread1][KeyWords.java][215] - Set the value of [By.name: pwd] to [MARK142857]
+[2016-08-01 03:40:01][INFO][Chrome Thread1][KeyWords.java][136] - [By.id: normalSub],元素加载完成!
+[2016-08-01 03:40:01][INFO][Chrome Thread1][KeyWords.java][193] - Click on [By.id: normalSub]
+[2016-08-01 03:40:05][INFO][Chrome Thread1][KeyWords.java][143] - [By.linkText: 退出],等待元素加载中...
+[2016-08-01 03:40:06][INFO][Chrome Thread1][KeyWords.java][136] - [By.linkText: 退出],元素加载完成!
+[2016-08-01 03:40:06][INFO][Chrome Thread1][KeyWords.java][158] - [By.linkText: 退出],元素存在!
+[2016-08-01 03:40:06][INFO][Chrome Thread1][TestCase1.java][39] - login successfully
+[2016-08-01 03:40:06][INFO][Chrome Thread1][KeyWords.java][136] - [By.linkText: 退出],元素加载完成!
+[2016-08-01 03:40:06][INFO][Chrome Thread1][KeyWords.java][193] - Click on [By.linkText: 退出]
+[2016-08-01 03:40:08][INFO][Chrome Thread1][KeyWords.java][136] - [By.id: login_button],元素加载完成!
+[2016-08-01 03:40:08][INFO][Chrome Thread1][KeyWords.java][158] - [By.id: login_button],元素存在!
+[2016-08-01 03:40:08][INFO][Chrome Thread1][TestCase1.java][42] - logout successfully
+[2016-08-01 03:40:08][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-01 03:40:10][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-01 07:53:02][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-01 07:53:02][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-01 07:53:14][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-01 07:53:15][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-01 07:54:59][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-01 07:54:59][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-01 07:55:10][INFO][Chrome Thread1][KeyWords.java][90] - open url - https://www.xinhehui.com/
+[2016-08-01 07:55:10][INFO][Chrome Thread1][KeyWords.java][115] - [By.id: login_button],元素加载完成!
+[2016-08-01 07:55:11][INFO][Chrome Thread1][KeyWords.java][167] - Click on [By.id: login_button]
+[2016-08-01 07:55:11][INFO][Chrome Thread1][KeyWords.java][115] - [By.name: username],元素加载完成!
+[2016-08-01 07:55:11][INFO][Chrome Thread1][KeyWords.java][182] - Set the value of [By.name: username] to [18858158758]
+[2016-08-01 07:55:12][INFO][Chrome Thread1][KeyWords.java][115] - [By.name: pwd],元素加载完成!
+[2016-08-01 07:55:12][INFO][Chrome Thread1][KeyWords.java][182] - Set the value of [By.name: pwd] to [MARK142857]
+[2016-08-01 07:55:12][INFO][Chrome Thread1][KeyWords.java][115] - [By.id: normalSub],元素加载完成!
+[2016-08-01 07:55:12][INFO][Chrome Thread1][KeyWords.java][167] - Click on [By.id: normalSub]
+[2016-08-01 07:55:12][INFO][Chrome Thread1][KeyWords.java][122] - [By.linkText: 退出],等待元素加载中...
+[2016-08-01 07:55:14][INFO][Chrome Thread1][KeyWords.java][115] - [By.linkText: 退出],元素加载完成!
+[2016-08-01 07:55:14][INFO][Chrome Thread1][KeyWords.java][137] - [By.linkText: 退出],元素存在!
+[2016-08-01 07:55:14][INFO][Chrome Thread1][TestCase1.java][40] - login successfully
+[2016-08-01 07:55:14][INFO][Chrome Thread1][KeyWords.java][115] - [By.linkText: 退出],元素加载完成!
+[2016-08-01 07:55:14][INFO][Chrome Thread1][KeyWords.java][167] - Click on [By.linkText: 退出]
+[2016-08-01 07:55:16][INFO][Chrome Thread1][KeyWords.java][115] - [By.id: login_button],元素加载完成!
+[2016-08-01 07:55:16][INFO][Chrome Thread1][KeyWords.java][137] - [By.id: login_button],元素存在!
+[2016-08-01 07:55:16][INFO][Chrome Thread1][TestCase1.java][43] - logout successfully
+[2016-08-01 07:55:16][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-01 07:55:17][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.

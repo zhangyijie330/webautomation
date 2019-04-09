@@ -1,0 +1,231 @@
+[2016-08-23 02:30:31][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-23 02:30:31][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-23 02:30:39][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.102:8080/
+[2016-08-23 02:30:39][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-23 02:30:40][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-23 02:30:40][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-23 02:30:40][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-23 02:30:40][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-23 02:30:41][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-23 02:30:43][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-23 02:30:43][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-23 02:30:43][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-23 02:30:44][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-23 02:30:57][ERROR][Chrome Thread1][KeyWords.java][134] - [By.id: work_frame],元素不可见!
+[2016-08-23 02:30:58][ERROR][Chrome Thread1][KeyWords.java][153] - [By.id: work_frame],元素不存在!
+[2016-08-23 02:30:58][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: prjPay_prjName],元素可见!
+[2016-08-23 02:30:58][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.id: prjPay_prjName] to [ZYJ20160822003]
+[2016-08-23 02:30:58][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //form[@id='queryFormForPayWait']/table/tbody/tr/td[7]/a]
+[2016-08-23 02:30:59][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素可见!
+[2016-08-23 02:30:59][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素存在!
+[2016-08-23 02:30:59][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素可见!
+[2016-08-23 02:31:00][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[3]/div],元素可见!
+[2016-08-23 02:31:00][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[4]/div],元素可见!
+[2016-08-23 02:31:00][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[5]/div],元素可见!
+[2016-08-23 02:31:00][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[6]/div],元素可见!
+[2016-08-23 02:31:00][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[7]/div],元素可见!
+[2016-08-23 02:31:00][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[8]/div],元素可见!
+[2016-08-23 02:31:01][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[9]/div],元素可见!
+[2016-08-23 02:31:01][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[10]/div],元素可见!
+[2016-08-23 02:31:01][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[11]/div],元素可见!
+[2016-08-23 02:31:01][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[12]/div],元素可见!
+[2016-08-23 02:31:01][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[13]/div],元素可见!
+[2016-08-23 02:31:01][INFO][Chrome Thread1][StringUtils.java][90] - 投放站点期望值:鑫合汇;与实际值:鑫合汇相等！
+[2016-08-23 02:31:01][INFO][Chrome Thread1][StringUtils.java][90] - 确认书签约进度期望值:-;与实际值:-相等！
+[2016-08-23 02:31:01][INFO][Chrome Thread1][StringUtils.java][90] - 保证金/融资管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-23 02:31:01][ERROR][Chrome Thread1][StringUtils.java][94] - 收益期望值:69.83;与实际值:305.92不等！
+[2016-08-23 02:31:01][ERROR][Chrome Thread1][StringUtils.java][94] - 线上实际融资额期望值:100,000.00;与实际值:5,000.00不等！
+[2016-08-23 02:31:01][ERROR][Chrome Thread1][StringUtils.java][94] - 需支付额度期望值:100,000.00;与实际值:5,000.00不等！
+[2016-08-23 02:31:01][INFO][Chrome Thread1][StringUtils.java][90] - 查看子标期望值:无子标;与实际值:无子标相等！
+[2016-08-23 02:31:01][ERROR][Chrome Thread1][StringUtils.java][94] - 融资规模期望值:100,000.00;与实际值:5,000.00不等！
+[2016-08-23 02:31:01][INFO][Chrome Thread1][StringUtils.java][90] - 主合同进度期望值:-;与实际值:-相等！
+[2016-08-23 02:31:01][INFO][Chrome Thread1][StringUtils.java][90] - 转入方账户期望值:上海鑫合汇网络科技有限公司;与实际值:上海鑫合汇网络科技有限公司相等！
+[2016-08-23 02:31:01][INFO][Chrome Thread1][StringUtils.java][90] - 平台管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-23 02:31:01][ERROR][Chrome Thread1][StringUtils.java][94] - 项目名称期望值:RYS20160718001(订单数:0/5);与实际值:ZYJ20160822003(订单数:0/1)不等！
+[2016-08-23 02:31:01][ERROR][Chrome Thread1][RYS001_Payment.java][98] - 【项目放款】放款字段校验失败！
+[2016-08-23 02:31:02][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span]
+[2016-08-23 02:31:03][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素可见!
+[2016-08-23 02:31:03][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素存在!
+[2016-08-23 02:31:03][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: payAmount],元素可见!
+[2016-08-23 02:31:03][ERROR][Chrome Thread1][RYS001_Payment.java][109] - 【项目放款】校验支付金额错误！
+[2016-08-23 02:31:03][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-23 02:31:07][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-23 02:37:55][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-23 02:37:55][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-23 02:38:00][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.102:8080/
+[2016-08-23 02:38:01][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-23 02:38:02][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-23 02:38:02][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-23 02:38:02][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-23 02:38:02][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-23 02:38:02][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-23 02:38:03][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-23 02:38:03][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-23 02:38:04][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-23 02:38:05][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-23 02:38:17][ERROR][Chrome Thread1][KeyWords.java][134] - [By.id: work_frame],元素不可见!
+[2016-08-23 02:38:18][ERROR][Chrome Thread1][KeyWords.java][153] - [By.id: work_frame],元素不存在!
+[2016-08-23 02:38:18][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: prjPay_prjName],元素可见!
+[2016-08-23 02:38:18][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.id: prjPay_prjName] to [ZYJ20160822003]
+[2016-08-23 02:38:18][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //form[@id='queryFormForPayWait']/table/tbody/tr/td[7]/a]
+[2016-08-23 02:38:19][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素可见!
+[2016-08-23 02:38:19][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素存在!
+[2016-08-23 02:38:19][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素可见!
+[2016-08-23 02:38:20][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[3]/div],元素可见!
+[2016-08-23 02:38:20][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[4]/div],元素可见!
+[2016-08-23 02:38:20][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[5]/div],元素可见!
+[2016-08-23 02:38:20][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[6]/div],元素可见!
+[2016-08-23 02:38:20][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[7]/div],元素可见!
+[2016-08-23 02:38:20][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[8]/div],元素可见!
+[2016-08-23 02:38:20][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[9]/div],元素可见!
+[2016-08-23 02:38:21][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[10]/div],元素可见!
+[2016-08-23 02:38:21][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[11]/div],元素可见!
+[2016-08-23 02:38:21][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[12]/div],元素可见!
+[2016-08-23 02:38:21][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[13]/div],元素可见!
+[2016-08-23 02:38:21][INFO][Chrome Thread1][StringUtils.java][90] - 投放站点期望值:鑫合汇;与实际值:鑫合汇相等！
+[2016-08-23 02:38:21][INFO][Chrome Thread1][StringUtils.java][90] - 确认书签约进度期望值:-;与实际值:-相等！
+[2016-08-23 02:38:21][INFO][Chrome Thread1][StringUtils.java][90] - 保证金/融资管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-23 02:38:21][ERROR][Chrome Thread1][StringUtils.java][94] - 收益期望值:69.83;与实际值:305.92不等！
+[2016-08-23 02:38:21][ERROR][Chrome Thread1][StringUtils.java][94] - 线上实际融资额期望值:100,000.00;与实际值:5,000.00不等！
+[2016-08-23 02:38:21][ERROR][Chrome Thread1][StringUtils.java][94] - 需支付额度期望值:100,000.00;与实际值:5,000.00不等！
+[2016-08-23 02:38:21][INFO][Chrome Thread1][StringUtils.java][90] - 查看子标期望值:无子标;与实际值:无子标相等！
+[2016-08-23 02:38:21][ERROR][Chrome Thread1][StringUtils.java][94] - 融资规模期望值:100,000.00;与实际值:5,000.00不等！
+[2016-08-23 02:38:21][INFO][Chrome Thread1][StringUtils.java][90] - 主合同进度期望值:-;与实际值:-相等！
+[2016-08-23 02:38:21][INFO][Chrome Thread1][StringUtils.java][90] - 转入方账户期望值:上海鑫合汇网络科技有限公司;与实际值:上海鑫合汇网络科技有限公司相等！
+[2016-08-23 02:38:21][INFO][Chrome Thread1][StringUtils.java][90] - 平台管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-23 02:38:21][ERROR][Chrome Thread1][StringUtils.java][94] - 项目名称期望值:RYS20160718001(订单数:0/5);与实际值:ZYJ20160822003(订单数:0/1)不等！
+[2016-08-23 02:38:21][ERROR][Chrome Thread1][RYS001_Payment.java][96] - 【项目放款】放款字段校验失败！
+[2016-08-23 02:38:21][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span]
+[2016-08-23 02:38:22][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素可见!
+[2016-08-23 02:38:22][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素存在!
+[2016-08-23 02:38:22][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: payAmount],元素可见!
+[2016-08-23 02:38:23][INFO][Chrome Thread1][RYS001_Payment.java][105] - 【项目放款】校验支付金额正确！
+[2016-08-23 02:38:23][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: liushuihao],元素可见!
+[2016-08-23 02:38:23][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.id: liushuihao] to [127652771462]
+[2016-08-23 02:38:23][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[@id='pay_identity']/div[2]/a[1]/span/span]
+[2016-08-23 02:38:28][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: /html/body/div[9]/div[2]/div[2]],元素可见!
+[2016-08-23 02:38:28][INFO][Chrome Thread1][RYS001_Payment.java][117] - 【项目放款】支付完成！
+[2016-08-23 02:38:28][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: /html/body/div[9]/div[2]/div[4]/a]
+[2016-08-23 02:38:28][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tbody[@id='body_dataTableForPayWait']/tr/td/div],元素可见!
+[2016-08-23 02:38:28][INFO][Chrome Thread1][RYS001_Payment.java][132] - 【项目放款】放款成功！
+[2016-08-23 02:38:32][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.101/
+[2016-08-23 02:38:33][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //a[@id='login_button']]
+[2016-08-23 02:38:33][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@name='username']],元素可见!
+[2016-08-23 02:38:33][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@name='username']] to [15157119202]
+[2016-08-23 02:38:33][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@name='pwd']],元素可见!
+[2016-08-23 02:38:34][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@name='pwd']] to [z123456]
+[2016-08-23 02:38:44][ERROR][Chrome Thread1][KeyWords.java][134] - [By.xpath: //input[@id='authCode']],元素不可见!
+[2016-08-23 02:38:44][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //input[@id='normalSub']]
+[2016-08-23 02:38:46][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+[2016-08-23 02:38:46][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+[2016-08-23 02:38:46][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //div[@id='imptWrap']/span],元素可见!
+[2016-08-23 02:38:46][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //div[@id='imptWrap']/span],元素存在!
+[2016-08-23 02:38:46][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[@id='imptWrap']/span]
+[2016-08-23 02:38:46][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //li[@class='assets'][1]/p],元素可见!
+[2016-08-23 02:38:46][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //li[@class='assets'][2]/p],元素可见!
+[2016-08-23 02:38:46][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //li[@class='assets'][3]/p],元素可见!
+[2016-08-23 02:38:46][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //li[@class='assets'][4]/p],元素可见!
+[2016-08-23 02:38:47][INFO][Chrome Thread1][KeyWords.java][131] - [By.className: total],元素可见!
+[2016-08-23 02:38:47][INFO][Chrome Thread1][KeyWords.java][131] - [By.className: wait],元素可见!
+[2016-08-23 02:38:47][INFO][Chrome Thread1][KeyWords.java][131] - [By.className: already],元素可见!
+[2016-08-23 02:38:47][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(.,'满减券')]],元素可见!
+[2016-08-23 02:38:47][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(.,'红包')]],元素可见!
+[2016-08-23 02:38:47][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-23 02:38:47][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[contains(.,'加息券')]],元素可见!
+[2016-08-23 02:38:47][ERROR][Chrome Thread1][StringUtils.java][94] - balance期望值:35,000.00;与实际值:48.00不等！
+[2016-08-23 02:38:47][INFO][Chrome Thread1][StringUtils.java][90] - asset期望值:50,000.00;与实际值:50,000.00相等！
+[2016-08-23 02:38:47][INFO][Chrome Thread1][StringUtils.java][90] - exist_profit期望值:0.00;与实际值:0.00相等！
+[2016-08-23 02:38:47][ERROR][Chrome Thread1][StringUtils.java][94] - will_profit期望值:0.00;与实际值:182.63不等！
+[2016-08-23 02:38:47][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在bonus_not_use字段
+[2016-08-23 02:38:47][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在coupons_not_use字段
+[2016-08-23 02:38:47][ERROR][Chrome Thread1][StringUtils.java][94] - total_profit期望值:0.00;与实际值:182.63不等！
+[2016-08-23 02:38:47][ERROR][Chrome Thread1][StringUtils.java][94] - total_invest期望值:15,000.00;与实际值:49,952.00不等！
+[2016-08-23 02:38:47][ERROR][Chrome Thread1][StringUtils.java][102] - 期望值中不存在rate_coupons_not_use字段
+[2016-08-23 02:38:47][INFO][Chrome Thread1][StringUtils.java][90] - invite_partner期望值:0;与实际值:0相等！
+[2016-08-23 02:38:47][INFO][Chrome Thread1][StringUtils.java][90] - cash_loan期望值:0.00;与实际值:0.00相等！
+[2016-08-23 02:38:47][ERROR][Chrome Thread1][RYS001_Payment.java][161] - 【账户总览】页面字段校验失败
+[2016-08-23 02:49:01][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-23 02:49:01][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-23 02:49:07][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.102:8080/
+[2016-08-23 02:49:08][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-23 02:49:08][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-23 02:49:08][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-23 02:49:08][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-23 02:49:08][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-23 02:49:08][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-23 02:49:09][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-23 02:49:09][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-23 02:49:10][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-23 02:49:11][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-23 02:49:22][ERROR][Chrome Thread1][KeyWords.java][134] - [By.id: work_frame],元素不可见!
+[2016-08-23 02:49:23][ERROR][Chrome Thread1][KeyWords.java][153] - [By.id: work_frame],元素不存在!
+[2016-08-23 02:49:23][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: prjPay_prjName],元素可见!
+[2016-08-23 02:49:23][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.id: prjPay_prjName] to [ZYJ20160822004]
+[2016-08-23 02:49:23][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //form[@id='queryFormForPayWait']/table/tbody/tr/td[7]/a]
+[2016-08-23 02:49:25][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素可见!
+[2016-08-23 02:49:25][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素存在!
+[2016-08-23 02:49:25][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素可见!
+[2016-08-23 02:49:25][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[3]/div],元素可见!
+[2016-08-23 02:49:25][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[4]/div],元素可见!
+[2016-08-23 02:49:25][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[5]/div],元素可见!
+[2016-08-23 02:49:25][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[6]/div],元素可见!
+[2016-08-23 02:49:25][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[7]/div],元素可见!
+[2016-08-23 02:49:25][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[8]/div],元素可见!
+[2016-08-23 02:49:26][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[9]/div],元素可见!
+[2016-08-23 02:49:26][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[10]/div],元素可见!
+[2016-08-23 02:49:26][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[11]/div],元素可见!
+[2016-08-23 02:49:26][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[12]/div],元素可见!
+[2016-08-23 02:49:26][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[13]/div],元素可见!
+[2016-08-23 02:49:26][INFO][Chrome Thread1][StringUtils.java][90] - 投放站点期望值:鑫合汇;与实际值:鑫合汇相等！
+[2016-08-23 02:49:26][INFO][Chrome Thread1][StringUtils.java][90] - 确认书签约进度期望值:-;与实际值:-相等！
+[2016-08-23 02:49:26][INFO][Chrome Thread1][StringUtils.java][90] - 保证金/融资管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-23 02:49:26][ERROR][Chrome Thread1][StringUtils.java][94] - 收益期望值:69.83;与实际值:550.08不等！
+[2016-08-23 02:49:26][ERROR][Chrome Thread1][StringUtils.java][94] - 线上实际融资额期望值:100,000.00;与实际值:5,000.00不等！
+[2016-08-23 02:49:26][ERROR][Chrome Thread1][StringUtils.java][94] - 需支付额度期望值:100,000.00;与实际值:5,000.00不等！
+[2016-08-23 02:49:26][INFO][Chrome Thread1][StringUtils.java][90] - 查看子标期望值:无子标;与实际值:无子标相等！
+[2016-08-23 02:49:26][ERROR][Chrome Thread1][StringUtils.java][94] - 融资规模期望值:100,000.00;与实际值:5,000.00不等！
+[2016-08-23 02:49:26][INFO][Chrome Thread1][StringUtils.java][90] - 主合同进度期望值:-;与实际值:-相等！
+[2016-08-23 02:49:26][INFO][Chrome Thread1][StringUtils.java][90] - 转入方账户期望值:上海鑫合汇网络科技有限公司;与实际值:上海鑫合汇网络科技有限公司相等！
+[2016-08-23 02:49:26][INFO][Chrome Thread1][StringUtils.java][90] - 平台管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-23 02:49:26][ERROR][Chrome Thread1][StringUtils.java][94] - 项目名称期望值:RYS20160718001(订单数:0/5);与实际值:ZYJ20160822004(订单数:0/1)不等！
+[2016-08-23 02:49:26][ERROR][Chrome Thread1][RYS001_Payment.java][96] - 【项目放款】放款字段校验失败！
+[2016-08-23 02:49:26][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span]
+[2016-08-23 02:49:27][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素可见!
+[2016-08-23 02:49:27][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素存在!
+[2016-08-23 02:49:27][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: payAmount],元素可见!
+[2016-08-23 02:49:28][INFO][Chrome Thread1][RYS001_Payment.java][105] - 【项目放款】校验支付金额正确！
+[2016-08-23 02:49:28][INFO][Chrome Thread1][KeyWords.java][131] - [By.id: liushuihao],元素可见!
+[2016-08-23 02:49:28][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.id: liushuihao] to [127652771462]
+[2016-08-23 02:49:28][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[@id='pay_identity']/div[2]/a[1]/span/span]
+[2016-08-23 02:49:32][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: /html/body/div[9]/div[2]/div[2]],元素可见!
+[2016-08-23 02:49:32][INFO][Chrome Thread1][RYS001_Payment.java][117] - 【项目放款】支付完成！
+[2016-08-23 03:02:17][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-23 03:02:17][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-23 03:02:22][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.102:8080/
+[2016-08-23 03:02:23][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-23 03:02:23][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-23 03:02:23][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-23 03:02:23][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-23 03:02:23][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-23 03:02:24][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-23 03:02:25][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-23 03:02:25][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-23 03:02:25][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-23 03:02:26][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-23 03:02:38][ERROR][Chrome Thread1][KeyWords.java][134] - [By.id: work_frame],元素不可见!
+[2016-08-23 03:02:39][ERROR][Chrome Thread1][KeyWords.java][153] - [By.id: work_frame],元素不存在!
+[2016-08-23 03:06:33][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-23 03:06:33][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-23 03:06:38][INFO][Chrome Thread1][KeyWords.java][101] - open url - http://10.13.28.102:8080/
+[2016-08-23 03:06:39][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-23 03:06:39][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-23 03:06:39][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-23 03:06:39][INFO][Chrome Thread1][KeyWords.java][249] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-23 03:06:39][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-23 03:06:40][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-23 03:06:41][INFO][Chrome Thread1][KeyWords.java][131] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-23 03:06:41][INFO][Chrome Thread1][KeyWords.java][150] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-23 03:06:41][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-23 03:06:42][INFO][Chrome Thread1][KeyWords.java][211] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-23 03:06:54][ERROR][Chrome Thread1][KeyWords.java][134] - [By.id: work_frame],元素不可见!
+[2016-08-23 03:06:55][ERROR][Chrome Thread1][KeyWords.java][153] - [By.id: work_frame],元素不存在!

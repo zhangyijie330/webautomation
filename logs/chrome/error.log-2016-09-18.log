@@ -1,0 +1,46 @@
+2016-09-18 09:53:57,702 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //a[@id='user_name_link']],元素不可见!
+2016-09-18 09:55:15,866 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //a[@id='user_name_link']],元素不可见!
+2016-09-18 09:55:15,880 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:173)] [By.xpath: //a[@id='user_name_link']],元素不存在!
+2016-09-18 09:58:04,673 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: html/body/div[9]],元素不可见!
+2016-09-18 09:58:13,979 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:81)] 【放款申请】查询任务失败！
+2016-09-18 09:59:53,731 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素不可见!
+2016-09-18 10:00:56,494 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //form[@id='mainQueryForm']/table/tbody/tr[1]/td[2]/input],元素不可见!
+2016-09-18 10:01:57,534 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 年化利率期望值:8.1;与实际值:8不等！
+2016-09-18 10:01:57,534 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:6.98;与实际值:6.55不等！
+2016-09-18 10:01:57,538 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:89)] 字段信息校验失败！
+2016-09-18 10:07:13,343 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 年化利率期望值:8.1;与实际值:8不等！
+2016-09-18 10:07:13,344 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:6.98;与实际值:6.55不等！
+2016-09-18 10:07:13,348 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:89)] 字段信息校验失败！
+2016-09-18 10:07:35,440 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-18 10:07:36,511 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:97)] 【放款申请】上传附件失败！
+2016-09-18 10:09:12,975 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 年化利率期望值:8.1;与实际值:8不等！
+2016-09-18 10:09:12,976 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:6.98;与实际值:6.55不等！
+2016-09-18 10:09:12,979 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:89)] 字段信息校验失败！
+2016-09-18 10:09:33,759 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-18 10:09:34,833 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:97)] 【放款申请】上传附件失败！
+2016-09-18 10:11:09,469 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 年化利率期望值:8.1;与实际值:8不等！
+2016-09-18 10:11:09,470 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:6.98;与实际值:6.55不等！
+2016-09-18 10:11:09,474 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:89)] 字段信息校验失败！
+2016-09-18 10:11:28,888 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-18 10:11:39,973 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 年化利率期望值:8.1;与实际值:8不等！
+2016-09-18 10:11:39,973 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:6.98;与实际值:6.55不等！
+2016-09-18 10:11:39,976 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:89)] 字段信息校验失败！
+2016-09-18 10:11:56,176 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-18 10:11:57,249 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:97)] 【放款申请】上传附件失败！
+2016-09-18 10:13:39,400 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 年化利率期望值:8.1;与实际值:8不等！
+2016-09-18 10:13:39,401 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:6.98;与实际值:6.55不等！
+2016-09-18 10:13:39,404 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:89)] 字段信息校验失败！
+2016-09-18 10:14:00,315 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-18 10:14:01,398 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:97)] 【放款申请】上传附件失败！
+2016-09-18 10:15:33,845 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 年化利率期望值:8.1;与实际值:8不等！
+2016-09-18 10:15:33,846 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:6.98;与实际值:6.55不等！
+2016-09-18 10:15:33,849 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:89)] 字段信息校验失败！
+2016-09-18 10:15:53,969 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-18 10:16:04,986 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 年化利率期望值:8.1;与实际值:8不等！
+2016-09-18 10:16:04,986 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:6.98;与实际值:6.55不等！
+2016-09-18 10:16:04,989 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:89)] 字段信息校验失败！
+2016-09-18 10:16:19,955 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-18 10:16:31,065 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 年化利率期望值:8.1;与实际值:8不等！
+2016-09-18 10:16:31,066 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:6.98;与实际值:6.55不等！
+2016-09-18 10:16:31,069 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:89)] 字段信息校验失败！
+2016-09-18 10:16:45,880 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!

@@ -1,0 +1,5 @@
+2016-09-21 10:22:03,225 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.xpath: //tbody[@id='body_dataTable']/tr/td],元素不可见!
+2016-09-21 10:52:23,867 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:115)] 到期利息期望值:1817.39;与实际值:1817.45不等！
+2016-09-21 10:52:23,870 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:111)] 字段信息校验失败！
+2016-09-21 10:52:42,239 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:154)] [By.id: fileInput1TNYFDK],元素不可见!
+2016-09-21 10:52:43,339 ERROR [com.autotest.testcases.RYS009_Loanapplication.Test(RYS009_Loanapplication.java:120)] 【放款申请】上传附件失败！

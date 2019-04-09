@@ -1,0 +1,19 @@
+2016-09-07 10:50:26,053 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-07 10:50:40,250 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-07 10:50:40,656 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-07 10:50:49,025 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=-90000.00, 类型=项目支付, 摘要=项目 “YYS20160906004” 支付}
+2016-09-07 10:50:49,025 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=+35000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}
+2016-09-07 10:50:49,026 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=+48200.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}
+2016-09-07 10:50:49,026 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=+1000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}
+2016-09-07 10:50:49,026 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=+5000.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}
+2016-09-07 10:50:49,026 ERROR [com.autotest.service.bmpService.Loan.getdata(Loan.java:449)] 期望值列表中不存在实际值：{交易金额=+800.00, 类型=项目融资, 摘要=项目 “YYS20160906004” 融资}
+2016-09-07 10:50:49,026 ERROR [com.autotest.testcases.YYS003_Payment.Test(YYS003_Payment.java:231)] 【资金记录数据校验错误！】
+2016-09-07 11:10:35,506 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-07 11:10:48,917 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-07 11:10:49,326 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-07 11:12:29,280 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-07 11:12:41,357 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-07 11:12:41,793 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!
+2016-09-07 15:07:02,132 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@id='authCode']],元素不可见!
+2016-09-07 15:07:15,082 ERROR [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素不可见!
+2016-09-07 15:07:15,529 ERROR [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素不存在!

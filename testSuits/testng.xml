@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test-class Suite" parallel="tests" thread-count="1">
+
+<parameter name="runMode" value="remote" />
+ 	
+ 	<test name="Chrome_Test1">
+		<parameter name="threadName" value="Chrome Thread1" />
+   		<parameter name="browserName" value="chrome" />
+   		<parameter name="userCountVal" value="5" />
+   		<parameter name="startUserNoVal" value="6" />
+		<classes>
+			<!-- 注册 -->
+			<class name="com.autotest.testcases.UserRegistration"/>
+			<!-- 发布项目 -->
+  			<class name="com.autotest.testcases.Project_Release_YYS003"/>
+			<!-- 投资 -->
+            <class name="com.autotest.testcases.YYS003_UserInvest"/>
+			<!-- 生成还款计划 -->            
+            <class name="com.autotest.testcases.YYS003_GenPayPlan"/>
+			<!-- 支付 -->            
+            <class name="com.autotest.testcases.YYS003_Payment"/>
+            <!-- 展期还款生成还款计划 -->   
+            <class name="com.autotest.testcases.YYS003_ExtendRepay_GenPayPlan"/>
+			<!-- 还款 -->            
+            <class name="com.autotest.testcases.YYS003_Repay_Business"/>
+ 		</classes>
+ 	</test>
+   
+</suite>

@@ -1,0 +1,69 @@
+[2016-08-01 04:04:40][INFO][Firefox Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-01 04:04:40][INFO][Firefox Thread1][TestDriver.java][66] - Create a Driver, Browser:firefox
+[2016-08-01 04:05:00][INFO][Firefox Thread1][KeyWords.java][136] - [By.id: login_button],元素加载完成!
+[2016-08-01 04:05:00][INFO][Firefox Thread1][KeyWords.java][193] - Click on [By.id: login_button]
+[2016-08-01 04:05:00][INFO][Firefox Thread1][KeyWords.java][136] - [By.name: username],元素加载完成!
+[2016-08-01 04:05:01][INFO][Firefox Thread1][KeyWords.java][215] - Set the value of [By.name: username] to [18858158758]
+[2016-08-01 04:05:02][INFO][Firefox Thread1][KeyWords.java][136] - [By.name: pwd],元素加载完成!
+[2016-08-01 04:05:02][INFO][Firefox Thread1][KeyWords.java][215] - Set the value of [By.name: pwd] to [MARK142857]
+[2016-08-01 04:05:02][INFO][Firefox Thread1][KeyWords.java][136] - [By.id: normalSub],元素加载完成!
+[2016-08-01 04:05:02][INFO][Firefox Thread1][KeyWords.java][193] - Click on [By.id: normalSub]
+[2016-08-01 04:05:03][INFO][Firefox Thread1][KeyWords.java][143] - [By.linkText: 退出],等待元素加载中...
+[2016-08-01 04:05:05][INFO][Firefox Thread1][KeyWords.java][136] - [By.linkText: 退出],元素加载完成!
+[2016-08-01 04:05:05][INFO][Firefox Thread1][KeyWords.java][158] - [By.linkText: 退出],元素存在!
+[2016-08-01 04:05:05][INFO][Firefox Thread1][TestCase1.java][39] - login successfully
+[2016-08-01 04:05:06][INFO][Firefox Thread1][KeyWords.java][136] - [By.linkText: 退出],元素加载完成!
+[2016-08-01 04:05:06][INFO][Firefox Thread1][KeyWords.java][193] - Click on [By.linkText: 退出]
+[2016-08-01 04:05:08][INFO][Firefox Thread1][KeyWords.java][136] - [By.id: login_button],元素加载完成!
+[2016-08-01 04:05:08][INFO][Firefox Thread1][KeyWords.java][158] - [By.id: login_button],元素存在!
+[2016-08-01 04:05:08][INFO][Firefox Thread1][TestCase1.java][42] - logout successfully
+[2016-08-01 04:05:08][INFO][Firefox Thread1][TestDriver.java][84] - Driver with firefox is closed.
+[2016-08-01 04:05:10][INFO][Firefox Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-01 06:59:19][INFO][Firefox Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-01 06:59:19][INFO][Firefox Thread1][TestDriver.java][66] - Create a Driver, Browser:firefox
+[2016-08-01 06:59:47][INFO][Firefox Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-01 06:59:47][INFO][Firefox Thread1][TestDriver.java][66] - Create a Driver, Browser:firefox
+[2016-08-01 07:00:27][INFO][Firefox Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-01 07:00:27][INFO][Firefox Thread1][TestDriver.java][66] - Create a Driver, Browser:firefox
+[2016-08-01 07:03:09][INFO][Firefox Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-01 07:03:09][INFO][Firefox Thread1][TestDriver.java][66] - Create a Driver, Browser:firefox
+[2016-08-01 07:03:25][INFO][Firefox Thread1][KeyWords.java][115] - [By.id: login_button],元素加载完成!
+[2016-08-01 07:03:25][INFO][Firefox Thread1][KeyWords.java][166] - Click on [By.id: login_button]
+[2016-08-01 07:03:25][INFO][Firefox Thread1][KeyWords.java][115] - [By.name: username],元素加载完成!
+[2016-08-01 07:03:25][INFO][Firefox Thread1][KeyWords.java][181] - Set the value of [By.name: username] to [18858158758]
+[2016-08-01 07:03:26][INFO][Firefox Thread1][KeyWords.java][115] - [By.name: pwd],元素加载完成!
+[2016-08-01 07:03:26][INFO][Firefox Thread1][KeyWords.java][181] - Set the value of [By.name: pwd] to [MARK142857]
+[2016-08-01 07:03:26][INFO][Firefox Thread1][KeyWords.java][115] - [By.id: normalSub],元素加载完成!
+[2016-08-01 07:03:26][INFO][Firefox Thread1][KeyWords.java][166] - Click on [By.id: normalSub]
+[2016-08-01 07:03:27][INFO][Firefox Thread1][KeyWords.java][122] - [By.linkText: 退出],等待元素加载中...
+[2016-08-01 07:03:29][INFO][Firefox Thread1][KeyWords.java][115] - [By.linkText: 退出],元素加载完成!
+[2016-08-01 07:03:29][INFO][Firefox Thread1][KeyWords.java][137] - [By.linkText: 退出],元素存在!
+[2016-08-01 07:03:29][INFO][Firefox Thread1][TestCase1.java][39] - login successfully
+[2016-08-01 07:03:30][INFO][Firefox Thread1][KeyWords.java][115] - [By.linkText: 退出],元素加载完成!
+[2016-08-01 07:03:30][INFO][Firefox Thread1][KeyWords.java][166] - Click on [By.linkText: 退出]
+[2016-08-01 07:03:32][INFO][Firefox Thread1][KeyWords.java][115] - [By.id: login_button],元素加载完成!
+[2016-08-01 07:03:32][INFO][Firefox Thread1][KeyWords.java][137] - [By.id: login_button],元素存在!
+[2016-08-01 07:03:32][INFO][Firefox Thread1][TestCase1.java][42] - logout successfully
+[2016-08-01 07:03:32][INFO][Firefox Thread1][TestDriver.java][84] - Driver with firefox is closed.
+[2016-08-01 07:03:33][INFO][Firefox Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-01 07:04:12][INFO][Firefox Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-01 07:04:12][INFO][Firefox Thread1][TestDriver.java][66] - Create a Driver, Browser:firefox
+[2016-08-01 07:04:33][INFO][Firefox Thread1][KeyWords.java][115] - [By.id: login_button],元素加载完成!
+[2016-08-01 07:04:33][INFO][Firefox Thread1][KeyWords.java][166] - Click on [By.id: login_button]
+[2016-08-01 07:04:34][INFO][Firefox Thread1][KeyWords.java][115] - [By.name: username],元素加载完成!
+[2016-08-01 07:04:34][INFO][Firefox Thread1][KeyWords.java][181] - Set the value of [By.name: username] to [18858158758]
+[2016-08-01 07:04:34][INFO][Firefox Thread1][KeyWords.java][115] - [By.name: pwd],元素加载完成!
+[2016-08-01 07:04:35][INFO][Firefox Thread1][KeyWords.java][181] - Set the value of [By.name: pwd] to [MARK142857]
+[2016-08-01 07:04:35][INFO][Firefox Thread1][KeyWords.java][115] - [By.id: normalSub],元素加载完成!
+[2016-08-01 07:04:35][INFO][Firefox Thread1][KeyWords.java][166] - Click on [By.id: normalSub]
+[2016-08-01 07:04:36][INFO][Firefox Thread1][KeyWords.java][122] - [By.linkText: 退出],等待元素加载中...
+[2016-08-01 07:04:38][INFO][Firefox Thread1][KeyWords.java][115] - [By.linkText: 退出],元素加载完成!
+[2016-08-01 07:04:38][INFO][Firefox Thread1][KeyWords.java][137] - [By.linkText: 退出],元素存在!
+[2016-08-01 07:04:38][INFO][Firefox Thread1][TestCase1.java][39] - login successfully
+[2016-08-01 07:04:38][INFO][Firefox Thread1][KeyWords.java][115] - [By.linkText: 退出],元素加载完成!
+[2016-08-01 07:04:38][INFO][Firefox Thread1][KeyWords.java][166] - Click on [By.linkText: 退出]
+[2016-08-01 07:04:40][INFO][Firefox Thread1][KeyWords.java][115] - [By.id: login_button],元素加载完成!
+[2016-08-01 07:04:40][INFO][Firefox Thread1][KeyWords.java][137] - [By.id: login_button],元素存在!
+[2016-08-01 07:04:40][INFO][Firefox Thread1][TestCase1.java][42] - logout successfully
+[2016-08-01 07:04:40][INFO][Firefox Thread1][TestDriver.java][84] - Driver with firefox is closed.
+[2016-08-01 07:04:41][INFO][Firefox Thread1][TestDriver.java][95] - Open the ReportNG report.

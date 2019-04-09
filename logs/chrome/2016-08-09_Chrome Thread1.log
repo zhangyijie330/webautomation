@@ -1,0 +1,390 @@
+[2016-08-09 02:31:08][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-09 02:31:08][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-09 02:31:22][INFO][Chrome Thread1][KeyWords.java][95] - open url - http://10.13.28.102:8080/
+[2016-08-09 02:31:22][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-09 02:31:23][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-09 02:31:23][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-09 02:31:23][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-09 02:31:23][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-09 02:31:23][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-09 02:31:25][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-09 02:31:25][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-09 02:31:26][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-09 02:31:27][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-09 02:31:28][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: work_frame],元素可见!
+[2016-08-09 02:31:28][INFO][Chrome Thread1][KeyWords.java][141] - [By.id: work_frame],元素存在!
+[2016-08-09 02:31:28][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: prjPay_prjName],元素可见!
+[2016-08-09 02:31:29][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.id: prjPay_prjName] to [ZYJ20160809003]
+[2016-08-09 02:31:29][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //form[@id='queryFormForPayWait']/table/tbody/tr/td[7]/a]
+[2016-08-09 02:31:30][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素可见!
+[2016-08-09 02:31:30][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素存在!
+[2016-08-09 02:31:30][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素可见!
+[2016-08-09 02:31:30][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[3]/div],元素可见!
+[2016-08-09 02:31:30][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[4]/div],元素可见!
+[2016-08-09 02:31:31][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[5]/div],元素可见!
+[2016-08-09 02:31:31][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[6]/div],元素可见!
+[2016-08-09 02:31:31][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[7]/div],元素可见!
+[2016-08-09 02:31:31][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[8]/div],元素可见!
+[2016-08-09 02:31:31][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[9]/div],元素可见!
+[2016-08-09 02:31:31][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[10]/div],元素可见!
+[2016-08-09 02:31:31][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[11]/div],元素可见!
+[2016-08-09 02:31:31][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[12]/div],元素可见!
+[2016-08-09 02:31:32][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[13]/div],元素可见!
+[2016-08-09 02:31:32][INFO][Chrome Thread1][StringUtils.java][62] - 投放站点期望值:鑫合汇;与实际值:鑫合汇相等！
+[2016-08-09 02:31:32][INFO][Chrome Thread1][StringUtils.java][62] - 确认书签约进度期望值:-;与实际值:-相等！
+[2016-08-09 02:31:32][INFO][Chrome Thread1][StringUtils.java][62] - 保证金/融资管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-09 02:31:32][ERROR][Chrome Thread1][StringUtils.java][65] - 收益期望值:69.85;与实际值:27.93不等！
+[2016-08-09 02:31:32][ERROR][Chrome Thread1][StringUtils.java][65] - 线上实际融资额期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 02:31:32][ERROR][Chrome Thread1][StringUtils.java][65] - 需支付额度期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 02:31:32][INFO][Chrome Thread1][StringUtils.java][62] - 查看子标期望值:无子标;与实际值:无子标相等！
+[2016-08-09 02:31:32][ERROR][Chrome Thread1][StringUtils.java][65] - 融资规模期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 02:31:32][INFO][Chrome Thread1][StringUtils.java][62] - 主合同进度期望值:-;与实际值:-相等！
+[2016-08-09 02:31:32][INFO][Chrome Thread1][StringUtils.java][62] - 转入方账户期望值:上海鑫合汇网络科技有限公司;与实际值:上海鑫合汇网络科技有限公司相等！
+[2016-08-09 02:31:32][INFO][Chrome Thread1][StringUtils.java][62] - 平台管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-09 02:31:32][ERROR][Chrome Thread1][StringUtils.java][65] - 项目名称期望值:ZYJ20160809002(订单数:0/2);与实际值:ZYJ20160809003(订单数:0/1)不等！
+[2016-08-09 02:31:32][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a]
+[2016-08-09 02:31:33][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素可见!
+[2016-08-09 02:31:33][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素存在!
+[2016-08-09 02:31:33][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: payAmount],元素可见!
+[2016-08-09 02:31:33][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: liushuihao],元素可见!
+[2016-08-09 02:31:33][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.id: liushuihao] to [123456789012345678]
+[2016-08-09 02:31:34][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //div[@id='pay_identity']/div[2]/a[1]/span/span]
+[2016-08-09 02:31:34][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: processBar],元素可见!
+[2016-08-09 02:31:34][INFO][Chrome Thread1][KeyWords.java][141] - [By.id: processBar],元素存在!
+[2016-08-09 02:31:34][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-09 02:31:36][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-09 02:37:36][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-09 02:37:36][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-09 02:37:44][INFO][Chrome Thread1][KeyWords.java][95] - open url - http://10.13.28.102:8080/
+[2016-08-09 02:37:45][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-09 02:37:46][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-09 02:37:47][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-09 02:37:49][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-09 02:37:49][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-09 02:37:50][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-09 02:38:00][ERROR][Chrome Thread1][KeyWords.java][126] - [By.xpath: //a[@id='user_name_link']],元素不可见!
+[2016-08-09 02:38:03][ERROR][Chrome Thread1][KeyWords.java][144] - [By.xpath: //a[@id='user_name_link']],元素不存在!
+[2016-08-09 02:38:03][ERROR][Chrome Thread1][TestCase1_zyj.java][140] - 
+java.lang.Exception: 登录失败！
+	at com.autotest.service.bmpService.PubBmpService.login(PubBmpService.java:59)
+	at com.autotest.testcases.TestCase1_zyj.Test(TestCase1_zyj.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[2016-08-09 02:38:03][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-09 02:38:04][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-09 03:11:50][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-09 03:11:50][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-09 03:12:00][INFO][Chrome Thread1][KeyWords.java][95] - open url - http://10.13.28.102:8080/
+[2016-08-09 03:12:00][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-09 03:12:00][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-09 03:12:00][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-09 03:12:01][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-09 03:12:01][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-09 03:12:01][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-09 03:12:11][ERROR][Chrome Thread1][KeyWords.java][126] - [By.xpath: //a[@id='user_name_link']],元素不可见!
+[2016-08-09 03:12:14][ERROR][Chrome Thread1][KeyWords.java][144] - [By.xpath: //a[@id='user_name_link']],元素不存在!
+[2016-08-09 03:12:14][ERROR][Chrome Thread1][TestCase1_zyj.java][140] - 
+java.lang.Exception: 登录失败！
+	at com.autotest.service.bmpService.PubBmpService.login(PubBmpService.java:59)
+	at com.autotest.testcases.TestCase1_zyj.Test(TestCase1_zyj.java:31)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+[2016-08-09 03:12:14][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-09 03:12:15][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-09 03:12:29][INFO][Chrome Thread1][TestDriver.java][65] - ******************************************************************************
+[2016-08-09 03:12:29][INFO][Chrome Thread1][TestDriver.java][66] - Create a Driver, Browser:chrome
+[2016-08-09 03:12:36][INFO][Chrome Thread1][KeyWords.java][95] - open url - http://10.13.28.102:8080/
+[2016-08-09 03:12:36][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-09 03:12:37][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-09 03:12:37][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-09 03:12:37][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-09 03:12:38][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-09 03:12:38][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-09 03:12:39][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-09 03:12:39][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-09 03:12:39][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-09 03:12:40][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-09 03:12:43][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: work_frame],元素可见!
+[2016-08-09 03:12:43][INFO][Chrome Thread1][KeyWords.java][141] - [By.id: work_frame],元素存在!
+[2016-08-09 03:12:43][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: prjPay_prjName],元素可见!
+[2016-08-09 03:12:44][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.id: prjPay_prjName] to [ZYJ20160809005]
+[2016-08-09 03:12:44][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //form[@id='queryFormForPayWait']/table/tbody/tr/td[7]/a]
+[2016-08-09 03:12:45][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素可见!
+[2016-08-09 03:12:45][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素存在!
+[2016-08-09 03:12:45][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素可见!
+[2016-08-09 03:12:45][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[3]/div],元素可见!
+[2016-08-09 03:12:45][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[4]/div],元素可见!
+[2016-08-09 03:12:45][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[5]/div],元素可见!
+[2016-08-09 03:12:46][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[6]/div],元素可见!
+[2016-08-09 03:12:46][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[7]/div],元素可见!
+[2016-08-09 03:12:46][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[8]/div],元素可见!
+[2016-08-09 03:12:46][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[9]/div],元素可见!
+[2016-08-09 03:12:46][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[10]/div],元素可见!
+[2016-08-09 03:12:46][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[11]/div],元素可见!
+[2016-08-09 03:12:46][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[12]/div],元素可见!
+[2016-08-09 03:12:47][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[13]/div],元素可见!
+[2016-08-09 03:12:47][INFO][Chrome Thread1][StringUtils.java][62] - 投放站点期望值:鑫合汇;与实际值:鑫合汇相等！
+[2016-08-09 03:12:47][INFO][Chrome Thread1][StringUtils.java][62] - 确认书签约进度期望值:-;与实际值:-相等！
+[2016-08-09 03:12:47][INFO][Chrome Thread1][StringUtils.java][62] - 保证金/融资管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-09 03:12:47][ERROR][Chrome Thread1][StringUtils.java][65] - 收益期望值:69.85;与实际值:27.92不等！
+[2016-08-09 03:12:47][ERROR][Chrome Thread1][StringUtils.java][65] - 线上实际融资额期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 03:12:47][ERROR][Chrome Thread1][StringUtils.java][65] - 需支付额度期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 03:12:47][INFO][Chrome Thread1][StringUtils.java][62] - 查看子标期望值:无子标;与实际值:无子标相等！
+[2016-08-09 03:12:47][ERROR][Chrome Thread1][StringUtils.java][65] - 融资规模期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 03:12:47][INFO][Chrome Thread1][StringUtils.java][62] - 主合同进度期望值:-;与实际值:-相等！
+[2016-08-09 03:12:47][INFO][Chrome Thread1][StringUtils.java][62] - 转入方账户期望值:上海鑫合汇网络科技有限公司;与实际值:上海鑫合汇网络科技有限公司相等！
+[2016-08-09 03:12:47][INFO][Chrome Thread1][StringUtils.java][62] - 平台管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-09 03:12:47][ERROR][Chrome Thread1][StringUtils.java][65] - 项目名称期望值:ZYJ20160809002(订单数:0/2);与实际值:ZYJ20160809005(订单数:0/2)不等！
+[2016-08-09 03:12:47][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a]
+[2016-08-09 03:12:48][INFO][Chrome Thread1][KeyWords.java][123] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素可见!
+[2016-08-09 03:12:48][INFO][Chrome Thread1][KeyWords.java][141] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素存在!
+[2016-08-09 03:12:48][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: payAmount],元素可见!
+[2016-08-09 03:12:48][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: liushuihao],元素可见!
+[2016-08-09 03:12:48][INFO][Chrome Thread1][KeyWords.java][200] - Set the value of [By.id: liushuihao] to [123456789012345678]
+[2016-08-09 03:12:48][INFO][Chrome Thread1][KeyWords.java][185] - Click on [By.xpath: //div[@id='pay_identity']/div[2]/a[1]/span/span]
+[2016-08-09 03:12:49][INFO][Chrome Thread1][KeyWords.java][123] - [By.id: processBar],元素可见!
+[2016-08-09 03:12:49][INFO][Chrome Thread1][KeyWords.java][141] - [By.id: processBar],元素存在!
+[2016-08-09 03:12:49][INFO][Chrome Thread1][TestDriver.java][84] - Driver with chrome is closed.
+[2016-08-09 03:12:50][INFO][Chrome Thread1][TestDriver.java][95] - Open the ReportNG report.
+[2016-08-09 03:42:39][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-09 03:42:39][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-09 03:42:45][INFO][Chrome Thread1][KeyWords.java][96] - open url - http://10.13.28.102:8080/
+[2016-08-09 03:42:45][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-09 03:42:47][INFO][Chrome Thread1][KeyWords.java][239] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-09 03:42:47][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-09 03:42:48][INFO][Chrome Thread1][KeyWords.java][239] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-09 03:42:48][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-09 03:42:48][INFO][Chrome Thread1][KeyWords.java][189] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-09 03:42:49][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-09 03:42:50][INFO][Chrome Thread1][KeyWords.java][145] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-09 03:42:50][INFO][Chrome Thread1][KeyWords.java][189] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-09 03:42:51][INFO][Chrome Thread1][KeyWords.java][189] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-09 03:42:54][INFO][Chrome Thread1][KeyWords.java][126] - [By.id: work_frame],元素可见!
+[2016-08-09 03:42:54][INFO][Chrome Thread1][KeyWords.java][145] - [By.id: work_frame],元素存在!
+[2016-08-09 03:42:54][INFO][Chrome Thread1][KeyWords.java][126] - [By.id: prjPay_prjName],元素可见!
+[2016-08-09 03:42:54][INFO][Chrome Thread1][KeyWords.java][239] - Set the value of [By.id: prjPay_prjName] to [ZYJ20160809006]
+[2016-08-09 03:42:54][INFO][Chrome Thread1][KeyWords.java][189] - Click on [By.xpath: //form[@id='queryFormForPayWait']/table/tbody/tr/td[7]/a]
+[2016-08-09 03:42:55][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素可见!
+[2016-08-09 03:42:55][INFO][Chrome Thread1][KeyWords.java][145] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素存在!
+[2016-08-09 03:42:56][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素可见!
+[2016-08-09 03:42:56][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[3]/div],元素可见!
+[2016-08-09 03:42:56][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[4]/div],元素可见!
+[2016-08-09 03:42:56][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[5]/div],元素可见!
+[2016-08-09 03:42:56][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[6]/div],元素可见!
+[2016-08-09 03:42:56][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[7]/div],元素可见!
+[2016-08-09 03:42:56][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[8]/div],元素可见!
+[2016-08-09 03:42:56][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[9]/div],元素可见!
+[2016-08-09 03:42:57][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[10]/div],元素可见!
+[2016-08-09 03:42:57][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[11]/div],元素可见!
+[2016-08-09 03:42:57][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[12]/div],元素可见!
+[2016-08-09 03:42:57][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[13]/div],元素可见!
+[2016-08-09 03:42:57][INFO][Chrome Thread1][StringUtils.java][62] - 投放站点期望值:鑫合汇;与实际值:鑫合汇相等！
+[2016-08-09 03:42:57][INFO][Chrome Thread1][StringUtils.java][62] - 确认书签约进度期望值:-;与实际值:-相等！
+[2016-08-09 03:42:57][INFO][Chrome Thread1][StringUtils.java][62] - 保证金/融资管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-09 03:42:57][ERROR][Chrome Thread1][StringUtils.java][65] - 收益期望值:69.85;与实际值:27.93不等！
+[2016-08-09 03:42:57][ERROR][Chrome Thread1][StringUtils.java][65] - 线上实际融资额期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 03:42:57][ERROR][Chrome Thread1][StringUtils.java][65] - 需支付额度期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 03:42:57][INFO][Chrome Thread1][StringUtils.java][62] - 查看子标期望值:无子标;与实际值:无子标相等！
+[2016-08-09 03:42:57][ERROR][Chrome Thread1][StringUtils.java][65] - 融资规模期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 03:42:57][INFO][Chrome Thread1][StringUtils.java][62] - 主合同进度期望值:-;与实际值:-相等！
+[2016-08-09 03:42:57][INFO][Chrome Thread1][StringUtils.java][62] - 转入方账户期望值:上海鑫合汇网络科技有限公司;与实际值:上海鑫合汇网络科技有限公司相等！
+[2016-08-09 03:42:57][INFO][Chrome Thread1][StringUtils.java][62] - 平台管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-09 03:42:57][ERROR][Chrome Thread1][StringUtils.java][65] - 项目名称期望值:ZYJ20160809002(订单数:0/2);与实际值:ZYJ20160809006(订单数:0/1)不等！
+[2016-08-09 03:42:57][INFO][Chrome Thread1][KeyWords.java][189] - Click on [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a]
+[2016-08-09 03:43:01][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素可见!
+[2016-08-09 03:43:01][INFO][Chrome Thread1][KeyWords.java][145] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素存在!
+[2016-08-09 03:43:01][INFO][Chrome Thread1][KeyWords.java][126] - [By.id: payAmount],元素可见!
+[2016-08-09 03:43:01][INFO][Chrome Thread1][KeyWords.java][126] - [By.id: liushuihao],元素可见!
+[2016-08-09 03:43:02][INFO][Chrome Thread1][KeyWords.java][239] - Set the value of [By.id: liushuihao] to [123456789012345678]
+[2016-08-09 03:43:02][INFO][Chrome Thread1][KeyWords.java][189] - Click on [By.xpath: //div[@id='pay_identity']/div[2]/a[1]/span/span]
+[2016-08-09 03:43:18][ERROR][Chrome Thread1][KeyWords.java][129] - [By.xpath: /html/body/div[9]/div[2]/div[2]/a],元素不可见!
+[2016-08-09 03:43:18][ERROR][Chrome Thread1][TestCase1_zyj.java][139] - 
+org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=/html/body/div[9]/div[2]/div[2]/a}
+Session ID: 719fe8601e99f7106a71a3829d3f020c
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir6356_2059}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+Command duration or timeout: 404 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=/html/body/div[9]/div[2]/div[2]/a}
+Session ID: 55789487-9e58-4f23-974b-ed1309f68d42
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir6356_2059}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, webdriver.remote.sessionid=55789487-9e58-4f23-974b-ed1309f68d42, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at com.autotest.driver.KeyWords.getText(KeyWords.java:276)
+	at com.autotest.testcases.TestCase1_zyj.Test(TestCase1_zyj.java:126)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:702)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:894)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1219)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:768)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.openqa.selenium.remote.ScreenshotException: Screen shot has been taken
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: RemoteWebDriver
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:138)
+	... 27 more
+Caused by: org.openqa.selenium.NoSuchElementException: no such element
+  (Session info: chrome=48.0.2564.116)
+  (Driver info: chromedriver=2.13.307647 (5a7d0541ebc58e69994a6fb2ed930f45261f3c29),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 11 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+*** Element info: {Using=xpath, value=/html/body/div[9]/div[2]/div[2]/a}
+Session ID: 719fe8601e99f7106a71a3829d3f020c
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\wb0005\AppData\Local\Temp\scoped_dir6356_2059}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=48.0.2564.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, applicationCacheEnabled=false, takesScreenshot=true}]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b', time: '2016-03-15 17:00:58'
+System info: host: 'WB0005-1', ip: '10.15.168.57', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.7.0_51'
+Driver info: driver.version: EventFiringWebDriver
+	at sun.reflect.GeneratedConstructorAccessor12.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:500)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:103)
+	at com.sun.proxy.$Proxy1.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:188)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:48)
+	at org.openqa.selenium.remote.server.handler.FindElement.call(FindElement.java:1)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at org.openqa.selenium.remote.server.DefaultSession$1.run(DefaultSession.java:176)
+	... 3 more
+[2016-08-09 03:43:18][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-09 03:43:20][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.
+[2016-08-09 04:42:33][INFO][Chrome Thread1][TestDriver.java][96] - ******************************************************************************
+[2016-08-09 04:42:33][INFO][Chrome Thread1][TestDriver.java][97] - Create a Driver, Browser:chrome
+[2016-08-09 04:42:39][INFO][Chrome Thread1][KeyWords.java][96] - open url - http://10.13.28.102:8080/
+[2016-08-09 04:42:40][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //input[@id='userNo']],元素可见!
+[2016-08-09 04:42:40][INFO][Chrome Thread1][KeyWords.java][245] - Set the value of [By.xpath: //input[@id='userNo']] to [wb005]
+[2016-08-09 04:42:40][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //input[@id='pwd']],元素可见!
+[2016-08-09 04:42:40][INFO][Chrome Thread1][KeyWords.java][245] - Set the value of [By.xpath: //input[@id='pwd']] to [upg2015]
+[2016-08-09 04:42:40][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //input[@id='mi']],元素可见!
+[2016-08-09 04:42:41][INFO][Chrome Thread1][KeyWords.java][207] - Click on [By.xpath: //input[@id='login_btn']]
+[2016-08-09 04:42:42][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //a[@id='user_name_link']],元素可见!
+[2016-08-09 04:42:42][INFO][Chrome Thread1][KeyWords.java][145] - [By.xpath: //a[@id='user_name_link']],元素存在!
+[2016-08-09 04:42:42][INFO][Chrome Thread1][KeyWords.java][207] - Click on [By.xpath: //div[contains(text(),'财务管理')]]
+[2016-08-09 04:42:43][INFO][Chrome Thread1][KeyWords.java][207] - Click on [By.xpath: //ul[@id='menu189']/li[1]/div/span[3]]
+[2016-08-09 04:42:49][INFO][Chrome Thread1][KeyWords.java][126] - [By.id: work_frame],元素可见!
+[2016-08-09 04:42:49][INFO][Chrome Thread1][KeyWords.java][145] - [By.id: work_frame],元素存在!
+[2016-08-09 04:42:49][INFO][Chrome Thread1][KeyWords.java][126] - [By.id: prjPay_prjName],元素可见!
+[2016-08-09 04:42:49][INFO][Chrome Thread1][KeyWords.java][245] - Set the value of [By.id: prjPay_prjName] to [ZYJ20160809007]
+[2016-08-09 04:42:49][INFO][Chrome Thread1][KeyWords.java][207] - Click on [By.xpath: //form[@id='queryFormForPayWait']/table/tbody/tr/td[7]/a]
+[2016-08-09 04:42:51][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素可见!
+[2016-08-09 04:42:51][INFO][Chrome Thread1][KeyWords.java][145] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a/span],元素存在!
+[2016-08-09 04:42:51][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[2]/div],元素可见!
+[2016-08-09 04:42:51][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[3]/div],元素可见!
+[2016-08-09 04:42:51][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[4]/div],元素可见!
+[2016-08-09 04:42:51][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[5]/div],元素可见!
+[2016-08-09 04:42:51][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[6]/div],元素可见!
+[2016-08-09 04:42:51][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[7]/div],元素可见!
+[2016-08-09 04:42:52][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[8]/div],元素可见!
+[2016-08-09 04:42:52][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[9]/div],元素可见!
+[2016-08-09 04:42:52][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[10]/div],元素可见!
+[2016-08-09 04:42:52][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[11]/div],元素可见!
+[2016-08-09 04:42:52][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[12]/div],元素可见!
+[2016-08-09 04:42:52][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[13]/div],元素可见!
+[2016-08-09 04:42:52][INFO][Chrome Thread1][StringUtils.java][62] - 投放站点期望值:鑫合汇;与实际值:鑫合汇相等！
+[2016-08-09 04:42:52][INFO][Chrome Thread1][StringUtils.java][62] - 确认书签约进度期望值:-;与实际值:-相等！
+[2016-08-09 04:42:52][INFO][Chrome Thread1][StringUtils.java][62] - 保证金/融资管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-09 04:42:52][ERROR][Chrome Thread1][StringUtils.java][65] - 收益期望值:69.85;与实际值:27.92不等！
+[2016-08-09 04:42:52][ERROR][Chrome Thread1][StringUtils.java][65] - 线上实际融资额期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 04:42:52][ERROR][Chrome Thread1][StringUtils.java][65] - 需支付额度期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 04:42:52][INFO][Chrome Thread1][StringUtils.java][62] - 查看子标期望值:无子标;与实际值:无子标相等！
+[2016-08-09 04:42:52][ERROR][Chrome Thread1][StringUtils.java][65] - 融资规模期望值:100,000.00;与实际值:10,000.00不等！
+[2016-08-09 04:42:52][INFO][Chrome Thread1][StringUtils.java][62] - 主合同进度期望值:-;与实际值:-相等！
+[2016-08-09 04:42:52][INFO][Chrome Thread1][StringUtils.java][62] - 转入方账户期望值:上海鑫合汇网络科技有限公司;与实际值:上海鑫合汇网络科技有限公司相等！
+[2016-08-09 04:42:52][INFO][Chrome Thread1][StringUtils.java][62] - 平台管理费期望值:0.00;与实际值:0.00相等！
+[2016-08-09 04:42:52][ERROR][Chrome Thread1][StringUtils.java][65] - 项目名称期望值:ZYJ20160809002(订单数:0/2);与实际值:ZYJ20160809007(订单数:0/2)不等！
+[2016-08-09 04:42:52][INFO][Chrome Thread1][KeyWords.java][207] - Click on [By.xpath: //tr[@id='tr_dataTableForPayWait_0']/td[1]/div/a]
+[2016-08-09 04:42:53][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素可见!
+[2016-08-09 04:42:53][INFO][Chrome Thread1][KeyWords.java][145] - [By.xpath: //form[@id='riskCreditAddForm']/table/tbody/tr[2]/td[1]],元素存在!
+[2016-08-09 04:42:54][INFO][Chrome Thread1][KeyWords.java][126] - [By.id: payAmount],元素可见!
+[2016-08-09 04:42:54][INFO][Chrome Thread1][KeyWords.java][126] - [By.id: liushuihao],元素可见!
+[2016-08-09 04:42:54][INFO][Chrome Thread1][KeyWords.java][245] - Set the value of [By.id: liushuihao] to [123456789012345678]
+[2016-08-09 04:42:54][INFO][Chrome Thread1][KeyWords.java][207] - Click on [By.xpath: //div[@id='pay_identity']/div[2]/a[1]/span/span]
+[2016-08-09 04:42:58][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: /html/body/div[9]/div[2]/div[2]],元素可见!
+[2016-08-09 04:42:58][INFO][Chrome Thread1][KeyWords.java][510] - EXPECTED STRING: "项目支付完成".
+[2016-08-09 04:42:58][INFO][Chrome Thread1][KeyWords.java][511] - ACTUAL STRING: "项目支付完成".
+[2016-08-09 04:42:58][INFO][Chrome Thread1][KeyWords.java][207] - Click on [By.xpath: /html/body/div[9]/div[2]/div[4]/a]
+[2016-08-09 04:42:58][INFO][Chrome Thread1][KeyWords.java][126] - [By.xpath: //tbody[@id='body_dataTableForPayWait']/tr/td/div],元素可见!
+[2016-08-09 04:42:58][INFO][Chrome Thread1][TestDriver.java][109] - Driver with chrome is closed.
+[2016-08-09 04:42:59][INFO][Chrome Thread1][TestDriver.java][120] - Open the ReportNG report.

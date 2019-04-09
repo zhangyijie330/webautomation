@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project name="autotest" default= "run-testng" basedir="." >
+    <property name="base.dir" value="${basedir}"/>
+    <property name="testng.output.dir" value="${base.dir}/test-output"/>
+    <property name="lib.dir" value="${base.dir}/lib"/>
+    <property name="bat.dir" value="${base.dir}/bat"/>
+    <property name="suite.dir" value="${base.dir}/testSuits"/>
+    <property name="testng.file" value="*.xml"/>
+ 
+    <taskdef resource="testngtasks" classpath="${lib.dir}/testng-6.8.7.jar"/>
+ 
+    <target name="clean">
+        <delete dir="${base.dir}/bin"/>
+    </target>
+	
+    <target name="compile" depends="clean">
+        <mkdir dir="${base.dir}/bin"/>
+        <javac srcdir="${base.dir}/src" destdir="${base.dir}/bin" classpathref="classes" includeantruntime="off" debug="on" debuglevel="lines,vars,source" encoding="UTF-8"/>
+    </target>
+ 
+    <path id="classes">
+        <fileset dir="${lib.dir}" includes="*jar"/>
+        <fileset dir="${lib.dir}" includes="*zip"/>
+        <pathelement location="${base.dir}/bin"/>
+    </path>
+ 		
+	<target name="run-testng" description="执行TestNG测试用例" depends="compile" unless="server.down">
+        <testng classpathref="classes"
+        	outputdir="${testng.output.dir}"
+			useDefaultListeners="false"   
+			listeners="com.autotest.utility.Reporter" >
+        	<!--设置TestNg所包含的xml文件-->  
+            <xmlfileset dir="${suite.dir}" includes="${testng.file}"/>
+        	<!--设置报告Title名称 -->  			
+			<sysproperty key="org.uncommons.reportng.title" value="Autotest Report" />
+			<sysproperty key="org.uncommons.reportng.locale" value="en_US" />
+        	<sysproperty key="file.encoding" value="UTF-8" />
+			<jvmarg value="-server" />
+			<jvmarg value="-Xmn256m" />
+			<jvmarg value="-Xms1024m" />
+			<jvmarg value="-Xmx1024m" />
+			<jvmarg value="-XX:PermSize=128m" />
+			<jvmarg value="-XX:MaxPermSize=256m" />	
+        </testng>
+    </target>
+	
+</project>

@@ -1,0 +1,180 @@
+2016-10-12 20:01:31,507 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:115)] ******************************************************************************
+2016-10-12 20:01:32,175 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:116)] Create a Driver, Browser:chrome
+2016-10-12 20:01:37,729 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select distinct * from product_temp,product_repay_plan where product_temp.product_name=product_repay_plan.name and stage != '募集期' and product_temp.product_id='YYS004'] Successfully!
+2016-10-12 20:01:37,819 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select product_name from product_temp where product_id='YYS004'] Successfully!
+2016-10-12 20:01:37,839 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select product_no from product_temp where product_id='YYS004'] Successfully!
+2016-10-12 20:01:37,859 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select user_temp.uid,user_product.invest_amount from user_temp left join user_product on user_product.user_number=user_temp.user_number where product_number='YYS004'] Successfully!
+2016-10-12 20:01:37,869 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from user where id='1744' and platform='http://test9.xinhehui.com/'] Successfully!
+2016-10-12 20:01:37,869 INFO [com.autotest.testcases.YYS004_Repay_Business.toRepayBusiness(YYS004_Repay_Business.java:303)] 【查看用户:14052438220】相关信息：
+2016-10-12 20:01:42,587 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:121)] open url - http://test9.xinhehui.com/
+2016-10-12 20:01:43,041 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //a[@id='login_button']]
+2016-10-12 20:01:43,747 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='username']],元素可见!
+2016-10-12 20:01:43,871 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@name='username']] to [14052438220]
+2016-10-12 20:01:43,980 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='pwd']],元素可见!
+2016-10-12 20:01:44,107 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+2016-10-12 20:01:44,137 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='username']],元素可见!
+2016-10-12 20:01:44,210 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='pwd']],元素可见!
+2016-10-12 20:01:44,380 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //input[@id='normalSub']]
+2016-10-12 20:01:47,413 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-10-12 20:01:47,455 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-10-12 20:01:47,515 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素可见!
+2016-10-12 20:01:47,545 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素存在!
+2016-10-12 20:01:47,645 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[@id='imptWrap']/span]
+2016-10-12 20:01:47,645 INFO [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:364)] 14052438220登录鑫合汇主站成功！
+2016-10-12 20:01:47,667 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from user_acct where uid=1744] Successfully!
+2016-10-12 20:01:47,817 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //a[text()='账户总览']]
+2016-10-12 20:01:49,924 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //li[@class='assets'][1]/p],元素可见!
+2016-10-12 20:01:50,074 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //li[@class='assets'][2]/p],元素可见!
+2016-10-12 20:01:50,174 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //li[@class='assets'][3]/p],元素可见!
+2016-10-12 20:01:50,274 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //li[@class='assets'][4]/p],元素可见!
+2016-10-12 20:01:50,384 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.className: total],元素可见!
+2016-10-12 20:01:50,484 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.className: wait],元素可见!
+2016-10-12 20:01:50,574 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.className: already],元素可见!
+2016-10-12 20:01:50,684 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(.,'满减券')]],元素可见!
+2016-10-12 20:01:50,784 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(.,'红包')]],元素可见!
+2016-10-12 20:01:50,884 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(.,'加息券')]],元素可见!
+2016-10-12 20:01:50,985 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(.,'加息券')]],元素可见!
+2016-10-12 20:01:51,025 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] balance期望值:41750.97;与实际值:41750.96不等！
+2016-10-12 20:01:51,025 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] asset期望值:50958.83;与实际值:50958.82不等！
+2016-10-12 20:01:51,025 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] exist_profit期望值:611.84;与实际值:958.82不等！
+2016-10-12 20:01:51,025 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] will_profit期望值:514.15;与实际值:514.14不等！
+2016-10-12 20:01:51,025 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] bonus_not_use期望值:0.00;与实际值:0.00相等！
+2016-10-12 20:01:51,025 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] coupons_not_use期望值:0.00;与实际值:0.00相等！
+2016-10-12 20:01:51,025 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] total_profit期望值:1472.98;与实际值:1472.96不等！
+2016-10-12 20:01:51,025 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] total_invest期望值:9207.86;与实际值:9207.86相等！
+2016-10-12 20:01:51,025 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] rate_coupons_not_use期望值:0;与实际值:0相等！
+2016-10-12 20:01:51,025 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] invite_partner期望值:0;与实际值:0相等！
+2016-10-12 20:01:51,025 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] cash_loan期望值:0.00;与实际值:0.00相等！
+2016-10-12 20:01:51,025 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:372)] 【账户总览页面字段校验】失败
+2016-10-12 20:01:51,045 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select * from finance_record where finance_type='回款' and uid='1744' and date='2016-11-14'] Successfully!
+2016-10-12 20:01:53,297 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[@id='datepicker']/div/button[2]]
+2016-10-12 20:01:54,325 INFO [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:389)] 【回款日历】校验成功
+2016-10-12 20:01:54,499 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.linkText: 投资管理]
+2016-10-12 20:01:58,323 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.linkText: 所有]
+2016-10-12 20:01:58,334 INFO [com.autotest.utility.DbUtil.getCount(DbUtil.java:285)] Get Result count:3
+2016-10-12 20:01:59,451 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.cssSelector: .ui-record-table>tbody],元素可见!
+2016-10-12 20:01:59,482 INFO [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:402)] 【理财记录】校验记录条数成功
+2016-10-12 20:01:59,502 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from invest_record where uid=1744 and code='YYS20161012003'] Successfully!
+2016-10-12 20:01:59,542 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]],元素可见!
+2016-10-12 20:01:59,562 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[contains(text(),'YYS20161012003')]],元素存在!
+2016-10-12 20:01:59,592 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]],元素可见!
+2016-10-12 20:02:00,023 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]/ancestor::td/preceding-sibling::td/p],元素可见!
+2016-10-12 20:02:00,113 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]/ancestor::td/following-sibling::td/span[@class='orange']],元素可见!
+2016-10-12 20:02:00,213 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]/ancestor::td/following-sibling::td/div[@class='prel envelopes_parent']],元素可见!
+2016-10-12 20:02:00,323 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]/ancestor::td/following-sibling::td[4]],元素可见!
+2016-10-12 20:02:00,383 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] invest_amount期望值:10000.00;与实际值:10000.00相等！
+2016-10-12 20:02:00,383 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] profit期望值:611.84;与实际值:611.83不等！
+2016-10-12 20:02:00,383 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] status期望值:还款中1/12;与实际值:还款中
+1/12不等！
+2016-10-12 20:02:00,383 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] repay_date期望值:2016-12-14;与实际值:2016-12-14相等！
+2016-10-12 20:02:00,383 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] code期望值:YYS20161012003;与实际值:YYS20161012003相等！
+2016-10-12 20:02:00,383 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:415)] 【理财记录】校验数据失败
+2016-10-12 20:02:00,543 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.linkText: 资金记录]
+2016-10-12 20:02:00,559 INFO [com.autotest.utility.DbUtil.getCount(DbUtil.java:285)] Get Result count:17
+2016-10-12 20:02:02,718 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.cssSelector: .ui-record-table>tbody],元素可见!
+2016-10-12 20:02:02,807 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:425)] 【资金记录】校验记录条数失败
+2016-10-12 20:02:03,065 INFO [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:426)] Screenshot path: E:\12345\web_automation\snapshot\Chrome Thread1_20161012200202.jpg
+2016-10-12 20:02:03,083 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from finance_record where date='2016-11-14' and uid='1744' and code='YYS20161012003'] Successfully!
+2016-10-12 20:02:03,101 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from finance_record where date='2016-11-14' and uid='1744' and code='YYS20161012003'] Successfully!
+2016-10-12 20:02:03,150 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[1]/span],元素可见!
+2016-10-12 20:02:03,271 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[2]],元素可见!
+2016-10-12 20:02:03,369 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[3]/em],元素可见!
+2016-10-12 20:02:03,494 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[4]],元素可见!
+2016-10-12 20:02:03,594 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='ajaxContent_Payment_PayAccount_getMyMoneyList']/div/table/tbody/tr[1]/td[5]],元素可见!
+2016-10-12 20:02:03,654 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] 交易金额期望值:+889.83;与实际值:+889.83相等！
+2016-10-12 20:02:03,654 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] 账户余额期望值:41750.97;与实际值:41750.96不等！
+2016-10-12 20:02:03,654 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] 类型期望值:回款;与实际值:回款相等！
+2016-10-12 20:02:03,654 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] 时间期望值:2016-11-14;与实际值:2016-11-14相等！
+2016-10-12 20:02:03,654 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] 摘要期望值:项目“YYS20161012003” 回款;与实际值:项目“YYS20161012003” 回款相等！
+2016-10-12 20:02:03,654 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:434)] 【资金记录】校验数据失败
+2016-10-12 20:02:03,894 INFO [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:436)] Screenshot path: E:\12345\web_automation\snapshot\Chrome Thread1_20161012200203.jpg
+2016-10-12 20:02:04,025 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //a[contains(@href,'/Account/User/Logout')]]
+2016-10-12 20:02:04,866 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[@id='login_button']],元素可见!
+2016-10-12 20:02:04,898 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[@id='login_button']],元素存在!
+2016-10-12 20:02:04,898 INFO [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:441)] logout successfully
+2016-10-12 20:02:04,899 INFO [com.autotest.testcases.YYS004_Repay_Business.toRepayBusiness(YYS004_Repay_Business.java:309)] 【检验用户:14052438220】信息失败！
+2016-10-12 20:02:04,929 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from user where id='1745' and platform='http://test9.xinhehui.com/'] Successfully!
+2016-10-12 20:02:04,929 INFO [com.autotest.testcases.YYS004_Repay_Business.toRepayBusiness(YYS004_Repay_Business.java:303)] 【查看用户:18738396510】相关信息：
+2016-10-12 20:02:05,540 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:121)] open url - http://test9.xinhehui.com/
+2016-10-12 20:02:05,688 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //a[@id='login_button']]
+2016-10-12 20:02:06,335 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='username']],元素可见!
+2016-10-12 20:02:06,454 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@name='username']] to [18738396510]
+2016-10-12 20:02:06,525 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='pwd']],元素可见!
+2016-10-12 20:02:06,653 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+2016-10-12 20:02:06,683 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='username']],元素可见!
+2016-10-12 20:02:06,758 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='pwd']],元素可见!
+2016-10-12 20:02:06,908 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //input[@id='normalSub']]
+2016-10-12 20:02:30,420 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:115)] ******************************************************************************
+2016-10-12 20:02:30,424 INFO [com.autotest.driver.TestDriver.createDriver(TestDriver.java:116)] Create a Driver, Browser:chrome
+2016-10-12 20:02:34,023 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select distinct * from product_temp,product_repay_plan where product_temp.product_name=product_repay_plan.name and stage != '募集期' and product_temp.product_id='YYS004'] Successfully!
+2016-10-12 20:02:34,063 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select product_name from product_temp where product_id='YYS004'] Successfully!
+2016-10-12 20:02:34,073 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select product_no from product_temp where product_id='YYS004'] Successfully!
+2016-10-12 20:02:34,133 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select user_temp.uid,user_product.invest_amount from user_temp left join user_product on user_product.user_number=user_temp.user_number where product_number='YYS004'] Successfully!
+2016-10-12 20:02:34,193 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from user where id='1744' and platform='http://test9.xinhehui.com/'] Successfully!
+2016-10-12 20:02:34,193 INFO [com.autotest.testcases.YYS004_Repay_Business.toRepayBusiness(YYS004_Repay_Business.java:303)] 【查看用户:14052438220】相关信息：
+2016-10-12 20:02:37,809 INFO [com.autotest.driver.KeyWords.open(KeyWords.java:121)] open url - http://test9.xinhehui.com/
+2016-10-12 20:02:38,069 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //a[@id='login_button']]
+2016-10-12 20:02:38,718 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='username']],元素可见!
+2016-10-12 20:02:38,827 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@name='username']] to [14052438220]
+2016-10-12 20:02:38,918 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='pwd']],元素可见!
+2016-10-12 20:02:39,049 INFO [com.autotest.driver.KeyWords.setValue(KeyWords.java:327)] Set the value of [By.xpath: //input[@name='pwd']] to [a111111]
+2016-10-12 20:02:39,076 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='username']],元素可见!
+2016-10-12 20:02:39,145 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //input[@name='pwd']],元素可见!
+2016-10-12 20:02:39,315 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //input[@id='normalSub']]
+2016-10-12 20:02:41,752 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素可见!
+2016-10-12 20:02:41,783 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[contains(@href,'/Account/User/Logout')]],元素存在!
+2016-10-12 20:02:41,833 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //div[@id='imptWrap']/span],元素可见!
+2016-10-12 20:02:41,863 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //div[@id='imptWrap']/span],元素存在!
+2016-10-12 20:02:41,963 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[@id='imptWrap']/span]
+2016-10-12 20:02:41,963 INFO [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:364)] 14052438220登录鑫合汇主站成功！
+2016-10-12 20:02:41,976 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from user_acct where uid=1744] Successfully!
+2016-10-12 20:02:42,119 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //a[text()='账户总览']]
+2016-10-12 20:02:44,180 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //li[@class='assets'][1]/p],元素可见!
+2016-10-12 20:02:44,290 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //li[@class='assets'][2]/p],元素可见!
+2016-10-12 20:02:44,396 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //li[@class='assets'][3]/p],元素可见!
+2016-10-12 20:02:44,496 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //li[@class='assets'][4]/p],元素可见!
+2016-10-12 20:02:44,616 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.className: total],元素可见!
+2016-10-12 20:02:44,716 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.className: wait],元素可见!
+2016-10-12 20:02:44,816 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.className: already],元素可见!
+2016-10-12 20:02:44,916 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(.,'满减券')]],元素可见!
+2016-10-12 20:02:45,026 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(.,'红包')]],元素可见!
+2016-10-12 20:02:45,126 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(.,'加息券')]],元素可见!
+2016-10-12 20:02:45,226 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(.,'加息券')]],元素可见!
+2016-10-12 20:02:45,287 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] balance期望值:41750.97;与实际值:41750.96不等！
+2016-10-12 20:02:45,287 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] asset期望值:50958.83;与实际值:50958.82不等！
+2016-10-12 20:02:45,287 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] exist_profit期望值:611.84;与实际值:958.82不等！
+2016-10-12 20:02:45,287 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] will_profit期望值:514.15;与实际值:514.14不等！
+2016-10-12 20:02:45,287 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] bonus_not_use期望值:0.00;与实际值:0.00相等！
+2016-10-12 20:02:45,287 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] coupons_not_use期望值:0.00;与实际值:0.00相等！
+2016-10-12 20:02:45,287 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] total_profit期望值:1472.98;与实际值:1472.96不等！
+2016-10-12 20:02:45,287 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] total_invest期望值:9207.86;与实际值:9207.86相等！
+2016-10-12 20:02:45,287 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] rate_coupons_not_use期望值:0;与实际值:0相等！
+2016-10-12 20:02:45,287 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] invite_partner期望值:0;与实际值:0相等！
+2016-10-12 20:02:45,287 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] cash_loan期望值:0.00;与实际值:0.00相等！
+2016-10-12 20:02:45,287 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:372)] 【账户总览页面字段校验】失败
+2016-10-12 20:02:45,307 INFO [com.autotest.utility.DbUtil.queryDataList(DbUtil.java:141)] Query with SQL - [select * from finance_record where finance_type='回款' and uid='1744' and date='2016-11-14'] Successfully!
+2016-10-12 20:02:47,557 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.xpath: //div[@id='datepicker']/div/button[2]]
+2016-10-12 20:02:48,583 INFO [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:389)] 【回款日历】校验成功
+2016-10-12 20:02:48,755 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.linkText: 投资管理]
+2016-10-12 20:02:50,020 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.linkText: 所有]
+2016-10-12 20:02:50,071 INFO [com.autotest.utility.DbUtil.getCount(DbUtil.java:285)] Get Result count:3
+2016-10-12 20:02:51,179 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.cssSelector: .ui-record-table>tbody],元素可见!
+2016-10-12 20:02:51,210 INFO [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:402)] 【理财记录】校验记录条数成功
+2016-10-12 20:02:51,230 INFO [com.autotest.utility.DbUtil.querySingleData(DbUtil.java:101)] Query with SQL - [select * from invest_record where uid=1744 and code='YYS20161012003'] Successfully!
+2016-10-12 20:02:51,270 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]],元素可见!
+2016-10-12 20:02:51,300 INFO [com.autotest.driver.KeyWords.isElementExist(KeyWords.java:170)] [By.xpath: //a[contains(text(),'YYS20161012003')]],元素存在!
+2016-10-12 20:02:51,340 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]],元素可见!
+2016-10-12 20:02:51,430 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]/ancestor::td/preceding-sibling::td/p],元素可见!
+2016-10-12 20:02:51,530 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]/ancestor::td/following-sibling::td/span[@class='orange']],元素可见!
+2016-10-12 20:02:51,640 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]/ancestor::td/following-sibling::td/div[@class='prel envelopes_parent']],元素可见!
+2016-10-12 20:02:51,741 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.xpath: //a[contains(text(),'YYS20161012003')]/ancestor::td/following-sibling::td[4]],元素可见!
+2016-10-12 20:02:51,801 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] invest_amount期望值:10000.00;与实际值:10000.00相等！
+2016-10-12 20:02:51,801 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] profit期望值:611.84;与实际值:611.83不等！
+2016-10-12 20:02:51,801 ERROR [com.autotest.utility.StringUtils.isEquals(StringUtils.java:116)] status期望值:还款中1/12;与实际值:还款中
+1/12不等！
+2016-10-12 20:02:51,801 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] repay_date期望值:2016-12-14;与实际值:2016-12-14相等！
+2016-10-12 20:02:51,801 INFO [com.autotest.utility.StringUtils.isEquals(StringUtils.java:112)] code期望值:YYS20161012003;与实际值:YYS20161012003相等！
+2016-10-12 20:02:51,801 ERROR [com.autotest.testcases.YYS004_Repay_Business.checkUser(YYS004_Repay_Business.java:415)] 【理财记录】校验数据失败
+2016-10-12 20:02:51,972 INFO [com.autotest.driver.KeyWords.click(KeyWords.java:265)] Click on [By.linkText: 资金记录]
+2016-10-12 20:03:49,307 INFO [com.autotest.utility.DbUtil.getCount(DbUtil.java:285)] Get Result count:17
+2016-10-12 20:06:55,872 INFO [com.autotest.driver.KeyWords.isElementVisible(KeyWords.java:151)] [By.cssSelector: .ui-record-table>tbody],元素可见!
